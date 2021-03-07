@@ -12278,14 +12278,14 @@
             "gold": 2,
             "silver": 4
         },
-        "total_points": 147,
+        "total_points": 146,
         "total_points_in_upper_league": 0,
-        "total_sum": "13230808",
+        "total_sum": "13230807",
         "tracks": {
             "Android Alley": {
                 "medal": null,
-                "points": 1.0,
-                "result": "1"
+                "points": 0,
+                "result": "0"
             },
             "Assembly Lane": {
                 "medal": null,
