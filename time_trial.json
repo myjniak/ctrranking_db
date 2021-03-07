@@ -1577,18 +1577,18 @@
         "league": 4,
         "medals": {
             "bronze": 0,
-            "gold": 1,
+            "gold": 2,
             "silver": 0
         },
-        "total_points": 36,
+        "total_points": 47,
         "total_points_in_upper_league": 0,
-        "total_sum": "85:32.12",
+        "total_sum": "85:18.15",
         "total_time": "85:32.12",
         "tracks": {
             "Android Alley": {
-                "medal": null,
-                "points": 0,
-                "result": "2:47.60"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "2:34.02"
             },
             "Assembly Lane": {
                 "medal": null,
@@ -1732,8 +1732,8 @@
             },
             "Roo's Tubes": {
                 "medal": null,
-                "points": 4.0,
-                "result": "1:17.16"
+                "points": 5.0,
+                "result": "1:16.77"
             },
             "Sewer Speedway": {
                 "medal": null,
@@ -4101,14 +4101,14 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 25,
+        "total_points": 24,
         "total_points_in_upper_league": 0,
         "total_sum": "117:17.92",
         "total_time": "117:17.92",
         "tracks": {
             "Android Alley": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:38.89"
             },
             "Assembly Lane": {
@@ -5460,7 +5460,7 @@
             "gold": 1,
             "silver": 4
         },
-        "total_points": 96,
+        "total_points": 95,
         "total_points_in_upper_league": 5,
         "total_sum": "82:28.51",
         "total_time": "82:28.51",
@@ -5468,7 +5468,7 @@
             "Android Alley": {
                 "medal": null,
                 "place": 7122,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "2:38.59"
             },
             "Assembly Lane": {
@@ -6404,18 +6404,18 @@
         "league": 4,
         "medals": {
             "bronze": 3,
-            "gold": 8,
-            "silver": 5
+            "gold": 7,
+            "silver": 6
         },
-        "total_points": 186,
+        "total_points": 183,
         "total_points_in_upper_league": 5,
         "total_sum": "78:39.16",
         "total_time": "78:39.16",
         "tracks": {
             "Android Alley": {
-                "medal": "gold",
+                "medal": "silver",
                 "place": 65094,
-                "points": 10.0,
+                "points": 8.0,
                 "result": "2:34.22"
             },
             "Assembly Lane": {
@@ -6587,7 +6587,7 @@
             "Roo's Tubes": {
                 "medal": null,
                 "place": 16791,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:16.80"
             },
             "Sewer Speedway": {
@@ -8264,7 +8264,7 @@
             "gold": 1,
             "silver": 1
         },
-        "total_points": 52,
+        "total_points": 51,
         "total_points_in_upper_league": 6,
         "total_sum": "82:56.35",
         "total_time": "82:56.35",
@@ -8272,7 +8272,7 @@
             "Android Alley": {
                 "medal": null,
                 "place": 10238,
-                "points": 1.0,
+                "points": 0,
                 "result": "2:39.72"
             },
             "Assembly Lane": {
@@ -12888,14 +12888,14 @@
             "gold": 3,
             "silver": 3
         },
-        "total_points": 133,
+        "total_points": 132,
         "total_points_in_upper_league": 4,
         "total_sum": "79:24.85",
         "total_time": "79:24.85",
         "tracks": {
             "Android Alley": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "2:39.65"
             },
             "Assembly Lane": {
@@ -13097,7 +13097,7 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 66,
+        "total_points": 65,
         "total_points_in_upper_league": 0,
         "total_sum": "83:04.22",
         "total_time": "83:04.22",
@@ -13105,7 +13105,7 @@
             "Android Alley": {
                 "medal": null,
                 "place": 66029,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:37.89"
             },
             "Assembly Lane": {
@@ -14741,19 +14741,19 @@
     "naruciak1234": {
         "league": 4,
         "medals": {
-            "bronze": 0,
+            "bronze": 1,
             "gold": 0,
-            "silver": 1
+            "silver": 0
         },
-        "total_points": 30,
+        "total_points": 28,
         "total_points_in_upper_league": 0,
         "total_sum": "97:42.13",
         "total_time": "97:42.13",
         "tracks": {
             "Android Alley": {
-                "medal": "silver",
+                "medal": "bronze",
                 "place": 4786,
-                "points": 8.0,
+                "points": 6.0,
                 "result": "2:37.42"
             },
             "Assembly Lane": {
@@ -14987,19 +14987,19 @@
     "peteer_parker": {
         "league": 4,
         "medals": {
-            "bronze": 5,
+            "bronze": 4,
             "gold": 8,
             "silver": 2
         },
-        "total_points": 167,
+        "total_points": 166,
         "total_points_in_upper_league": 18,
         "total_sum": "81:55.55",
         "total_time": "81:55.55",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
+                "medal": null,
                 "place": 30557,
-                "points": 6.0,
+                "points": 5.0,
                 "result": "2:37.55"
             },
             "Assembly Lane": {
