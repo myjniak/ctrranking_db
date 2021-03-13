@@ -1539,10 +1539,10 @@
         "league": 1,
         "medals": {
             "bronze": 9,
-            "gold": 11,
-            "silver": 10
+            "gold": 10,
+            "silver": 11
         },
-        "total_points": 279,
+        "total_points": 277,
         "total_points_in_upper_league": 0,
         "total_sum": "69:41.85",
         "total_time": "69:41.85",
@@ -1602,9 +1602,9 @@
                 "result": "1:34.82"
             },
             "Dingo Canyon": {
-                "medal": "gold",
+                "medal": "silver",
                 "place": 1485,
-                "points": 10.0,
+                "points": 8.0,
                 "result": "1:25.51"
             },
             "Dragon Mines": {
@@ -2694,11 +2694,11 @@
     "Greg": {
         "league": 2,
         "medals": {
-            "bronze": 4,
+            "bronze": 5,
             "gold": 4,
-            "silver": 4
+            "silver": 3
         },
-        "total_points": 165,
+        "total_points": 163,
         "total_points_in_upper_league": 0,
         "total_sum": "72:14.92",
         "total_time": "72:14.92",
@@ -2754,8 +2754,8 @@
                 "result": "1:28.69"
             },
             "Dragon Mines": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "1:16.66"
             },
             "Drive-Thru Danger": {
@@ -2903,13 +2903,13 @@
     "Gustlyk1": {
         "league": 2,
         "medals": {
-            "bronze": 4,
-            "gold": 13,
+            "bronze": 3,
+            "gold": 16,
             "silver": 11
         },
-        "total_points": 289,
+        "total_points": 304,
         "total_points_in_upper_league": 3,
-        "total_sum": "71:31.58",
+        "total_sum": "71:28.52",
         "total_time": "71:36.41",
         "tracks": {
             "Android Alley": {
@@ -2952,7 +2952,7 @@
                 "medal": "gold",
                 "place": 33024,
                 "points": 10.0,
-                "result": "1:50.21"
+                "result": "1:49.51"
             },
             "Crash Cove": {
                 "medal": null,
@@ -2973,10 +2973,10 @@
                 "result": "1:28.22"
             },
             "Dragon Mines": {
-                "medal": null,
+                "medal": "gold",
                 "place": 18069,
-                "points": 5.0,
-                "result": "1:17.27"
+                "points": 10.0,
+                "result": "1:16.41"
             },
             "Drive-Thru Danger": {
                 "medal": "gold",
@@ -3020,10 +3020,10 @@
                 "result": "1:13.44"
             },
             "Koala Carnival": {
-                "medal": null,
+                "medal": "gold",
                 "place": 23835,
-                "points": 4.0,
-                "result": "1:39.00"
+                "points": 10.0,
+                "result": "1:38.40"
             },
             "Megamix Mania": {
                 "medal": "gold",
@@ -3055,10 +3055,10 @@
                 "result": "1:49.06"
             },
             "Out of Time": {
-                "medal": "bronze",
+                "medal": "gold",
                 "place": 17337,
-                "points": 6.0,
-                "result": "1:51.11"
+                "points": 10.0,
+                "result": "1:50.21"
             },
             "Oxide Station": {
                 "medal": "gold",
@@ -3359,12 +3359,12 @@
         "league": 2,
         "medals": {
             "bronze": 12,
-            "gold": 6,
+            "gold": 5,
             "silver": 9
         },
-        "total_points": 253,
+        "total_points": 248,
         "total_points_in_upper_league": 0,
-        "total_sum": "71:47.33",
+        "total_sum": "71:47.23",
         "total_time": "71:54.63",
         "tracks": {
             "Android Alley": {
@@ -3400,7 +3400,7 @@
             "Cortex Castle": {
                 "medal": "silver",
                 "points": 8.0,
-                "result": "1:50.24"
+                "result": "1:50.14"
             },
             "Crash Cove": {
                 "medal": "gold",
@@ -3418,8 +3418,8 @@
                 "result": "1:27.38"
             },
             "Dragon Mines": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "1:16.97"
             },
             "Drive-Thru Danger": {
@@ -3458,8 +3458,8 @@
                 "result": "1:13.80"
             },
             "Koala Carnival": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "1:38.60"
             },
             "Megamix Mania": {
@@ -3488,8 +3488,8 @@
                 "result": "1:48.57"
             },
             "Out of Time": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "1:50.71"
             },
             "Oxide Station": {
@@ -4758,9 +4758,9 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 127,
+        "total_points": 128,
         "total_points_in_upper_league": 0,
-        "total_sum": "70:08.75",
+        "total_sum": "70:08.45",
         "total_time": "70:16.30",
         "tracks": {
             "Android Alley": {
@@ -4805,8 +4805,8 @@
             },
             "Deep Sea Driving": {
                 "medal": null,
-                "points": 1.0,
-                "result": "1:36.99"
+                "points": 2.0,
+                "result": "1:36.69"
             },
             "Dingo Canyon": {
                 "medal": null,
@@ -5176,7 +5176,7 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 50,
+        "total_points": 49,
         "total_points_in_upper_league": 0,
         "total_sum": "70:43.31",
         "total_time": "70:43.31",
@@ -5232,7 +5232,7 @@
             "Deep Sea Driving": {
                 "medal": null,
                 "place": 191,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:36.93"
             },
             "Dingo Canyon": {
@@ -8714,11 +8714,11 @@
     "Oskiboski1948": {
         "league": 2,
         "medals": {
-            "bronze": 2,
+            "bronze": 1,
             "gold": 0,
             "silver": 1
         },
-        "total_points": 41,
+        "total_points": 40,
         "total_points_in_upper_league": 0,
         "total_sum": "74:40.14",
         "total_time": "74:40.14",
@@ -8814,8 +8814,8 @@
                 "result": "1:15.64"
             },
             "Koala Carnival": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "1:38.83"
             },
             "Megamix Mania": {
@@ -11026,11 +11026,11 @@
     "Wajsia": {
         "league": 2,
         "medals": {
-            "bronze": 4,
-            "gold": 12,
-            "silver": 6
+            "bronze": 5,
+            "gold": 10,
+            "silver": 7
         },
-        "total_points": 245,
+        "total_points": 239,
         "total_points_in_upper_league": 3,
         "total_sum": "71:49.29",
         "total_time": "71:49.29",
@@ -11096,9 +11096,9 @@
                 "result": "1:27.68"
             },
             "Dragon Mines": {
-                "medal": "gold",
+                "medal": "silver",
                 "place": 456,
-                "points": 10.0,
+                "points": 8.0,
                 "result": "1:16.44"
             },
             "Drive-Thru Danger": {
@@ -11143,9 +11143,9 @@
                 "result": "1:13.30"
             },
             "Koala Carnival": {
-                "medal": "gold",
+                "medal": "silver",
                 "place": 275,
-                "points": 10.0,
+                "points": 8.0,
                 "result": "1:38.46"
             },
             "Megamix Mania": {
@@ -11178,9 +11178,9 @@
                 "result": "1:47.34"
             },
             "Out of Time": {
-                "medal": "silver",
+                "medal": "bronze",
                 "place": 655,
-                "points": 8.0,
+                "points": 6.0,
                 "result": "1:50.97"
             },
             "Oxide Station": {
@@ -14006,7 +14006,7 @@
             "gold": 3,
             "silver": 5
         },
-        "total_points": 193,
+        "total_points": 192,
         "total_points_in_upper_league": 0,
         "total_sum": "72:16.81",
         "total_time": "72:39.35",
@@ -14103,7 +14103,7 @@
             },
             "Koala Carnival": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:38.90"
             },
             "Megamix Mania": {
@@ -14703,11 +14703,11 @@
     "myjniak": {
         "league": 1,
         "medals": {
-            "bronze": 5,
+            "bronze": 6,
             "gold": 0,
-            "silver": 8
+            "silver": 7
         },
-        "total_points": 164,
+        "total_points": 162,
         "total_points_in_upper_league": 0,
         "total_sum": "69:59.84",
         "total_time": "70:02.81",
@@ -14767,9 +14767,9 @@
                 "result": "1:35.86"
             },
             "Dingo Canyon": {
-                "medal": "silver",
+                "medal": "bronze",
                 "place": 2268,
-                "points": 8.0,
+                "points": 6.0,
                 "result": "1:25.58"
             },
             "Dragon Mines": {
@@ -15687,13 +15687,13 @@
     "poco_mi_kumpel": {
         "league": 1,
         "medals": {
-            "bronze": 5,
-            "gold": 24,
+            "bronze": 4,
+            "gold": 25,
             "silver": 5
         },
-        "total_points": 319,
+        "total_points": 323,
         "total_points_in_upper_league": 0,
-        "total_sum": "68:59.96",
+        "total_sum": "68:51.31",
         "total_time": "68:59.96",
         "tracks": {
             "Android Alley": {
@@ -15724,7 +15724,7 @@
             "Coco Park": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "1:11.74"
+                "result": "1:05.83"
             },
             "Cortex Castle": {
                 "medal": "silver",
@@ -15742,9 +15742,9 @@
                 "result": "1:35.46"
             },
             "Dingo Canyon": {
-                "medal": "bronze",
-                "points": 6.0,
-                "result": "1:25.65"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "1:23.31"
             },
             "Dragon Mines": {
                 "medal": "gold",
@@ -15814,7 +15814,7 @@
             "Nina's Nightmare": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "1:40.30"
+                "result": "1:39.90"
             },
             "Out of Time": {
                 "medal": "bronze",
