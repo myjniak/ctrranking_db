@@ -2694,11 +2694,11 @@
     "Greg": {
         "league": 2,
         "medals": {
-            "bronze": 5,
-            "gold": 4,
-            "silver": 3
+            "bronze": 4,
+            "gold": 3,
+            "silver": 4
         },
-        "total_points": 163,
+        "total_points": 159,
         "total_points_in_upper_league": 0,
         "total_sum": "72:14.92",
         "total_time": "72:14.92",
@@ -2764,8 +2764,8 @@
                 "result": "1:50.59"
             },
             "Electron Avenue": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "3:01.89"
             },
             "Gingerbread Joyride": {
@@ -2815,7 +2815,7 @@
             },
             "N.Gin Labs": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "2:11.79"
             },
             "Nina's Nightmare": {
@@ -2894,8 +2894,8 @@
                 "result": "1:31.89"
             },
             "Twilight Tour": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "2:10.84"
             }
         }
@@ -2903,13 +2903,13 @@
     "Gustlyk1": {
         "league": 2,
         "medals": {
-            "bronze": 3,
-            "gold": 16,
+            "bronze": 4,
+            "gold": 17,
             "silver": 11
         },
-        "total_points": 304,
+        "total_points": 312,
         "total_points_in_upper_league": 3,
-        "total_sum": "71:28.52",
+        "total_sum": "71:26.08",
         "total_time": "71:36.41",
         "tracks": {
             "Android Alley": {
@@ -2984,10 +2984,10 @@
                 "result": "1:47.04"
             },
             "Electron Avenue": {
-                "medal": null,
+                "medal": "bronze",
                 "place": 12850,
-                "points": 5.0,
-                "result": "3:02.44"
+                "points": 6.0,
+                "result": "3:01.58"
             },
             "Gingerbread Joyride": {
                 "medal": "silver",
@@ -3127,10 +3127,10 @@
                 "result": "2:54.67"
             },
             "Tiny Temple": {
-                "medal": "bronze",
+                "medal": "gold",
                 "place": 35814,
-                "points": 5.5,
-                "result": "1:38.80"
+                "points": 10.0,
+                "result": "1:38.26"
             },
             "Turbo Track": {
                 "medal": "silver",
@@ -3139,10 +3139,10 @@
                 "result": "1:30.72"
             },
             "Twilight Tour": {
-                "medal": null,
+                "medal": "bronze",
                 "place": 20147,
-                "points": 4.0,
-                "result": "2:12.23"
+                "points": 6.0,
+                "result": "2:11.19"
             }
         }
     },
@@ -3358,11 +3358,11 @@
     "Hansuu93": {
         "league": 2,
         "medals": {
-            "bronze": 12,
+            "bronze": 10,
             "gold": 5,
             "silver": 9
         },
-        "total_points": 248,
+        "total_points": 245,
         "total_points_in_upper_league": 0,
         "total_sum": "71:47.23",
         "total_time": "71:54.63",
@@ -3439,7 +3439,7 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 3.5,
+                "points": 3.0,
                 "result": "2:12.09"
             },
             "Hyper Spaceway": {
@@ -3548,8 +3548,8 @@
                 "result": "2:56.17"
             },
             "Tiny Temple": {
-                "medal": "bronze",
-                "points": 5.5,
+                "medal": null,
+                "points": 4.0,
                 "result": "1:38.80"
             },
             "Turbo Track": {
@@ -3558,8 +3558,8 @@
                 "result": "1:30.42"
             },
             "Twilight Tour": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "2:11.63"
             }
         }
@@ -8718,7 +8718,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 40,
+        "total_points": 39,
         "total_points_in_upper_league": 0,
         "total_sum": "74:40.14",
         "total_time": "74:40.14",
@@ -8775,7 +8775,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:18.57"
             },
             "Drive-Thru Danger": {
@@ -10539,7 +10539,7 @@
             "silver": 2
         },
         "total_points": 90,
-        "total_points_in_upper_league": 12,
+        "total_points_in_upper_league": 11,
         "total_sum": "80:46.19",
         "total_time": "80:46.19",
         "tracks": {
@@ -11027,10 +11027,10 @@
         "league": 2,
         "medals": {
             "bronze": 5,
-            "gold": 10,
-            "silver": 7
+            "gold": 9,
+            "silver": 8
         },
-        "total_points": 239,
+        "total_points": 235,
         "total_points_in_upper_league": 3,
         "total_sum": "71:49.29",
         "total_time": "71:49.29",
@@ -11250,9 +11250,9 @@
                 "result": "2:52.47"
             },
             "Tiny Temple": {
-                "medal": "gold",
+                "medal": "silver",
                 "place": 402,
-                "points": 10.0,
+                "points": 7.0,
                 "result": "1:38.29"
             },
             "Turbo Track": {
@@ -11264,7 +11264,7 @@
             "Twilight Tour": {
                 "medal": null,
                 "place": 461,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:12.06"
             }
         }
@@ -12641,7 +12641,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 76,
+        "total_points": 73,
         "total_points_in_upper_league": 0,
         "total_sum": "72:55.61",
         "total_time": "72:57.15",
@@ -12758,7 +12758,7 @@
             },
             "N.Gin Labs": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "2:11.36"
             },
             "Nina's Nightmare": {
@@ -12793,7 +12793,7 @@
             },
             "Roo's Tubes": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:15.90"
             },
             "Sewer Speedway": {
@@ -12828,7 +12828,7 @@
             },
             "Tiny Temple": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:39.40"
             },
             "Turbo Track": {
@@ -13758,9 +13758,9 @@
         "medals": {
             "bronze": 3,
             "gold": 1,
-            "silver": 4
+            "silver": 3
         },
-        "total_points": 156,
+        "total_points": 150,
         "total_points_in_upper_league": 0,
         "total_sum": "72:18.98",
         "total_time": "72:18.98",
@@ -13828,7 +13828,7 @@
             "Dragon Mines": {
                 "medal": null,
                 "place": 2910,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:18.64"
             },
             "Drive-Thru Danger": {
@@ -13851,7 +13851,7 @@
             "Hot Air Skyway": {
                 "medal": null,
                 "place": 1730,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:11.63"
             },
             "Hyper Spaceway": {
@@ -13863,7 +13863,7 @@
             "Inferno Island": {
                 "medal": null,
                 "place": 883,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:33.79"
             },
             "Jungle Boogie": {
@@ -13980,9 +13980,9 @@
                 "result": "3:02.48"
             },
             "Tiny Temple": {
-                "medal": "silver",
+                "medal": null,
                 "place": 1773,
-                "points": 8.0,
+                "points": 5.0,
                 "result": "1:38.63"
             },
             "Turbo Track": {
@@ -14003,12 +14003,12 @@
         "league": 2,
         "medals": {
             "bronze": 10,
-            "gold": 3,
+            "gold": 4,
             "silver": 5
         },
-        "total_points": 192,
+        "total_points": 209,
         "total_points_in_upper_league": 0,
-        "total_sum": "72:16.81",
+        "total_sum": "72:11.99",
         "total_time": "72:39.35",
         "tracks": {
             "Android Alley": {
@@ -14063,8 +14063,8 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 0,
-                "result": "1:18.91"
+                "points": 4.0,
+                "result": "1:17.71"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -14083,8 +14083,8 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 3.5,
-                "result": "2:12.09"
+                "points": 5.0,
+                "result": "2:11.09"
             },
             "Hyper Spaceway": {
                 "medal": "bronze",
@@ -14123,8 +14123,8 @@
             },
             "N.Gin Labs": {
                 "medal": null,
-                "points": 1.0,
-                "result": "2:11.89"
+                "points": 4.0,
+                "result": "2:11.20"
             },
             "Nina's Nightmare": {
                 "medal": null,
@@ -14158,8 +14158,8 @@
             },
             "Roo's Tubes": {
                 "medal": null,
-                "points": 0,
-                "result": "1:15.93"
+                "points": 2.0,
+                "result": "1:15.50"
             },
             "Sewer Speedway": {
                 "medal": null,
@@ -14192,9 +14192,9 @@
                 "result": "3:03.35"
             },
             "Tiny Temple": {
-                "medal": null,
-                "points": 2.0,
-                "result": "1:39.43"
+                "medal": "silver",
+                "points": 7.0,
+                "result": "1:38.29"
             },
             "Turbo Track": {
                 "medal": null,
@@ -14202,9 +14202,9 @@
                 "result": "1:32.39"
             },
             "Twilight Tour": {
-                "medal": "silver",
-                "points": 8.0,
-                "result": "2:10.89"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "2:10.53"
             }
         }
     },
@@ -14216,7 +14216,7 @@
             "silver": 4
         },
         "total_points": 188,
-        "total_points_in_upper_league": 18,
+        "total_points_in_upper_league": 17,
         "total_sum": "74:52.21",
         "total_time": "74:52.21",
         "tracks": {
@@ -15445,9 +15445,9 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 47,
+        "total_points": 46,
         "total_points_in_upper_league": 0,
-        "total_sum": "73:13.02",
+        "total_sum": "73:10.98",
         "total_time": "73:16.32",
         "tracks": {
             "Android Alley": {
@@ -15513,7 +15513,7 @@
             "Dragon Mines": {
                 "medal": null,
                 "place": 8055,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:18.61"
             },
             "Drive-Thru Danger": {
@@ -15524,8 +15524,8 @@
             "Electron Avenue": {
                 "medal": null,
                 "place": 68944,
-                "points": 0,
-                "result": "3:06.99"
+                "points": 1.0,
+                "result": "3:05.31"
             },
             "Gingerbread Joyride": {
                 "medal": null,
@@ -15548,8 +15548,8 @@
             "Inferno Island": {
                 "medal": null,
                 "place": 21969,
-                "points": 1.0,
-                "result": "1:33.87"
+                "points": 3.0,
+                "result": "1:33.52"
             },
             "Jungle Boogie": {
                 "medal": null,
@@ -15583,7 +15583,7 @@
             "N.Gin Labs": {
                 "medal": null,
                 "place": 24126,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:11.73"
             },
             "Nina's Nightmare": {
@@ -15625,7 +15625,7 @@
             "Roo's Tubes": {
                 "medal": null,
                 "place": 25192,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:15.77"
             },
             "Sewer Speedway": {
@@ -15650,7 +15650,7 @@
                 "medal": null,
                 "place": 60542,
                 "points": 1.0,
-                "result": "1:56.65"
+                "result": "1:56.64"
             },
             "Tiger Temple": {
                 "medal": null,
@@ -15667,7 +15667,7 @@
             "Tiny Temple": {
                 "medal": null,
                 "place": 55198,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:39.36"
             },
             "Turbo Track": {
@@ -15901,7 +15901,7 @@
             "silver": 10
         },
         "total_points": 212,
-        "total_points_in_upper_league": 19,
+        "total_points_in_upper_league": 17,
         "total_sum": "73:58.33",
         "total_time": "73:58.33",
         "tracks": {
@@ -16392,7 +16392,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 55,
+        "total_points": 52,
         "total_points_in_upper_league": 0,
         "total_sum": "73:21.53",
         "total_time": "73:21.53",
@@ -16460,7 +16460,7 @@
             "Dragon Mines": {
                 "medal": null,
                 "place": 37432,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:18.27"
             },
             "Drive-Thru Danger": {
@@ -16471,7 +16471,7 @@
             "Electron Avenue": {
                 "medal": null,
                 "place": 36670,
-                "points": 1.0,
+                "points": 0,
                 "result": "3:06.31"
             },
             "Gingerbread Joyride": {
@@ -16495,7 +16495,7 @@
             "Inferno Island": {
                 "medal": null,
                 "place": 35322,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:33.85"
             },
             "Jungle Boogie": {
