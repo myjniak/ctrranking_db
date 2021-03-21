@@ -2503,7 +2503,7 @@
             "silver": 3
         },
         "total_points": 54,
-        "total_points_in_upper_league": 13,
+        "total_points_in_upper_league": 12,
         "total_sum": "2137066",
         "tracks": {
             "Android Alley": {
@@ -9780,9 +9780,9 @@
         "medals": {
             "bronze": 6,
             "gold": 0,
-            "silver": 13
+            "silver": 12
         },
-        "total_points": 183,
+        "total_points": 179,
         "total_points_in_upper_league": 0,
         "total_sum": "15984076",
         "tracks": {
@@ -9793,7 +9793,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "2"
             },
             "Barin Ruins": {
@@ -9902,8 +9902,8 @@
                 "result": "592057"
             },
             "Nina's Nightmare": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "453832"
             },
             "Out of Time": {
@@ -9947,8 +9947,8 @@
                 "result": "524203"
             },
             "Spyro Circuit": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "609547"
             },
             "Thunder Struck": {
@@ -10610,11 +10610,11 @@
     "ciemny_dark": {
         "league": 1,
         "medals": {
-            "bronze": 11,
+            "bronze": 9,
             "gold": 0,
             "silver": 2
         },
-        "total_points": 179,
+        "total_points": 171,
         "total_points_in_upper_league": 0,
         "total_sum": "18796291",
         "tracks": {
@@ -10625,7 +10625,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "515617"
             },
             "Barin Ruins": {
@@ -10684,8 +10684,8 @@
                 "result": "996179"
             },
             "Gingerbread Joyride": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "444150"
             },
             "Hot Air Skyway": {
@@ -10710,7 +10710,7 @@
             },
             "Koala Carnival": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "414391"
             },
             "Megamix Mania": {
@@ -10735,12 +10735,12 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "429286"
             },
             "Out of Time": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "524344"
             },
             "Oxide Station": {
@@ -10760,7 +10760,7 @@
             },
             "Prehistoric Playground": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "512983"
             },
             "Roo's Tubes": {
@@ -10780,7 +10780,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "396724"
             },
             "Thunder Struck": {
@@ -10810,7 +10810,7 @@
             },
             "Twilight Tour": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "440486"
             }
         }
@@ -12274,11 +12274,11 @@
     "mati1212": {
         "league": 1,
         "medals": {
-            "bronze": 6,
+            "bronze": 5,
             "gold": 2,
-            "silver": 4
+            "silver": 3
         },
-        "total_points": 173,
+        "total_points": 169,
         "total_points_in_upper_league": 0,
         "total_sum": "16828735",
         "tracks": {
@@ -12348,8 +12348,8 @@
                 "result": "663967"
             },
             "Gingerbread Joyride": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "616301"
             },
             "Hot Air Skyway": {
@@ -12398,8 +12398,8 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "453452"
             },
             "Out of Time": {
@@ -12473,8 +12473,8 @@
                 "result": "681921"
             },
             "Twilight Tour": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "538305"
             }
         }
@@ -12486,7 +12486,7 @@
             "gold": 0,
             "silver": 6
         },
-        "total_points": 135,
+        "total_points": 128,
         "total_points_in_upper_league": 0,
         "total_sum": "13230807",
         "tracks": {
@@ -12497,7 +12497,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 2.5,
+                "points": 2.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -12557,7 +12557,7 @@
             },
             "Gingerbread Joyride": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "373530"
             },
             "Hot Air Skyway": {
@@ -12582,12 +12582,12 @@
             },
             "Koala Carnival": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "242585"
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "455245"
             },
             "Meteor Gorge": {
@@ -12612,7 +12612,7 @@
             },
             "Out of Time": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "272676"
             },
             "Oxide Station": {
@@ -12632,7 +12632,7 @@
             },
             "Prehistoric Playground": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "208458"
             },
             "Roo's Tubes": {
@@ -12652,7 +12652,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "487828"
             },
             "Thunder Struck": {
@@ -12682,7 +12682,7 @@
             },
             "Twilight Tour": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "429761"
             }
         }
@@ -13318,7 +13318,7 @@
             "gold": 6,
             "silver": 4
         },
-        "total_points": 140,
+        "total_points": 136,
         "total_points_in_upper_league": 0,
         "total_sum": "11994387",
         "tracks": {
@@ -13389,7 +13389,7 @@
             },
             "Gingerbread Joyride": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "238352"
             },
             "Hot Air Skyway": {
@@ -13419,7 +13419,7 @@
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "260448"
             },
             "Meteor Gorge": {
@@ -13439,7 +13439,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "423194"
             },
             "Out of Time": {
@@ -13484,7 +13484,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "276273"
             },
             "Thunder Struck": {
@@ -13942,7 +13942,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 85,
+        "total_points": 77,
         "total_points_in_upper_league": 0,
         "total_sum": "7415434",
         "tracks": {
@@ -14013,7 +14013,7 @@
             },
             "Gingerbread Joyride": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "226673"
             },
             "Hot Air Skyway": {
@@ -14038,12 +14038,12 @@
             },
             "Koala Carnival": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "306240"
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "217573"
             },
             "Meteor Gorge": {
@@ -14063,12 +14063,12 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "166576"
             },
             "Out of Time": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "167048"
             },
             "Oxide Station": {
@@ -14088,7 +14088,7 @@
             },
             "Prehistoric Playground": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "249547"
             },
             "Roo's Tubes": {
@@ -14108,7 +14108,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "288476"
             },
             "Thunder Struck": {
@@ -14138,7 +14138,7 @@
             },
             "Twilight Tour": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "187650"
             }
         }
@@ -14146,13 +14146,13 @@
     "silVersilVa89PL": {
         "league": 1,
         "medals": {
-            "bronze": 7,
+            "bronze": 11,
             "gold": 0,
-            "silver": 5
+            "silver": 7
         },
-        "total_points": 149,
+        "total_points": 205,
         "total_points_in_upper_league": 0,
-        "total_sum": "15212064",
+        "total_sum": "21216711",
         "tracks": {
             "Android Alley": {
                 "medal": "bronze",
@@ -14161,8 +14161,8 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 2.5,
-                "result": "1"
+                "points": 5.0,
+                "result": "538627"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -14220,9 +14220,9 @@
                 "result": "937523"
             },
             "Gingerbread Joyride": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "727994"
             },
             "Hot Air Skyway": {
                 "medal": "silver",
@@ -14230,9 +14230,9 @@
                 "result": "907716"
             },
             "Hyper Spaceway": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "632863"
             },
             "Inferno Island": {
                 "medal": null,
@@ -14246,13 +14246,13 @@
             },
             "Koala Carnival": {
                 "medal": null,
-                "points": 0,
-                "result": "0"
+                "points": 4.0,
+                "result": "415096"
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 0,
-                "result": "0"
+                "points": 4.0,
+                "result": "497769"
             },
             "Meteor Gorge": {
                 "medal": "bronze",
@@ -14270,14 +14270,14 @@
                 "result": "550693"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "497785"
             },
             "Out of Time": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "813406"
             },
             "Oxide Station": {
                 "medal": null,
@@ -14296,8 +14296,8 @@
             },
             "Prehistoric Playground": {
                 "medal": null,
-                "points": 0,
-                "result": "0"
+                "points": 5.0,
+                "result": "606191"
             },
             "Roo's Tubes": {
                 "medal": "bronze",
@@ -14315,9 +14315,9 @@
                 "result": "857998"
             },
             "Spyro Circuit": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "655998"
             },
             "Thunder Struck": {
                 "medal": "silver",
@@ -14345,9 +14345,9 @@
                 "result": "875657"
             },
             "Twilight Tour": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "618919"
             }
         }
     },

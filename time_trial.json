@@ -2698,7 +2698,7 @@
             "gold": 3,
             "silver": 4
         },
-        "total_points": 159,
+        "total_points": 158,
         "total_points_in_upper_league": 0,
         "total_sum": "72:14.92",
         "total_time": "72:14.92",
@@ -2785,7 +2785,7 @@
             },
             "Inferno Island": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:33.09"
             },
             "Jungle Boogie": {
@@ -2907,7 +2907,7 @@
             "gold": 17,
             "silver": 11
         },
-        "total_points": 312,
+        "total_points": 311,
         "total_points_in_upper_league": 3,
         "total_sum": "71:26.08",
         "total_time": "71:36.41",
@@ -3129,7 +3129,7 @@
             "Tiny Temple": {
                 "medal": "gold",
                 "place": 35814,
-                "points": 10.0,
+                "points": 9.0,
                 "result": "1:38.26"
             },
             "Turbo Track": {
@@ -3362,7 +3362,7 @@
             "gold": 5,
             "silver": 9
         },
-        "total_points": 245,
+        "total_points": 244,
         "total_points_in_upper_league": 0,
         "total_sum": "71:47.23",
         "total_time": "71:54.63",
@@ -3449,7 +3449,7 @@
             },
             "Inferno Island": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:33.39"
             },
             "Jungle Boogie": {
@@ -4063,7 +4063,7 @@
             "gold": 1,
             "silver": 0
         },
-        "total_points": 64,
+        "total_points": 62,
         "total_points_in_upper_league": 0,
         "total_sum": "70:23.44",
         "total_time": "70:23.44",
@@ -4154,7 +4154,7 @@
             "Hot Air Skyway": {
                 "medal": null,
                 "place": 110,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:05.72"
             },
             "Hyper Spaceway": {
@@ -4267,7 +4267,7 @@
             "Thunder Struck": {
                 "medal": null,
                 "place": 2174,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:48.67"
             },
             "Tiger Temple": {
@@ -4754,13 +4754,13 @@
     "KalibeRaziel44": {
         "league": 1,
         "medals": {
-            "bronze": 2,
+            "bronze": 4,
             "gold": 0,
             "silver": 2
         },
-        "total_points": 128,
+        "total_points": 142,
         "total_points_in_upper_league": 0,
-        "total_sum": "70:08.45",
+        "total_sum": "70:04.81",
         "total_time": "70:16.30",
         "tracks": {
             "Android Alley": {
@@ -4771,7 +4771,7 @@
             "Assembly Lane": {
                 "medal": null,
                 "points": 3.0,
-                "result": "2:22.37"
+                "result": "2:22.07"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -4780,8 +4780,8 @@
             },
             "Blizzard Bluff": {
                 "medal": null,
-                "points": 0,
-                "result": "1:09.13"
+                "points": 1.0,
+                "result": "1:08.90"
             },
             "Clockwork Wumpa": {
                 "medal": null,
@@ -4800,13 +4800,13 @@
             },
             "Crash Cove": {
                 "medal": null,
-                "points": 3.0,
-                "result": "1:18.24"
+                "points": 4.0,
+                "result": "1:18.11"
             },
             "Deep Sea Driving": {
                 "medal": null,
-                "points": 2.0,
-                "result": "1:36.69"
+                "points": 5.0,
+                "result": "1:35.73"
             },
             "Dingo Canyon": {
                 "medal": null,
@@ -4835,13 +4835,13 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "2:05.05"
             },
             "Hyper Spaceway": {
                 "medal": null,
-                "points": 0,
-                "result": "1:45.90"
+                "points": 2.0,
+                "result": "1:45.54"
             },
             "Inferno Island": {
                 "medal": "bronze",
@@ -4850,8 +4850,8 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 0,
-                "result": "1:12.60"
+                "points": 4.0,
+                "result": "1:12.14"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -4889,9 +4889,9 @@
                 "result": "1:47.67"
             },
             "Oxide Station": {
-                "medal": null,
-                "points": 4.0,
-                "result": "2:37.96"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "2:37.66"
             },
             "Papu's Pyramid": {
                 "medal": null,
@@ -4926,12 +4926,12 @@
             "Spyro Circuit": {
                 "medal": null,
                 "points": 1.0,
-                "result": "2:09.29"
+                "result": "2:09.16"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 3.0,
-                "result": "1:49.14"
+                "medal": "bronze",
+                "points": 5.5,
+                "result": "1:48.57"
             },
             "Tiger Temple": {
                 "medal": null,
@@ -4956,7 +4956,7 @@
             "Twilight Tour": {
                 "medal": null,
                 "points": 5.0,
-                "result": "2:09.56"
+                "result": "2:09.36"
             }
         }
     },
@@ -5176,7 +5176,7 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 49,
+        "total_points": 48,
         "total_points_in_upper_league": 0,
         "total_sum": "70:43.31",
         "total_time": "70:43.31",
@@ -5285,7 +5285,7 @@
             "Jungle Boogie": {
                 "medal": null,
                 "place": 221,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:12.50"
             },
             "Koala Carnival": {
@@ -7071,7 +7071,7 @@
             "silver": 0
         },
         "total_points": 25,
-        "total_points_in_upper_league": 5,
+        "total_points_in_upper_league": 4,
         "total_sum": "90:13.59",
         "total_time": "90:13.59",
         "tracks": {
@@ -7316,7 +7316,7 @@
             "gold": 1,
             "silver": 0
         },
-        "total_points": 88,
+        "total_points": 85,
         "total_points_in_upper_league": 0,
         "total_sum": "70:06.14",
         "total_time": "70:06.14",
@@ -7413,7 +7413,7 @@
             "Hyper Spaceway": {
                 "medal": null,
                 "place": 612,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:45.60"
             },
             "Inferno Island": {
@@ -7425,7 +7425,7 @@
             "Jungle Boogie": {
                 "medal": null,
                 "place": 657,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:12.43"
             },
             "Koala Carnival": {
@@ -7520,7 +7520,7 @@
             "Thunder Struck": {
                 "medal": null,
                 "place": 11187,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:49.04"
             },
             "Tiger Temple": {
@@ -11026,11 +11026,11 @@
     "Wajsia": {
         "league": 2,
         "medals": {
-            "bronze": 5,
+            "bronze": 7,
             "gold": 9,
-            "silver": 8
+            "silver": 6
         },
-        "total_points": 235,
+        "total_points": 232,
         "total_points_in_upper_league": 3,
         "total_sum": "71:49.29",
         "total_time": "71:49.29",
@@ -11131,9 +11131,9 @@
                 "result": "1:46.90"
             },
             "Inferno Island": {
-                "medal": "silver",
+                "medal": "bronze",
                 "place": 401,
-                "points": 8.0,
+                "points": 6.0,
                 "result": "1:32.95"
             },
             "Jungle Boogie": {
@@ -11250,9 +11250,9 @@
                 "result": "2:52.47"
             },
             "Tiny Temple": {
-                "medal": "silver",
+                "medal": "bronze",
                 "place": 402,
-                "points": 7.0,
+                "points": 6.0,
                 "result": "1:38.29"
             },
             "Turbo Track": {
@@ -11696,7 +11696,7 @@
         },
         "total_points": 203,
         "total_points_in_upper_league": 0,
-        "total_sum": "69:59.90",
+        "total_sum": "69:58.17",
         "total_time": "69:59.90",
         "tracks": {
             "Android Alley": {
@@ -11720,7 +11720,7 @@
             "Blizzard Bluff": {
                 "medal": null,
                 "place": 72,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:08.96"
             },
             "Clockwork Wumpa": {
@@ -11751,7 +11751,7 @@
                 "medal": null,
                 "place": 100,
                 "points": 4.0,
-                "result": "1:36.06"
+                "result": "1:35.82"
             },
             "Dingo Canyon": {
                 "medal": null,
@@ -11785,13 +11785,13 @@
             "Hot Air Skyway": {
                 "medal": null,
                 "place": 165,
-                "points": 2.0,
-                "result": "2:05.82"
+                "points": 5.0,
+                "result": "2:04.49"
             },
             "Hyper Spaceway": {
                 "medal": null,
                 "place": 122,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:45.63"
             },
             "Inferno Island": {
@@ -11850,7 +11850,7 @@
             "Oxide Station": {
                 "medal": null,
                 "place": 152,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:37.88"
             },
             "Papu's Pyramid": {
@@ -11869,7 +11869,7 @@
                 "medal": "silver",
                 "place": 69,
                 "points": 8.0,
-                "result": "2:17.03"
+                "result": "2:16.87"
             },
             "Roo's Tubes": {
                 "medal": null,
@@ -11898,7 +11898,7 @@
             "Thunder Struck": {
                 "medal": "bronze",
                 "place": 2351,
-                "points": 6.0,
+                "points": 5.5,
                 "result": "1:48.57"
             },
             "Tiger Temple": {
@@ -13760,7 +13760,7 @@
             "gold": 1,
             "silver": 3
         },
-        "total_points": 150,
+        "total_points": 149,
         "total_points_in_upper_league": 0,
         "total_sum": "72:18.98",
         "total_time": "72:18.98",
@@ -13863,7 +13863,7 @@
             "Inferno Island": {
                 "medal": null,
                 "place": 883,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:33.79"
             },
             "Jungle Boogie": {
@@ -14002,13 +14002,13 @@
     "luqas-2017": {
         "league": 2,
         "medals": {
-            "bronze": 10,
-            "gold": 4,
-            "silver": 5
+            "bronze": 9,
+            "gold": 5,
+            "silver": 4
         },
-        "total_points": 209,
+        "total_points": 210,
         "total_points_in_upper_league": 0,
-        "total_sum": "72:11.99",
+        "total_sum": "72:11.96",
         "total_time": "72:39.35",
         "tracks": {
             "Android Alley": {
@@ -14092,8 +14092,8 @@
                 "result": "1:47.97"
             },
             "Inferno Island": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "1:33.05"
             },
             "Jungle Boogie": {
@@ -14192,9 +14192,9 @@
                 "result": "3:03.35"
             },
             "Tiny Temple": {
-                "medal": "silver",
-                "points": 7.0,
-                "result": "1:38.29"
+                "medal": "gold",
+                "points": 9.0,
+                "result": "1:38.26"
             },
             "Turbo Track": {
                 "medal": null,
@@ -14703,11 +14703,11 @@
     "myjniak": {
         "league": 1,
         "medals": {
-            "bronze": 6,
+            "bronze": 5,
             "gold": 0,
             "silver": 7
         },
-        "total_points": 162,
+        "total_points": 158,
         "total_points_in_upper_league": 0,
         "total_sum": "69:59.84",
         "total_time": "70:02.81",
@@ -14757,13 +14757,13 @@
             "Crash Cove": {
                 "medal": null,
                 "place": 389,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:18.21"
             },
             "Deep Sea Driving": {
                 "medal": null,
                 "place": 338,
-                "points": 5.0,
+                "points": 3.0,
                 "result": "1:35.86"
             },
             "Dingo Canyon": {
@@ -14861,9 +14861,9 @@
                 "result": "1:46.90"
             },
             "Oxide Station": {
-                "medal": "bronze",
+                "medal": null,
                 "place": 615,
-                "points": 6.0,
+                "points": 5.0,
                 "result": "2:37.78"
             },
             "Papu's Pyramid": {
@@ -15445,7 +15445,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 46,
+        "total_points": 45,
         "total_points_in_upper_league": 0,
         "total_sum": "73:10.98",
         "total_time": "73:16.32",
@@ -15548,7 +15548,7 @@
             "Inferno Island": {
                 "medal": null,
                 "place": 21969,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:33.52"
             },
             "Jungle Boogie": {
@@ -15691,7 +15691,7 @@
             "gold": 25,
             "silver": 5
         },
-        "total_points": 323,
+        "total_points": 322,
         "total_points_in_upper_league": 0,
         "total_sum": "68:51.31",
         "total_time": "68:59.96",
@@ -15768,7 +15768,7 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:04.99"
             },
             "Hyper Spaceway": {
@@ -16146,7 +16146,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 46,
+        "total_points": 44,
         "total_points_in_upper_league": 0,
         "total_sum": "70:44.22",
         "total_time": "70:44.22",
@@ -16202,7 +16202,7 @@
             "Deep Sea Driving": {
                 "medal": null,
                 "place": 2961,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:36.36"
             },
             "Dingo Canyon": {
@@ -16255,7 +16255,7 @@
             "Jungle Boogie": {
                 "medal": null,
                 "place": 13142,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:12.20"
             },
             "Koala Carnival": {
@@ -16390,11 +16390,11 @@
         "medals": {
             "bronze": 0,
             "gold": 0,
-            "silver": 0
+            "silver": 1
         },
-        "total_points": 52,
+        "total_points": 59,
         "total_points_in_upper_league": 0,
-        "total_sum": "73:21.53",
+        "total_sum": "73:20.51",
         "total_time": "73:21.53",
         "tracks": {
             "Android Alley": {
@@ -16493,10 +16493,10 @@
                 "result": "1:48.44"
             },
             "Inferno Island": {
-                "medal": null,
+                "medal": "silver",
                 "place": 35322,
-                "points": 1.0,
-                "result": "1:33.85"
+                "points": 8.0,
+                "result": "1:32.83"
             },
             "Jungle Boogie": {
                 "medal": null,
@@ -16638,7 +16638,7 @@
             "gold": 0,
             "silver": 5
         },
-        "total_points": 99,
+        "total_points": 98,
         "total_points_in_upper_league": 0,
         "total_sum": "70:04.77",
         "total_time": "70:04.77",
@@ -16747,7 +16747,7 @@
             "Jungle Boogie": {
                 "medal": null,
                 "place": 379,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:12.47"
             },
             "Koala Carnival": {
