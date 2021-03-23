@@ -1124,7 +1124,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 147,
+        "total_points": 146,
         "total_points_in_upper_league": 0,
         "total_sum": "73:44.39",
         "total_time": "73:44.39",
@@ -1281,7 +1281,7 @@
             },
             "Sewer Speedway": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "1:47.44"
             },
             "Slide Coliseum": {
@@ -2698,7 +2698,7 @@
             "gold": 3,
             "silver": 4
         },
-        "total_points": 158,
+        "total_points": 157,
         "total_points_in_upper_league": 0,
         "total_sum": "72:14.92",
         "total_time": "72:14.92",
@@ -2770,7 +2770,7 @@
             },
             "Gingerbread Joyride": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:53.29"
             },
             "Hot Air Skyway": {
@@ -4201,7 +4201,7 @@
             "N.Gin Labs": {
                 "medal": null,
                 "place": 2142,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "2:09.49"
             },
             "Nina's Nightmare": {
@@ -7316,7 +7316,7 @@
             "gold": 1,
             "silver": 0
         },
-        "total_points": 85,
+        "total_points": 84,
         "total_points_in_upper_league": 0,
         "total_sum": "70:06.14",
         "total_time": "70:06.14",
@@ -7324,7 +7324,7 @@
             "Android Alley": {
                 "medal": null,
                 "place": 654,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "2:26.64"
             },
             "Assembly Lane": {
@@ -7419,7 +7419,7 @@
             "Inferno Island": {
                 "medal": null,
                 "place": 822,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "1:32.29"
             },
             "Jungle Boogie": {
@@ -7544,7 +7544,7 @@
             "Turbo Track": {
                 "medal": null,
                 "place": 500,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "1:28.85"
             },
             "Twilight Tour": {
@@ -7858,7 +7858,7 @@
             },
             "Inferno Island": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "1:34.82"
             },
             "Jungle Boogie": {
@@ -7981,7 +7981,7 @@
             "silver": 3
         },
         "total_points": 145,
-        "total_points_in_upper_league": 17,
+        "total_points_in_upper_league": 16,
         "total_sum": "92:06.42",
         "total_time": "92:06.42",
         "tracks": {
@@ -8227,7 +8227,7 @@
             "silver": 7
         },
         "total_points": 203,
-        "total_points_in_upper_league": 15,
+        "total_points_in_upper_league": 14,
         "total_sum": "73:31.39",
         "total_time": "73:31.39",
         "tracks": {
@@ -8718,7 +8718,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 39,
+        "total_points": 38,
         "total_points_in_upper_league": 0,
         "total_sum": "74:40.14",
         "total_time": "74:40.14",
@@ -8790,7 +8790,7 @@
             },
             "Gingerbread Joyride": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:53.14"
             },
             "Hot Air Skyway": {
@@ -9875,7 +9875,7 @@
             "silver": 2
         },
         "total_points": 37,
-        "total_points_in_upper_league": 3,
+        "total_points_in_upper_league": 2,
         "total_sum": "77:53.98",
         "total_time": "77:53.98",
         "tracks": {
@@ -11940,7 +11940,7 @@
             "gold": 3,
             "silver": 4
         },
-        "total_points": 158,
+        "total_points": 157,
         "total_points_in_upper_league": 0,
         "total_sum": "90:47.33",
         "total_time": "90:47.33",
@@ -11990,7 +11990,7 @@
             "Crash Cove": {
                 "medal": null,
                 "place": 61856,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "1:26.88"
             },
             "Deep Sea Driving": {
@@ -12641,7 +12641,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 73,
+        "total_points": 70,
         "total_points_in_upper_league": 0,
         "total_sum": "72:55.61",
         "total_time": "72:57.15",
@@ -12688,7 +12688,7 @@
             },
             "Deep Sea Driving": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:41.90"
             },
             "Dingo Canyon": {
@@ -12748,7 +12748,7 @@
             },
             "Meteor Gorge": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0.3333333333333333,
                 "result": "1:24.68"
             },
             "Mystery Caves": {
@@ -12833,7 +12833,7 @@
             },
             "Turbo Track": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0.5,
                 "result": "1:33.46"
             },
             "Twilight Tour": {
@@ -14006,7 +14006,7 @@
             "gold": 5,
             "silver": 4
         },
-        "total_points": 210,
+        "total_points": 209,
         "total_points_in_upper_league": 0,
         "total_sum": "72:11.96",
         "total_time": "72:39.35",
@@ -14078,7 +14078,7 @@
             },
             "Gingerbread Joyride": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:52.81"
             },
             "Hot Air Skyway": {
@@ -14216,7 +14216,7 @@
             "silver": 4
         },
         "total_points": 188,
-        "total_points_in_upper_league": 17,
+        "total_points_in_upper_league": 16,
         "total_sum": "74:52.21",
         "total_time": "74:52.21",
         "tracks": {
@@ -15445,9 +15445,9 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 45,
+        "total_points": 49,
         "total_points_in_upper_league": 0,
-        "total_sum": "73:10.98",
+        "total_sum": "73:06.45",
         "total_time": "73:16.32",
         "tracks": {
             "Android Alley": {
@@ -15501,8 +15501,8 @@
             "Deep Sea Driving": {
                 "medal": null,
                 "place": 25352,
-                "points": 0,
-                "result": "1:44.80"
+                "points": 1.0,
+                "result": "1:41.77"
             },
             "Dingo Canyon": {
                 "medal": null,
@@ -15530,8 +15530,8 @@
             "Gingerbread Joyride": {
                 "medal": null,
                 "place": 16802,
-                "points": 0,
-                "result": "1:53.88"
+                "points": 3.0,
+                "result": "1:52.38"
             },
             "Hot Air Skyway": {
                 "medal": null,
