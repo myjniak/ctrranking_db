@@ -1,72 +1,110 @@
 {
-    "Gustlyk1": {
-        "total": 3,
+    "FIVE": {
+        "total": 42,
         "tracks": {
-            "Crash Cove": 2,
-            "Polar Pass": 1
+            "Cortex Castle": 10,
+            "Dragon Mines": 12,
+            "Nina's Nightmare": 10,
+            "Thunder Struck": 10
         }
     },
-    "Oskiboski1948": {
-        "total": 8,
+    "Gustlyk1": {
+        "total": 22,
         "tracks": {
-            "Crash Cove": 6,
-            "Polar Pass": 2
+            "Cortex Castle": 6,
+            "Dragon Mines": 5,
+            "Nina's Nightmare": 4,
+            "Thunder Struck": 7
+        }
+    },
+    "Jay-183-": {
+        "total": 11,
+        "tracks": {
+            "Cortex Castle": 3,
+            "Dragon Mines": 2,
+            "Nina's Nightmare": 3,
+            "Thunder Struck": 3
+        }
+    },
+    "Kranczuu": {
+        "total": 12,
+        "tracks": {
+            "Cortex Castle": 4,
+            "Dragon Mines": 4,
+            "Nina's Nightmare": 2,
+            "Thunder Struck": 2
         }
     },
     "Xerdzio": {
-        "total": 17,
+        "total": 34,
         "tracks": {
-            "Crash Cove": 7,
-            "Polar Pass": 10
+            "Cortex Castle": 9,
+            "Dragon Mines": 8,
+            "Nina's Nightmare": 8,
+            "Thunder Struck": 9
         }
     },
     "ciemny_dark": {
-        "total": 11,
+        "total": 26,
         "tracks": {
-            "Crash Cove": 4,
-            "Polar Pass": 7
+            "Cortex Castle": 8,
+            "Dragon Mines": 6,
+            "Nina's Nightmare": 6,
+            "Thunder Struck": 6
         }
     },
     "mati1212": {
-        "total": 19,
+        "total": 26,
         "tracks": {
-            "Crash Cove": 10,
-            "Polar Pass": 9
+            "Cortex Castle": 5,
+            "Dragon Mines": 9,
+            "Nina's Nightmare": 7,
+            "Thunder Struck": 5
         }
     },
     "myjniak": {
-        "total": 6,
+        "total": 44,
         "tracks": {
-            "Crash Cove": 1,
-            "Polar Pass": 5
+            "Cortex Castle": 11,
+            "Dragon Mines": 11,
+            "Nina's Nightmare": 11,
+            "Thunder Struck": 11
         }
     },
     "poco_mi_kumpel": {
-        "total": 11,
+        "total": 8,
         "tracks": {
-            "Crash Cove": 8,
-            "Polar Pass": 3
+            "Cortex Castle": 1,
+            "Dragon Mines": 1,
+            "Nina's Nightmare": 5,
+            "Thunder Struck": 1
         }
     },
     "przemekratchet89": {
-        "total": 13,
+        "total": 46,
         "tracks": {
-            "Crash Cove": 9,
-            "Polar Pass": 4
+            "Cortex Castle": 12,
+            "Dragon Mines": 10,
+            "Nina's Nightmare": 12,
+            "Thunder Struck": 12
         }
     },
     "siarkowy7": {
-        "total": 9,
+        "total": 10,
         "tracks": {
-            "Crash Cove": 3,
-            "Polar Pass": 6
+            "Cortex Castle": 2,
+            "Dragon Mines": 3,
+            "Nina's Nightmare": 1,
+            "Thunder Struck": 4
         }
     },
     "silVersilVa89PL": {
-        "total": 13,
+        "total": 31,
         "tracks": {
-            "Crash Cove": 5,
-            "Polar Pass": 8
+            "Cortex Castle": 7,
+            "Dragon Mines": 7,
+            "Nina's Nightmare": 9,
+            "Thunder Struck": 8
         }
     }
 }

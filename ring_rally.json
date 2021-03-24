@@ -1248,15 +1248,15 @@
         }
     },
     "FIVE": {
-        "league": 3,
+        "league": 2,
         "medals": {
             "bronze": 0,
-            "gold": 3,
+            "gold": 7,
             "silver": 0
         },
-        "total_points": 30,
-        "total_points_in_upper_league": 30,
-        "total_sum": "6",
+        "total_points": 70,
+        "total_points_in_upper_league": 33,
+        "total_sum": "3040942",
         "tracks": {
             "Android Alley": {
                 "medal": "gold",
@@ -1289,9 +1289,9 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "825178"
             },
             "Crash Cove": {
                 "medal": null,
@@ -1309,9 +1309,9 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "711495"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -1374,9 +1374,9 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "514799"
             },
             "Out of Time": {
                 "medal": null,
@@ -1424,9 +1424,9 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "989464"
             },
             "Tiger Temple": {
                 "medal": null,
@@ -2500,11 +2500,11 @@
         "medals": {
             "bronze": 0,
             "gold": 3,
-            "silver": 3
+            "silver": 7
         },
-        "total_points": 54,
-        "total_points_in_upper_league": 12,
-        "total_sum": "2137066",
+        "total_points": 86,
+        "total_points_in_upper_league": 18,
+        "total_sum": "3810515",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -2537,9 +2537,9 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "488340"
             },
             "Crash Cove": {
                 "medal": "silver",
@@ -2557,9 +2557,9 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "291416"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -2622,9 +2622,9 @@
                 "result": "307795"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "405350"
             },
             "Out of Time": {
                 "medal": null,
@@ -2672,9 +2672,9 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "488343"
             },
             "Tiger Temple": {
                 "medal": null,
@@ -3330,27 +3330,27 @@
     "Jakub_Luk": {
         "league": 3,
         "medals": {
-            "bronze": 3,
+            "bronze": 0,
             "gold": 0,
-            "silver": 0
+            "silver": 3
         },
-        "total_points": 15,
+        "total_points": 19,
         "total_points_in_upper_league": 15,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Barin Ruins": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Blizzard Bluff": {
@@ -3538,27 +3538,27 @@
     "JanneAhonen69": {
         "league": 3,
         "medals": {
-            "bronze": 3,
+            "bronze": 0,
             "gold": 0,
-            "silver": 0
+            "silver": 3
         },
-        "total_points": 15,
+        "total_points": 19,
         "total_points_in_upper_league": 15,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Barin Ruins": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Blizzard Bluff": {
@@ -3747,12 +3747,12 @@
         "league": 3,
         "medals": {
             "bronze": 0,
-            "gold": 0,
-            "silver": 0
+            "gold": 2,
+            "silver": 2
         },
-        "total_points": 0,
-        "total_points_in_upper_league": 0,
-        "total_sum": "0",
+        "total_points": 36,
+        "total_points_in_upper_league": 22,
+        "total_sum": "841914",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -3785,9 +3785,9 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "217272"
             },
             "Crash Cove": {
                 "medal": null,
@@ -3805,9 +3805,9 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "128919"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -3870,9 +3870,9 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "242382"
             },
             "Out of Time": {
                 "medal": null,
@@ -3920,9 +3920,9 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "253341"
             },
             "Tiger Temple": {
                 "medal": null,
@@ -4162,27 +4162,27 @@
     "KalibeRaziel44": {
         "league": 3,
         "medals": {
-            "bronze": 3,
+            "bronze": 0,
             "gold": 0,
-            "silver": 0
+            "silver": 3
         },
-        "total_points": 15,
+        "total_points": 19,
         "total_points_in_upper_league": 15,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Barin Ruins": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Blizzard Bluff": {
@@ -4578,27 +4578,27 @@
     "Kideu98": {
         "league": 3,
         "medals": {
-            "bronze": 3,
+            "bronze": 0,
             "gold": 0,
-            "silver": 0
+            "silver": 3
         },
-        "total_points": 15,
+        "total_points": 19,
         "total_points_in_upper_league": 15,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Barin Ruins": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Blizzard Bluff": {
@@ -4995,12 +4995,12 @@
         "league": 3,
         "medals": {
             "bronze": 0,
-            "gold": 0,
-            "silver": 0
+            "gold": 2,
+            "silver": 2
         },
-        "total_points": 0,
-        "total_points_in_upper_league": 0,
-        "total_sum": "0",
+        "total_points": 36,
+        "total_points_in_upper_league": 22,
+        "total_sum": "982998",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -5033,9 +5033,9 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "308439"
             },
             "Crash Cove": {
                 "medal": null,
@@ -5053,9 +5053,9 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "221485"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -5118,9 +5118,9 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "234682"
             },
             "Out of Time": {
                 "medal": null,
@@ -5168,9 +5168,9 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "218392"
             },
             "Tiger Temple": {
                 "medal": null,
@@ -6450,27 +6450,27 @@
     "Maties_Gamer": {
         "league": 3,
         "medals": {
-            "bronze": 3,
+            "bronze": 0,
             "gold": 0,
-            "silver": 0
+            "silver": 3
         },
-        "total_points": 15,
+        "total_points": 19,
         "total_points_in_upper_league": 15,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Barin Ruins": {
-                "medal": "bronze",
-                "points": 5.2,
+                "medal": "silver",
+                "points": 6.6,
                 "result": "1"
             },
             "Blizzard Bluff": {
@@ -9778,13 +9778,13 @@
     "Xerdzio": {
         "league": 1,
         "medals": {
-            "bronze": 6,
+            "bronze": 7,
             "gold": 0,
-            "silver": 12
+            "silver": 10
         },
         "total_points": 179,
         "total_points_in_upper_league": 0,
-        "total_sum": "15984076",
+        "total_sum": "16820272",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -9817,8 +9817,8 @@
                 "result": "384190"
             },
             "Cortex Castle": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "732588"
             },
             "Crash Cove": {
@@ -9837,8 +9837,8 @@
                 "result": "349829"
             },
             "Dragon Mines": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "533190"
             },
             "Drive-Thru Danger": {
@@ -9902,8 +9902,8 @@
                 "result": "592057"
             },
             "Nina's Nightmare": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "453832"
             },
             "Out of Time": {
@@ -9952,9 +9952,9 @@
                 "result": "609547"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "836196"
             },
             "Tiger Temple": {
                 "medal": "bronze",
@@ -10610,11 +10610,11 @@
     "ciemny_dark": {
         "league": 1,
         "medals": {
-            "bronze": 9,
+            "bronze": 6,
             "gold": 0,
             "silver": 2
         },
-        "total_points": 171,
+        "total_points": 164,
         "total_points_in_upper_league": 0,
         "total_sum": "18796291",
         "tracks": {
@@ -10649,8 +10649,8 @@
                 "result": "371757"
             },
             "Cortex Castle": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "687866"
             },
             "Crash Cove": {
@@ -10670,7 +10670,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 5.0,
+                "points": 3.0,
                 "result": "302871"
             },
             "Drive-Thru Danger": {
@@ -10689,8 +10689,8 @@
                 "result": "444150"
             },
             "Hot Air Skyway": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "819602"
             },
             "Hyper Spaceway": {
@@ -10735,7 +10735,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "429286"
             },
             "Out of Time": {
@@ -10784,8 +10784,8 @@
                 "result": "396724"
             },
             "Thunder Struck": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 4.0,
                 "result": "417857"
             },
             "Tiger Temple": {
@@ -12274,13 +12274,13 @@
     "mati1212": {
         "league": 1,
         "medals": {
-            "bronze": 5,
+            "bronze": 6,
             "gold": 2,
             "silver": 3
         },
-        "total_points": 169,
+        "total_points": 166,
         "total_points_in_upper_league": 0,
-        "total_sum": "16828735",
+        "total_sum": "17065523",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -12299,7 +12299,7 @@
             },
             "Blizzard Bluff": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "198697"
             },
             "Clockwork Wumpa": {
@@ -12333,9 +12333,9 @@
                 "result": "456462"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 4.0,
-                "result": "300983"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "537771"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -12354,7 +12354,7 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "709819"
             },
             "Hyper Spaceway": {
@@ -12399,7 +12399,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "453452"
             },
             "Out of Time": {
@@ -12449,7 +12449,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 5.0,
+                "points": 3.0,
                 "result": "380427"
             },
             "Tiger Temple": {
@@ -12483,12 +12483,12 @@
         "league": 1,
         "medals": {
             "bronze": 3,
-            "gold": 0,
-            "silver": 6
+            "gold": 2,
+            "silver": 9
         },
-        "total_points": 128,
+        "total_points": 172,
         "total_points_in_upper_league": 0,
-        "total_sum": "13230807",
+        "total_sum": "17328615",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -12507,8 +12507,8 @@
             },
             "Blizzard Bluff": {
                 "medal": null,
-                "points": 0,
-                "result": "0"
+                "points": 4.0,
+                "result": "366929"
             },
             "Clockwork Wumpa": {
                 "medal": null,
@@ -12521,9 +12521,9 @@
                 "result": "461239"
             },
             "Cortex Castle": {
-                "medal": null,
-                "points": 4.0,
-                "result": "581898"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "939208"
             },
             "Crash Cove": {
                 "medal": null,
@@ -12541,9 +12541,9 @@
                 "result": "356844"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "645042"
             },
             "Drive-Thru Danger": {
                 "medal": null,
@@ -12561,9 +12561,9 @@
                 "result": "373530"
             },
             "Hot Air Skyway": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "1200927"
             },
             "Hyper Spaceway": {
                 "medal": null,
@@ -12606,9 +12606,9 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "526159"
             },
             "Out of Time": {
                 "medal": null,
@@ -12656,9 +12656,9 @@
                 "result": "487828"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "1001441"
             },
             "Tiger Temple": {
                 "medal": "silver",
@@ -13318,7 +13318,7 @@
             "gold": 6,
             "silver": 4
         },
-        "total_points": 136,
+        "total_points": 135,
         "total_points_in_upper_league": 0,
         "total_sum": "11994387",
         "tracks": {
@@ -13439,7 +13439,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "423194"
             },
             "Out of Time": {
@@ -13731,12 +13731,12 @@
         "league": 1,
         "medals": {
             "bronze": 3,
-            "gold": 31,
-            "silver": 5
+            "gold": 29,
+            "silver": 7
         },
-        "total_points": 368,
+        "total_points": 364,
         "total_points_in_upper_league": 0,
-        "total_sum": "28462604",
+        "total_sum": "29227873",
         "tracks": {
             "Android Alley": {
                 "medal": "gold",
@@ -13771,7 +13771,7 @@
             "Cortex Castle": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "784900"
+                "result": "1050394"
             },
             "Crash Cove": {
                 "medal": "gold",
@@ -13789,8 +13789,8 @@
                 "result": "531323"
             },
             "Dragon Mines": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "579641"
             },
             "Drive-Thru Danger": {
@@ -13809,8 +13809,8 @@
                 "result": "773607"
             },
             "Hot Air Skyway": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "1110533"
             },
             "Hyper Spaceway": {
@@ -13856,7 +13856,7 @@
             "Nina's Nightmare": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "513493"
+                "result": "634689"
             },
             "Out of Time": {
                 "medal": "gold",
@@ -13906,7 +13906,7 @@
             "Thunder Struck": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "804450"
+                "result": "1183029"
             },
             "Tiger Temple": {
                 "medal": "gold",
@@ -13942,7 +13942,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 77,
+        "total_points": 71,
         "total_points_in_upper_league": 0,
         "total_sum": "7415434",
         "tracks": {
@@ -13963,7 +13963,7 @@
             },
             "Blizzard Bluff": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "186866"
             },
             "Clockwork Wumpa": {
@@ -13998,7 +13998,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "155379"
             },
             "Drive-Thru Danger": {
@@ -14018,7 +14018,7 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "311252"
             },
             "Hyper Spaceway": {
@@ -14063,7 +14063,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "166576"
             },
             "Out of Time": {
@@ -14113,7 +14113,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 4.0,
+                "points": 2.0,
                 "result": "256111"
             },
             "Tiger Temple": {
@@ -14146,11 +14146,11 @@
     "silVersilVa89PL": {
         "league": 1,
         "medals": {
-            "bronze": 11,
+            "bronze": 12,
             "gold": 0,
-            "silver": 7
+            "silver": 4
         },
-        "total_points": 205,
+        "total_points": 195,
         "total_points_in_upper_league": 0,
         "total_sum": "21216711",
         "tracks": {
@@ -14186,7 +14186,7 @@
             },
             "Cortex Castle": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "609145"
             },
             "Crash Cove": {
@@ -14205,8 +14205,8 @@
                 "result": "356715"
             },
             "Dragon Mines": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 4.0,
                 "result": "497456"
             },
             "Drive-Thru Danger": {
@@ -14225,8 +14225,8 @@
                 "result": "727994"
             },
             "Hot Air Skyway": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "907716"
             },
             "Hyper Spaceway": {
@@ -14270,8 +14270,8 @@
                 "result": "550693"
             },
             "Nina's Nightmare": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "497785"
             },
             "Out of Time": {
@@ -14320,8 +14320,8 @@
                 "result": "655998"
             },
             "Thunder Struck": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "716642"
             },
             "Tiger Temple": {
