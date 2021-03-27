@@ -1,9 +1,9 @@
 {
     "FIVE": {
-        "total": 42,
+        "total": 40,
         "tracks": {
             "Cortex Castle": 10,
-            "Dragon Mines": 12,
+            "Dragon Mines": 10,
             "Nina's Nightmare": 10,
             "Thunder Struck": 10
         }
@@ -63,11 +63,11 @@
         }
     },
     "myjniak": {
-        "total": 44,
+        "total": 46,
         "tracks": {
-            "Cortex Castle": 11,
+            "Cortex Castle": 12,
             "Dragon Mines": 11,
-            "Nina's Nightmare": 11,
+            "Nina's Nightmare": 12,
             "Thunder Struck": 11
         }
     },
@@ -83,9 +83,9 @@
     "przemekratchet89": {
         "total": 46,
         "tracks": {
-            "Cortex Castle": 12,
-            "Dragon Mines": 10,
-            "Nina's Nightmare": 12,
+            "Cortex Castle": 11,
+            "Dragon Mines": 12,
+            "Nina's Nightmare": 11,
             "Thunder Struck": 12
         }
     },
