@@ -1,6 +1,6 @@
 {
     "Banana7101": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -208,7 +208,7 @@
         }
     },
     "Bandzior_1234": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -416,7 +416,7 @@
         }
     },
     "BastianDNG": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -624,7 +624,7 @@
         }
     },
     "DIEdaara": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -832,7 +832,7 @@
         }
     },
     "Dejvik93": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -1040,7 +1040,7 @@
         }
     },
     "Dejwidgakure": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -1251,16 +1251,16 @@
         "league": 2,
         "medals": {
             "bronze": 0,
-            "gold": 7,
-            "silver": 0
+            "gold": 5,
+            "silver": 2
         },
-        "total_points": 70,
-        "total_points_in_upper_league": 24,
+        "total_points": 66,
+        "total_points_in_upper_league": 23,
         "total_sum": "3040942",
         "tracks": {
             "Android Alley": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "2"
             },
             "Assembly Lane": {
@@ -1269,8 +1269,8 @@
                 "result": "2"
             },
             "Barin Ruins": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "2"
             },
             "Blizzard Bluff": {
@@ -1456,7 +1456,7 @@
         }
     },
     "FelixPL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -1664,7 +1664,7 @@
         }
     },
     "FunMajkel": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -1872,7 +1872,7 @@
         }
     },
     "Gojson": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -2080,7 +2080,7 @@
         }
     },
     "Gracki92": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -2288,7 +2288,7 @@
         }
     },
     "Greg": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -2498,11 +2498,11 @@
     "Gustlyk1": {
         "league": 2,
         "medals": {
-            "bronze": 1,
+            "bronze": 5,
             "gold": 3,
-            "silver": 6
+            "silver": 2
         },
-        "total_points": 84,
+        "total_points": 76,
         "total_points_in_upper_league": 13,
         "total_sum": "3810515",
         "tracks": {
@@ -2537,8 +2537,8 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "488340"
             },
             "Crash Cove": {
@@ -2557,8 +2557,8 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "291416"
             },
             "Drive-Thru Danger": {
@@ -2622,8 +2622,8 @@
                 "result": "307795"
             },
             "Nina's Nightmare": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "405350"
             },
             "Out of Time": {
@@ -2672,8 +2672,8 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "488343"
             },
             "Tiger Temple": {
@@ -2704,7 +2704,7 @@
         }
     },
     "Gustlyk1-Switch": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -2912,7 +2912,7 @@
         }
     },
     "Hansuu93": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -3120,7 +3120,7 @@
         }
     },
     "Huderlord": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -3328,14 +3328,14 @@
         }
     },
     "Jakub_Luk": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
             "silver": 3
         },
         "total_points": 19,
-        "total_points_in_upper_league": 19,
+        "total_points_in_upper_league": 13,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3536,14 +3536,14 @@
         }
     },
     "JanneAhonen69": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
             "silver": 3
         },
         "total_points": 19,
-        "total_points_in_upper_league": 19,
+        "total_points_in_upper_league": 13,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3744,20 +3744,20 @@
         }
     },
     "Jay-183-": {
-        "league": 3,
+        "league": 2,
         "medals": {
             "bronze": 0,
-            "gold": 4,
-            "silver": 0
+            "gold": 7,
+            "silver": 4
         },
-        "total_points": 40,
-        "total_points_in_upper_league": 32,
-        "total_sum": "1788444",
+        "total_points": 102,
+        "total_points_in_upper_league": 30,
+        "total_sum": "4347856",
         "tracks": {
             "Android Alley": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "286871"
             },
             "Assembly Lane": {
                 "medal": null,
@@ -3765,9 +3765,9 @@
                 "result": "0"
             },
             "Barin Ruins": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "371024"
             },
             "Blizzard Bluff": {
                 "medal": null,
@@ -3775,9 +3775,9 @@
                 "result": "0"
             },
             "Clockwork Wumpa": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "390786"
             },
             "Coco Park": {
                 "medal": null,
@@ -3785,8 +3785,8 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "514899"
             },
             "Crash Cove": {
@@ -3795,9 +3795,9 @@
                 "result": "0"
             },
             "Deep Sea Driving": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "272170"
             },
             "Dingo Canyon": {
                 "medal": null,
@@ -3805,8 +3805,8 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "314209"
             },
             "Drive-Thru Danger": {
@@ -3815,9 +3815,9 @@
                 "result": "0"
             },
             "Electron Avenue": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "678563"
             },
             "Gingerbread Joyride": {
                 "medal": null,
@@ -3835,9 +3835,9 @@
                 "result": "0"
             },
             "Inferno Island": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "298224"
             },
             "Jungle Boogie": {
                 "medal": null,
@@ -3855,9 +3855,9 @@
                 "result": "0"
             },
             "Meteor Gorge": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "261774"
             },
             "Mystery Caves": {
                 "medal": null,
@@ -3870,8 +3870,8 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "431653"
             },
             "Out of Time": {
@@ -3920,8 +3920,8 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "527683"
             },
             "Tiger Temple": {
@@ -3952,7 +3952,7 @@
         }
     },
     "KAAIM!": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -4160,14 +4160,14 @@
         }
     },
     "KalibeRaziel44": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
             "silver": 3
         },
         "total_points": 19,
-        "total_points_in_upper_league": 19,
+        "total_points_in_upper_league": 13,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -4368,7 +4368,7 @@
         }
     },
     "Karmel001": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -4576,14 +4576,14 @@
         }
     },
     "Kideu98": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
             "silver": 3
         },
         "total_points": 19,
-        "total_points_in_upper_league": 19,
+        "total_points_in_upper_league": 13,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -4784,7 +4784,7 @@
         }
     },
     "Kr8osPL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -4994,11 +4994,11 @@
     "Kranczuu": {
         "league": 2,
         "medals": {
-            "bronze": 6,
+            "bronze": 2,
             "gold": 2,
             "silver": 2
         },
-        "total_points": 72,
+        "total_points": 68,
         "total_points_in_upper_league": 5,
         "total_sum": "2165068",
         "tracks": {
@@ -5033,8 +5033,8 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "308439"
             },
             "Crash Cove": {
@@ -5053,8 +5053,8 @@
                 "result": "218693"
             },
             "Dragon Mines": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "221485"
             },
             "Drive-Thru Danger": {
@@ -5118,8 +5118,8 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "234682"
             },
             "Out of Time": {
@@ -5168,8 +5168,8 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "218392"
             },
             "Tiger Temple": {
@@ -5200,7 +5200,7 @@
         }
     },
     "Krisao_": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -5408,7 +5408,7 @@
         }
     },
     "LsdTrip93PL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -5616,7 +5616,7 @@
         }
     },
     "Lukas-Owca": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -5824,7 +5824,7 @@
         }
     },
     "MEDYK-POLSKA": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -6032,7 +6032,7 @@
         }
     },
     "MaczugaHercuIeca": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -6240,7 +6240,7 @@
         }
     },
     "Mathis333PL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -6448,14 +6448,14 @@
         }
     },
     "Maties_Gamer": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
             "silver": 3
         },
         "total_points": 19,
-        "total_points_in_upper_league": 19,
+        "total_points_in_upper_league": 13,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -6656,7 +6656,7 @@
         }
     },
     "NETGEAR-Stanley": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -6864,7 +6864,7 @@
         }
     },
     "NICE_PLAYER_PL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -7072,7 +7072,7 @@
         }
     },
     "NadinWins": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -7280,7 +7280,7 @@
         }
     },
     "OFF23PL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -7696,7 +7696,7 @@
         }
     },
     "R0G4L1CZ3K": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -7904,7 +7904,7 @@
         }
     },
     "StefekPizza": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -8112,7 +8112,7 @@
         }
     },
     "TendoFic": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -8320,7 +8320,7 @@
         }
     },
     "TyczekPL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -8528,7 +8528,7 @@
         }
     },
     "Vanil116": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -8736,7 +8736,7 @@
         }
     },
     "Viarus_PL": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -8944,7 +8944,7 @@
         }
     },
     "VitzkyGG": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -9152,7 +9152,7 @@
         }
     },
     "Wajsia": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -9360,7 +9360,7 @@
         }
     },
     "Wojtek_Pogromca": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -9568,7 +9568,7 @@
         }
     },
     "Xenom435": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -9984,7 +9984,7 @@
         }
     },
     "ZajebistyMarcin": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -10192,7 +10192,7 @@
         }
     },
     "ZenQMeister": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -10400,7 +10400,7 @@
         }
     },
     "alahuba_": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -10816,7 +10816,7 @@
         }
     },
     "crashb1908mufc": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -11024,7 +11024,7 @@
         }
     },
     "cthulhuburi": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -11232,7 +11232,7 @@
         }
     },
     "dnsgpa": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -11440,7 +11440,215 @@
         }
     },
     "iBartekM": {
-        "league": 4,
+        "league": 3,
+        "medals": {
+            "bronze": 0,
+            "gold": 0,
+            "silver": 0
+        },
+        "total_points": 0,
+        "total_points_in_upper_league": 0,
+        "total_sum": "0",
+        "tracks": {
+            "Android Alley": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Assembly Lane": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Barin Ruins": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Blizzard Bluff": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Clockwork Wumpa": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Coco Park": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Cortex Castle": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Crash Cove": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Deep Sea Driving": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Dingo Canyon": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Dragon Mines": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Drive-Thru Danger": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Electron Avenue": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Gingerbread Joyride": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Hot Air Skyway": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Hyper Spaceway": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Inferno Island": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Jungle Boogie": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Koala Carnival": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Megamix Mania": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Meteor Gorge": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Mystery Caves": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "N.Gin Labs": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Nina's Nightmare": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Out of Time": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Oxide Station": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Papu's Pyramid": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Polar Pass": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Prehistoric Playground": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Roo's Tubes": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Sewer Speedway": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Slide Coliseum": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Spyro Circuit": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Thunder Struck": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Tiger Temple": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Tiny Arena": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Tiny Temple": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Turbo Track": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            },
+            "Twilight Tour": {
+                "medal": null,
+                "points": 0,
+                "result": "0"
+            }
+        }
+    },
+    "janusz29": {
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -11648,7 +11856,7 @@
         }
     },
     "kubalok25": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -11856,7 +12064,7 @@
         }
     },
     "luqas-2017": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -12064,7 +12272,7 @@
         }
     },
     "marmero97": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -12688,7 +12896,7 @@
         }
     },
     "naruciak1234": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -12896,7 +13104,7 @@
         }
     },
     "peteer_parker": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -13104,7 +13312,7 @@
         }
     },
     "platko90": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -13520,7 +13728,7 @@
         }
     },
     "potbot0": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -14352,7 +14560,7 @@
         }
     },
     "tropicielgoli": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -14560,7 +14768,7 @@
         }
     },
     "xSephiroth666x": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
@@ -14768,7 +14976,7 @@
         }
     },
     "zigus33": {
-        "league": 4,
+        "league": 3,
         "medals": {
             "bronze": 0,
             "gold": 0,
