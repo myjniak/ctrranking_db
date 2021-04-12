@@ -4311,7 +4311,7 @@
         },
         "total_points": 22,
         "total_points_in_upper_league": 0,
-        "total_sum": "109:41.05",
+        "total_sum": "87:23.01",
         "total_time": "117:17.92",
         "tracks": {
             "Android Alley": {
@@ -4372,7 +4372,7 @@
             "Drive-Thru Danger": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "3:14.33"
             },
             "Electron Avenue": {
                 "medal": null,
@@ -4382,7 +4382,7 @@
             "Gingerbread Joyride": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:58.07"
             },
             "Hot Air Skyway": {
                 "medal": null,
@@ -4407,12 +4407,12 @@
             "Koala Carnival": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "1:52.34"
             },
             "Megamix Mania": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:31.85"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -4432,7 +4432,7 @@
             "Nina's Nightmare": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:03.45"
             },
             "Out of Time": {
                 "medal": null,
@@ -4457,7 +4457,7 @@
             "Prehistoric Playground": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:30.81"
             },
             "Roo's Tubes": {
                 "medal": null,
@@ -4477,7 +4477,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:45.23"
             },
             "Thunder Struck": {
                 "medal": null,
@@ -4502,12 +4502,12 @@
             "Turbo Track": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:11.76"
             },
             "Twilight Tour": {
                 "medal": null,
                 "points": 0,
-                "result": "NO TIME"
+                "result": "2:34.12"
             }
         }
     },
