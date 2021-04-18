@@ -22,16 +22,16 @@
         "old_total_points": 4,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 2,
+        "total_points": 1,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 39,
+                "new_place": 40,
                 "old_place": 38,
                 "old_points": 4,
-                "place_improvement": -1,
-                "points": 2,
+                "place_improvement": -2,
+                "points": 1,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -41,16 +41,16 @@
         "old_total_points": 781,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 742,
+        "total_points": 704,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 2,
+                "new_place": 3,
                 "old_place": 1,
                 "old_points": 781,
-                "place_improvement": -1,
-                "points": 742,
+                "place_improvement": -2,
+                "points": 704,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -60,16 +60,16 @@
         "old_total_points": 11,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 7,
+        "total_points": 4,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 37,
+                "new_place": 38,
                 "old_place": 36,
                 "old_points": 11,
-                "place_improvement": -1,
-                "points": 7,
+                "place_improvement": -2,
+                "points": 4,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -117,16 +117,16 @@
         "old_total_points": 301,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 301,
+        "total_points": 277,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 16,
+                "new_place": 17,
                 "old_place": 16,
                 "old_points": 301,
-                "place_improvement": 0,
-                "points": 301,
+                "place_improvement": -1,
+                "points": 277,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -172,19 +172,19 @@
     },
     "Jay-183-": {
         "old_total_points": 1,
-        "ranking": 878.09,
-        "total_places_improved": 8,
-        "total_points": 37,
-        "total_points_improved": 36,
+        "ranking": 745.13,
+        "total_places_improved": 7,
+        "total_points": 29,
+        "total_points_improved": 28,
         "total_time_improved": 2.77,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 32,
+                "new_place": 33,
                 "old_place": 40,
                 "old_points": 1,
-                "place_improvement": 8,
-                "points": 37,
-                "ranking": 878.09,
+                "place_improvement": 7,
+                "points": 29,
+                "ranking": 745.13,
                 "time_improvement": 2.77
             }
         }
@@ -231,16 +231,16 @@
         "old_total_points": 29,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 16,
+        "total_points": 11,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 35,
+                "new_place": 36,
                 "old_place": 33,
                 "old_points": 29,
-                "place_improvement": -2,
-                "points": 16,
+                "place_improvement": -3,
+                "points": 11,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -267,19 +267,19 @@
     },
     "MEDYK-POLSKA": {
         "old_total_points": 22,
-        "ranking": 73.2,
+        "ranking": 69.6,
         "total_places_improved": 0,
-        "total_points": 22,
+        "total_points": 16,
         "total_points_improved": 0,
         "total_time_improved": 0.6,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 34,
+                "new_place": 35,
                 "old_place": 34,
                 "old_points": 22,
-                "place_improvement": 0,
-                "points": 22,
-                "ranking": 73.2,
+                "place_improvement": -1,
+                "points": 16,
+                "ranking": 69.6,
                 "time_improvement": 0.6
             }
         }
@@ -307,16 +307,16 @@
         "old_total_points": 67,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 67,
+        "total_points": 56,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 29,
+                "new_place": 30,
                 "old_place": 29,
                 "old_points": 67,
-                "place_improvement": 0,
-                "points": 67,
+                "place_improvement": -1,
+                "points": 56,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -326,16 +326,16 @@
         "old_total_points": 232,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 232,
+        "total_points": 211,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 19,
+                "new_place": 20,
                 "old_place": 19,
                 "old_points": 232,
-                "place_improvement": 0,
-                "points": 232,
+                "place_improvement": -1,
+                "points": 211,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -345,16 +345,16 @@
         "old_total_points": 16,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 11,
+        "total_points": 7,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 36,
+                "new_place": 37,
                 "old_place": 35,
                 "old_points": 16,
-                "place_improvement": -1,
-                "points": 11,
+                "place_improvement": -2,
+                "points": 7,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -364,16 +364,16 @@
         "old_total_points": 172,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 172,
+        "total_points": 154,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 22,
+                "new_place": 23,
                 "old_place": 22,
                 "old_points": 172,
-                "place_improvement": 0,
-                "points": 172,
+                "place_improvement": -1,
+                "points": 154,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -383,16 +383,16 @@
         "old_total_points": 56,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 56,
+        "total_points": 46,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 30,
+                "new_place": 31,
                 "old_place": 30,
                 "old_points": 56,
-                "place_improvement": 0,
-                "points": 56,
+                "place_improvement": -1,
+                "points": 46,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -402,16 +402,16 @@
         "old_total_points": 211,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 211,
+        "total_points": 191,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 20,
+                "new_place": 21,
                 "old_place": 20,
                 "old_points": 211,
-                "place_improvement": 0,
-                "points": 211,
+                "place_improvement": -1,
+                "points": 191,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -421,16 +421,16 @@
         "old_total_points": 7,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 4,
+        "total_points": 2,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 38,
+                "new_place": 39,
                 "old_place": 37,
                 "old_points": 7,
-                "place_improvement": -1,
-                "points": 4,
+                "place_improvement": -2,
+                "points": 2,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -459,16 +459,16 @@
         "old_total_points": 254,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 254,
+        "total_points": 232,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 18,
+                "new_place": 19,
                 "old_place": 18,
                 "old_points": 254,
-                "place_improvement": 0,
-                "points": 254,
+                "place_improvement": -1,
+                "points": 232,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -478,16 +478,16 @@
         "old_total_points": 46,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 46,
+        "total_points": 37,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 31,
+                "new_place": 32,
                 "old_place": 31,
                 "old_points": 46,
-                "place_improvement": 0,
-                "points": 46,
+                "place_improvement": -1,
+                "points": 37,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -497,16 +497,16 @@
         "old_total_points": 2,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1,
+        "total_points": 0,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 40,
+                "new_place": 41,
                 "old_place": 39,
                 "old_points": 2,
-                "place_improvement": -1,
-                "points": 1,
+                "place_improvement": -2,
+                "points": 0,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -514,20 +514,20 @@
     },
     "janusz29": {
         "old_total_points": 0,
-        "ranking": 243.00000000000003,
-        "total_places_improved": 0,
-        "total_points": 0,
-        "total_points_improved": 0,
-        "total_time_improved": 2.43,
+        "ranking": 6932.62,
+        "total_places_improved": 12,
+        "total_points": 67,
+        "total_points_improved": 67,
+        "total_time_improved": 13.81,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 41,
+                "new_place": 29,
                 "old_place": 41,
                 "old_points": 0,
-                "place_improvement": 0,
-                "points": 0,
-                "ranking": 243.00000000000003,
-                "time_improvement": 2.43
+                "place_improvement": 12,
+                "points": 67,
+                "ranking": 6932.62,
+                "time_improvement": 13.81
             }
         }
     },
@@ -535,16 +535,16 @@
         "old_total_points": 277,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 277,
+        "total_points": 254,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 17,
+                "new_place": 18,
                 "old_place": 17,
                 "old_points": 277,
-                "place_improvement": 0,
-                "points": 277,
+                "place_improvement": -1,
+                "points": 254,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -609,20 +609,20 @@
     },
     "myjniak": {
         "old_total_points": 742,
-        "ranking": 329.64,
+        "ranking": 783.0600000000001,
         "total_places_improved": 0,
-        "total_points": 704,
+        "total_points": 742,
         "total_points_improved": 0,
-        "total_time_improved": 0.41,
+        "total_time_improved": 0.93,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 3,
+                "new_place": 2,
                 "old_place": 2,
                 "old_points": 742,
-                "place_improvement": -1,
-                "points": 704,
-                "ranking": 329.64,
-                "time_improvement": 0.41
+                "place_improvement": 0,
+                "points": 742,
+                "ranking": 783.0600000000001,
+                "time_improvement": 0.93
             }
         }
     },
@@ -630,16 +630,16 @@
         "old_total_points": 37,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 29,
+        "total_points": 22,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 33,
+                "new_place": 34,
                 "old_place": 32,
                 "old_points": 37,
-                "place_improvement": -1,
-                "points": 29,
+                "place_improvement": -2,
+                "points": 22,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -647,20 +647,20 @@
     },
     "platko90": {
         "old_total_points": 154,
-        "ranking": 0.0,
-        "total_places_improved": 0,
-        "total_points": 154,
-        "total_points_improved": 0,
-        "total_time_improved": 0.0,
+        "ranking": 4430.4,
+        "total_places_improved": 7,
+        "total_points": 301,
+        "total_points_improved": 147,
+        "total_time_improved": 3.9,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 23,
+                "new_place": 16,
                 "old_place": 23,
                 "old_points": 154,
-                "place_improvement": 0,
-                "points": 154,
-                "ranking": 0.0,
-                "time_improvement": 0.0
+                "place_improvement": 7,
+                "points": 301,
+                "ranking": 4430.4,
+                "time_improvement": 3.9
             }
         }
     },
@@ -763,16 +763,16 @@
         "old_total_points": 191,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 191,
+        "total_points": 172,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 21,
+                "new_place": 22,
                 "old_place": 21,
                 "old_points": 191,
-                "place_improvement": 0,
-                "points": 191,
+                "place_improvement": -1,
+                "points": 172,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
