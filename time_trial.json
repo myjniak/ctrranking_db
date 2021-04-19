@@ -2698,7 +2698,7 @@
             "gold": 0,
             "silver": 3
         },
-        "total_points": 117,
+        "total_points": 116,
         "total_points_in_upper_league": 0,
         "total_sum": "72:14.92",
         "total_time": "72:14.92",
@@ -2790,7 +2790,7 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:14.13"
             },
             "Koala Carnival": {
@@ -2903,11 +2903,11 @@
     "Gustlyk1": {
         "league": 2,
         "medals": {
-            "bronze": 10,
+            "bronze": 9,
             "gold": 5,
             "silver": 17
         },
-        "total_points": 270,
+        "total_points": 268,
         "total_points_in_upper_league": 3,
         "total_sum": "71:18.44",
         "total_time": "71:36.41",
@@ -2957,7 +2957,7 @@
             "Crash Cove": {
                 "medal": null,
                 "place": 6066,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:18.94"
             },
             "Deep Sea Driving": {
@@ -3014,9 +3014,9 @@
                 "result": "1:32.79"
             },
             "Jungle Boogie": {
-                "medal": "bronze",
+                "medal": null,
                 "place": 61360,
-                "points": 6.0,
+                "points": 5.0,
                 "result": "1:13.44"
             },
             "Koala Carnival": {
@@ -3153,7 +3153,7 @@
             "gold": 3,
             "silver": 5
         },
-        "total_points": 201,
+        "total_points": 199,
         "total_points_in_upper_league": 0,
         "total_sum": "71:46.69",
         "total_time": "71:54.63",
@@ -3245,7 +3245,7 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 4.5,
+                "points": 3.5,
                 "result": "1:13.80"
             },
             "Koala Carnival": {
@@ -3340,7 +3340,7 @@
             },
             "Tiny Temple": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:38.80"
             },
             "Turbo Track": {
@@ -8505,19 +8505,19 @@
     "Oskiboski1948": {
         "league": 2,
         "medals": {
-            "bronze": 2,
+            "bronze": 3,
             "gold": 0,
             "silver": 0
         },
-        "total_points": 36,
+        "total_points": 49,
         "total_points_in_upper_league": 0,
-        "total_sum": "73:52.43",
+        "total_sum": "73:43.83",
         "total_time": "74:40.14",
         "tracks": {
             "Android Alley": {
                 "medal": null,
                 "points": 0,
-                "result": "2:33.05"
+                "result": "2:29.91"
             },
             "Assembly Lane": {
                 "medal": null,
@@ -8551,8 +8551,8 @@
             },
             "Crash Cove": {
                 "medal": null,
-                "points": 2.0,
-                "result": "1:19.18"
+                "points": 5.0,
+                "result": "1:18.87"
             },
             "Deep Sea Driving": {
                 "medal": null,
@@ -8600,9 +8600,9 @@
                 "result": "1:35.65"
             },
             "Jungle Boogie": {
-                "medal": null,
-                "points": 0,
-                "result": "1:15.64"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "1:13.37"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -8632,7 +8632,7 @@
             "Nina's Nightmare": {
                 "medal": "bronze",
                 "points": 6.0,
-                "result": "1:47.97"
+                "result": "1:47.50"
             },
             "Out of Time": {
                 "medal": null,
@@ -8696,8 +8696,8 @@
             },
             "Tiny Temple": {
                 "medal": null,
-                "points": 0,
-                "result": "1:40.16"
+                "points": 3.0,
+                "result": "1:38.76"
             },
             "Turbo Track": {
                 "medal": null,
@@ -8706,8 +8706,8 @@
             },
             "Twilight Tour": {
                 "medal": null,
-                "points": 0,
-                "result": "2:14.43"
+                "points": 1.0,
+                "result": "2:13.42"
             }
         }
     },
@@ -10330,7 +10330,7 @@
             "silver": 2
         },
         "total_points": 90,
-        "total_points_in_upper_league": 5,
+        "total_points_in_upper_league": 4,
         "total_sum": "80:46.19",
         "total_time": "80:46.19",
         "tracks": {
@@ -10821,7 +10821,7 @@
             "gold": 5,
             "silver": 6
         },
-        "total_points": 188,
+        "total_points": 187,
         "total_points_in_upper_league": 2,
         "total_sum": "71:49.29",
         "total_time": "71:49.29",
@@ -10871,7 +10871,7 @@
             "Crash Cove": {
                 "medal": null,
                 "place": 665,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:19.01"
             },
             "Deep Sea Driving": {
@@ -12432,7 +12432,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 42,
+        "total_points": 39,
         "total_points_in_upper_league": 0,
         "total_sum": "72:55.61",
         "total_time": "72:57.15",
@@ -12524,7 +12524,7 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:14.07"
             },
             "Koala Carnival": {
@@ -12619,7 +12619,7 @@
             },
             "Tiny Temple": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0,
                 "result": "1:39.40"
             },
             "Turbo Track": {
@@ -12629,7 +12629,7 @@
             },
             "Twilight Tour": {
                 "medal": null,
-                "points": 1.0,
+                "points": 0,
                 "result": "2:13.46"
             }
         }
@@ -13552,8 +13552,8 @@
             "silver": 2
         },
         "total_points": 168,
-        "total_points_in_upper_league": 11,
-        "total_sum": "86:48.86",
+        "total_points_in_upper_league": 15,
+        "total_sum": "86:45.05",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -13688,7 +13688,7 @@
             "Papu's Pyramid": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "1:31.59"
+                "result": "1:31.39"
             },
             "Polar Pass": {
                 "medal": null,
@@ -13698,7 +13698,7 @@
             "Prehistoric Playground": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "2:28.68"
+                "result": "2:25.07"
             },
             "Roo's Tubes": {
                 "medal": null,
@@ -14005,7 +14005,7 @@
             "gold": 2,
             "silver": 2
         },
-        "total_points": 164,
+        "total_points": 162,
         "total_points_in_upper_league": 0,
         "total_sum": "72:09.43",
         "total_time": "72:39.35",
@@ -14047,7 +14047,7 @@
             },
             "Crash Cove": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:18.88"
             },
             "Deep Sea Driving": {
@@ -14097,7 +14097,7 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 4.5,
+                "points": 3.5,
                 "result": "1:13.80"
             },
             "Koala Carnival": {
@@ -14460,7 +14460,7 @@
             "gold": 1,
             "silver": 0
         },
-        "total_points": 68,
+        "total_points": 67,
         "total_points_in_upper_league": 0,
         "total_sum": "70:25.66",
         "total_time": "70:31.21",
@@ -14622,7 +14622,7 @@
             "Papu's Pyramid": {
                 "medal": null,
                 "place": 1459,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:21.28"
             },
             "Polar Pass": {
@@ -15444,7 +15444,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 30,
+        "total_points": 29,
         "total_points_in_upper_league": 0,
         "total_sum": "72:52.12",
         "total_time": "73:16.32",
@@ -15666,7 +15666,7 @@
             "Tiny Temple": {
                 "medal": null,
                 "place": 55198,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:39.36"
             },
             "Turbo Track": {
@@ -16391,7 +16391,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 38,
+        "total_points": 37,
         "total_points_in_upper_league": 0,
         "total_sum": "73:18.28",
         "total_time": "73:21.53",
@@ -16500,7 +16500,7 @@
             "Jungle Boogie": {
                 "medal": null,
                 "place": 21768,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:13.87"
             },
             "Koala Carnival": {
@@ -16637,9 +16637,9 @@
             "gold": 0,
             "silver": 5
         },
-        "total_points": 94,
+        "total_points": 95,
         "total_points_in_upper_league": 0,
-        "total_sum": "70:04.77",
+        "total_sum": "70:04.20",
         "total_time": "70:04.77",
         "tracks": {
             "Android Alley": {
@@ -16799,8 +16799,8 @@
             "Papu's Pyramid": {
                 "medal": null,
                 "place": 999999,
-                "points": 4.0,
-                "result": "1:21.78"
+                "points": 5.0,
+                "result": "1:21.21"
             },
             "Polar Pass": {
                 "medal": null,
