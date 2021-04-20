@@ -3,16 +3,16 @@
         "old_total_points": 184,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 184,
+        "total_points": 171,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 27,
+                "new_place": 28,
                 "old_place": 27,
                 "old_points": 92,
-                "place_improvement": 0,
-                "points": 92,
+                "place_improvement": -1,
+                "points": 79,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -31,7 +31,7 @@
         "old_total_points": 60,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 57,
+        "total_points": 47,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -45,11 +45,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 30,
+                "new_place": 31,
                 "old_place": 30,
                 "old_points": 56,
-                "place_improvement": 0,
-                "points": 56,
+                "place_improvement": -1,
+                "points": 46,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -141,11 +141,11 @@
     },
     "Gustlyk1": {
         "old_total_points": 786,
-        "ranking": 1329.0,
+        "ranking": 2516.24,
         "total_places_improved": 0,
         "total_points": 786,
         "total_points_improved": 0,
-        "total_time_improved": 1.5,
+        "total_time_improved": 2.84,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 12,
@@ -153,8 +153,8 @@
                 "old_points": 407,
                 "place_improvement": 0,
                 "points": 407,
-                "ranking": 664.5,
-                "time_improvement": 1.5
+                "ranking": 1258.12,
+                "time_improvement": 1.57
             },
             "Prehistoric Playground": {
                 "new_place": 13,
@@ -162,8 +162,8 @@
                 "old_points": 379,
                 "place_improvement": 0,
                 "points": 379,
-                "ranking": 664.5,
-                "time_improvement": 0.0
+                "ranking": 1258.12,
+                "time_improvement": 1.27
             }
         }
     },
@@ -171,7 +171,7 @@
         "old_total_points": 627,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 603,
+        "total_points": 578,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -185,11 +185,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 15,
+                "new_place": 16,
                 "old_place": 15,
                 "old_points": 326,
-                "place_improvement": 0,
-                "points": 326,
+                "place_improvement": -1,
+                "points": 301,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -199,7 +199,7 @@
         "old_total_points": 1125,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1093,
+        "total_points": 1059,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -213,11 +213,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 6,
+                "new_place": 7,
                 "old_place": 6,
                 "old_points": 596,
-                "place_improvement": 0,
-                "points": 596,
+                "place_improvement": -1,
+                "points": 562,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -281,20 +281,20 @@
     },
     "KalibeRaziel44": {
         "old_total_points": 1262,
-        "ranking": 0.0,
-        "total_places_improved": 0,
-        "total_points": 1227,
-        "total_points_improved": 0,
-        "total_time_improved": 0.0,
+        "ranking": 1578.0,
+        "total_places_improved": 1,
+        "total_points": 1298,
+        "total_points_improved": 36,
+        "total_time_improved": 1.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 6,
+                "new_place": 4,
                 "old_place": 5,
                 "old_points": 631,
-                "place_improvement": -1,
-                "points": 596,
-                "ranking": 0.0,
-                "time_improvement": 0.0
+                "place_improvement": 1,
+                "points": 667,
+                "ranking": 836.7217741935484,
+                "time_improvement": 1.0
             },
             "Prehistoric Playground": {
                 "new_place": 5,
@@ -302,7 +302,7 @@
                 "old_points": 631,
                 "place_improvement": 0,
                 "points": 631,
-                "ranking": 0.0,
+                "ranking": 741.2782258064517,
                 "time_improvement": 0.0
             }
         }
@@ -367,16 +367,16 @@
         "old_total_points": 333,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 311,
+        "total_points": 299,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 28,
+                "new_place": 29,
                 "old_place": 28,
                 "old_points": 79,
-                "place_improvement": 0,
-                "points": 79,
+                "place_improvement": -1,
+                "points": 67,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -423,7 +423,7 @@
         "old_total_points": 1093,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1059,
+        "total_points": 1028,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -437,11 +437,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 9,
+                "new_place": 10,
                 "old_place": 9,
                 "old_points": 497,
-                "place_improvement": 0,
-                "points": 497,
+                "place_improvement": -1,
+                "points": 466,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -479,7 +479,7 @@
         "old_total_points": 509,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 488,
+        "total_points": 465,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -493,11 +493,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 17,
+                "new_place": 18,
                 "old_place": 17,
                 "old_points": 277,
-                "place_improvement": 0,
-                "points": 277,
+                "place_improvement": -1,
+                "points": 254,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -757,29 +757,29 @@
     },
     "janusz29": {
         "old_total_points": 29,
-        "ranking": 11153.460000000001,
-        "total_places_improved": 14,
-        "total_points": 113,
-        "total_points_improved": 84,
-        "total_time_improved": 17.62,
+        "ranking": 22905.45,
+        "total_places_improved": 20,
+        "total_points": 188,
+        "total_points_improved": 159,
+        "total_time_improved": 21.150000000000002,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 29,
+                "new_place": 25,
                 "old_place": 41,
                 "old_points": 0,
-                "place_improvement": 12,
-                "points": 67,
-                "ranking": 7224.699858156029,
-                "time_improvement": 14.01
+                "place_improvement": 16,
+                "points": 121,
+                "ranking": 14919.450656455143,
+                "time_improvement": 16.35
             },
             "Prehistoric Playground": {
-                "new_place": 31,
+                "new_place": 29,
                 "old_place": 33,
                 "old_points": 29,
-                "place_improvement": 2,
-                "points": 46,
-                "ranking": 3928.760141843972,
-                "time_improvement": 3.61
+                "place_improvement": 4,
+                "points": 67,
+                "ranking": 7985.999343544858,
+                "time_improvement": 4.8
             }
         }
     },
@@ -787,7 +787,7 @@
         "old_total_points": 578,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 555,
+        "total_points": 531,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -801,11 +801,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 16,
+                "new_place": 17,
                 "old_place": 16,
                 "old_points": 301,
-                "place_improvement": 0,
-                "points": 301,
+                "place_improvement": -1,
+                "points": 277,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -815,7 +815,7 @@
         "old_total_points": 704,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 704,
+        "total_points": 678,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -829,11 +829,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 14,
+                "new_place": 15,
                 "old_place": 14,
                 "old_points": 352,
-                "place_improvement": 0,
-                "points": 352,
+                "place_improvement": -1,
+                "points": 326,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -843,16 +843,16 @@
         "old_total_points": 128,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 128,
+        "total_points": 114,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 26,
+                "new_place": 27,
                 "old_place": 26,
                 "old_points": 106,
-                "place_improvement": 0,
-                "points": 106,
+                "place_improvement": -1,
+                "points": 92,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -869,37 +869,37 @@
     },
     "mati1212": {
         "old_total_points": 902,
-        "ranking": 3974.76,
-        "total_places_improved": 6,
-        "total_points": 1097,
-        "total_points_improved": 195,
-        "total_time_improved": 1.83,
+        "ranking": 6855.0,
+        "total_places_improved": 9,
+        "total_points": 1192,
+        "total_points_improved": 290,
+        "total_time_improved": 2.5,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 5,
+                "new_place": 6,
                 "old_place": 11,
                 "old_points": 436,
-                "place_improvement": 6,
-                "points": 631,
-                "ranking": 2562.5344968833483,
+                "place_improvement": 5,
+                "points": 596,
+                "ranking": 3554.9479424888445,
                 "time_improvement": 1.53
             },
             "Prehistoric Playground": {
-                "new_place": 10,
+                "new_place": 6,
                 "old_place": 10,
                 "old_points": 466,
-                "place_improvement": 0,
-                "points": 466,
-                "ranking": 1412.225503116652,
-                "time_improvement": 0.3
+                "place_improvement": 4,
+                "points": 596,
+                "ranking": 3300.052057511155,
+                "time_improvement": 0.97
             }
         }
     },
     "myjniak": {
         "old_total_points": 1304,
-        "ranking": 1305.72,
+        "ranking": 1275.03,
         "total_places_improved": 0,
-        "total_points": 1304,
+        "total_points": 1271,
         "total_points_improved": 0,
         "total_time_improved": 0.93,
         "tracks": {
@@ -909,16 +909,16 @@
                 "old_points": 742,
                 "place_improvement": 0,
                 "points": 742,
-                "ranking": 652.86,
+                "ranking": 678.3337718277066,
                 "time_improvement": 0.93
             },
             "Prehistoric Playground": {
-                "new_place": 7,
+                "new_place": 8,
                 "old_place": 7,
                 "old_points": 562,
-                "place_improvement": 0,
-                "points": 562,
-                "ranking": 652.86,
+                "place_improvement": -1,
+                "points": 529,
+                "ranking": 596.6962281722933,
                 "time_improvement": 0.0
             }
         }
@@ -927,7 +927,7 @@
         "old_total_points": 104,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 89,
+        "total_points": 78,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -941,11 +941,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 29,
+                "new_place": 30,
                 "old_place": 29,
                 "old_points": 67,
-                "place_improvement": 0,
-                "points": 67,
+                "place_improvement": -1,
+                "points": 56,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -953,11 +953,11 @@
     },
     "platko90": {
         "old_total_points": 345,
-        "ranking": 7246.25,
-        "total_places_improved": 10,
-        "total_points": 555,
-        "total_points_improved": 210,
-        "total_time_improved": 4.25,
+        "ranking": 12840.8,
+        "total_places_improved": 14,
+        "total_points": 653,
+        "total_points_improved": 308,
+        "total_time_improved": 5.6,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 16,
@@ -965,27 +965,27 @@
                 "old_points": 154,
                 "place_improvement": 7,
                 "points": 301,
-                "ranking": 4267.91843220339,
+                "ranking": 6272.8530531845045,
                 "time_improvement": 3.9
             },
             "Prehistoric Playground": {
-                "new_place": 18,
+                "new_place": 14,
                 "old_place": 21,
                 "old_points": 191,
-                "place_improvement": 3,
-                "points": 254,
-                "ranking": 2978.33156779661,
-                "time_improvement": 0.35
+                "place_improvement": 7,
+                "points": 352,
+                "ranking": 6567.946946815495,
+                "time_improvement": 1.7
             }
         }
     },
     "poco_mi_kumpel": {
         "old_total_points": 1485,
-        "ranking": 17151.18,
+        "ranking": 28289.59,
         "total_places_improved": 2,
         "total_points": 9372,
         "total_points_improved": 77,
-        "total_time_improved": 1.74,
+        "total_time_improved": 2.87,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 1,
@@ -993,7 +993,7 @@
                 "old_points": 704,
                 "place_improvement": 2,
                 "points": 781,
-                "ranking": 8746.400810181593,
+                "ranking": 14426.53466966734,
                 "time_improvement": 1.74
             },
             "Prehistoric Playground": {
@@ -1002,8 +1002,8 @@
                 "old_points": 781,
                 "place_improvement": 0,
                 "points": 781,
-                "ranking": 8404.779189818408,
-                "time_improvement": 0.0
+                "ranking": 13863.05533033266,
+                "time_improvement": 1.13
             }
         }
     },
@@ -1011,16 +1011,16 @@
         "old_total_points": 200,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 200,
+        "total_points": 185,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 25,
+                "new_place": 26,
                 "old_place": 25,
                 "old_points": 121,
-                "place_improvement": 0,
-                "points": 121,
+                "place_improvement": -1,
+                "points": 106,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -1093,28 +1093,28 @@
     },
     "silVersilVa89PL": {
         "old_total_points": 1196,
-        "ranking": 738.7199999999999,
+        "ranking": 699.9599999999999,
         "total_places_improved": 0,
-        "total_points": 1196,
+        "total_points": 1128,
         "total_points_improved": 0,
         "total_time_improved": 0.57,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 4,
+                "new_place": 5,
                 "old_place": 4,
                 "old_points": 667,
-                "place_improvement": 0,
-                "points": 667,
-                "ranking": 369.35999999999996,
+                "place_improvement": -1,
+                "points": 631,
+                "ranking": 346.67206049149337,
                 "time_improvement": 0.57
             },
             "Prehistoric Playground": {
-                "new_place": 8,
+                "new_place": 9,
                 "old_place": 8,
                 "old_points": 529,
-                "place_improvement": 0,
-                "points": 529,
-                "ranking": 369.35999999999996,
+                "place_improvement": -1,
+                "points": 497,
+                "ranking": 353.2879395085066,
                 "time_improvement": 0.0
             }
         }
