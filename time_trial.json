@@ -1333,7 +1333,7 @@
             "gold": 2,
             "silver": 1
         },
-        "total_points": 129,
+        "total_points": 128,
         "total_points_in_upper_league": 0,
         "total_sum": "78:42.64",
         "total_time": "78:42.64",
@@ -1500,7 +1500,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:16.77"
             },
             "Thunder Struck": {
@@ -1538,13 +1538,13 @@
     "FIVE": {
         "league": 1,
         "medals": {
-            "bronze": 9,
+            "bronze": 8,
             "gold": 8,
-            "silver": 11
+            "silver": 12
         },
-        "total_points": 266,
+        "total_points": 268,
         "total_points_in_upper_league": 0,
-        "total_sum": "69:41.15",
+        "total_sum": "69:40.71",
         "total_time": "69:41.85",
         "tracks": {
             "Android Alley": {
@@ -1631,10 +1631,10 @@
                 "result": "1:49.57"
             },
             "Hot Air Skyway": {
-                "medal": null,
+                "medal": "silver",
                 "place": 143,
-                "points": 5.0,
-                "result": "2:03.89"
+                "points": 8.0,
+                "result": "2:03.69"
             },
             "Hyper Spaceway": {
                 "medal": null,
@@ -1702,9 +1702,9 @@
                 "result": "2:36.95"
             },
             "Papu's Pyramid": {
-                "medal": "bronze",
+                "medal": null,
                 "place": 841,
-                "points": 6.0,
+                "points": 5.0,
                 "result": "1:20.58"
             },
             "Polar Pass": {
@@ -1717,7 +1717,7 @@
                 "medal": "bronze",
                 "place": 152,
                 "points": 6.0,
-                "result": "2:17.37"
+                "result": "2:17.23"
             },
             "Roo's Tubes": {
                 "medal": null,
@@ -1741,7 +1741,7 @@
                 "medal": "silver",
                 "place": 107,
                 "points": 8.0,
-                "result": "2:08.46"
+                "result": "2:08.36"
             },
             "Thunder Struck": {
                 "medal": "gold",
@@ -2696,9 +2696,9 @@
         "medals": {
             "bronze": 5,
             "gold": 0,
-            "silver": 3
+            "silver": 2
         },
-        "total_points": 113,
+        "total_points": 109,
         "total_points_in_upper_league": 0,
         "total_sum": "72:14.92",
         "total_time": "72:14.92",
@@ -2835,7 +2835,7 @@
             },
             "Papu's Pyramid": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:24.49"
             },
             "Polar Pass": {
@@ -2864,8 +2864,8 @@
                 "result": "1:39.56"
             },
             "Spyro Circuit": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "2:10.46"
             },
             "Thunder Struck": {
@@ -2903,13 +2903,13 @@
     "Gustlyk1": {
         "league": 2,
         "medals": {
-            "bronze": 9,
+            "bronze": 8,
             "gold": 5,
-            "silver": 17
+            "silver": 18
         },
-        "total_points": 268,
+        "total_points": 270,
         "total_points_in_upper_league": 3,
-        "total_sum": "71:17.10",
+        "total_sum": "71:15.13",
         "total_time": "71:36.41",
         "tracks": {
             "Android Alley": {
@@ -3082,7 +3082,7 @@
                 "medal": "silver",
                 "place": 23254,
                 "points": 8.0,
-                "result": "2:19.50"
+                "result": "2:18.50"
             },
             "Roo's Tubes": {
                 "medal": null,
@@ -3103,10 +3103,10 @@
                 "result": "1:36.79"
             },
             "Spyro Circuit": {
-                "medal": "bronze",
+                "medal": "silver",
                 "place": 16480,
-                "points": 6.0,
-                "result": "2:10.83"
+                "points": 8.0,
+                "result": "2:09.86"
             },
             "Thunder Struck": {
                 "medal": "bronze",
@@ -3153,7 +3153,7 @@
             "gold": 3,
             "silver": 5
         },
-        "total_points": 197,
+        "total_points": 194,
         "total_points_in_upper_league": 0,
         "total_sum": "71:46.69",
         "total_time": "71:54.63",
@@ -3230,7 +3230,7 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "2:12.09"
             },
             "Hyper Spaceway": {
@@ -3290,7 +3290,7 @@
             },
             "Papu's Pyramid": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:25.42"
             },
             "Polar Pass": {
@@ -3320,7 +3320,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:11.86"
             },
             "Thunder Struck": {
@@ -3609,7 +3609,7 @@
             "silver": 6
         },
         "total_points": 322,
-        "total_points_in_upper_league": 17,
+        "total_points_in_upper_league": 16,
         "total_sum": "70:57.77",
         "total_time": "70:57.77",
         "tracks": {
@@ -4549,9 +4549,9 @@
             "gold": 0,
             "silver": 3
         },
-        "total_points": 163,
+        "total_points": 161,
         "total_points_in_upper_league": 0,
-        "total_sum": "69:58.52",
+        "total_sum": "69:58.42",
         "total_time": "70:16.30",
         "tracks": {
             "Android Alley": {
@@ -4686,7 +4686,7 @@
             },
             "Papu's Pyramid": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "1:20.81"
             },
             "Polar Pass": {
@@ -4716,8 +4716,8 @@
             },
             "Spyro Circuit": {
                 "medal": "bronze",
-                "points": 6.0,
-                "result": "2:08.53"
+                "points": 5.5,
+                "result": "2:08.43"
             },
             "Thunder Struck": {
                 "medal": "bronze",
@@ -4967,7 +4967,7 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 46,
+        "total_points": 45,
         "total_points_in_upper_league": 0,
         "total_sum": "70:43.31",
         "total_time": "70:43.31",
@@ -5165,7 +5165,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 220,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:08.56"
             },
             "Thunder Struck": {
@@ -6406,7 +6406,7 @@
             "gold": 6,
             "silver": 6
         },
-        "total_points": 172,
+        "total_points": 171,
         "total_points_in_upper_league": 4,
         "total_sum": "78:38.56",
         "total_time": "78:39.16",
@@ -6604,7 +6604,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 34443,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:16.13"
             },
             "Thunder Struck": {
@@ -7107,7 +7107,7 @@
             "gold": 1,
             "silver": 0
         },
-        "total_points": 83,
+        "total_points": 81,
         "total_points_in_upper_league": 0,
         "total_sum": "70:06.14",
         "total_time": "70:06.14",
@@ -7269,7 +7269,7 @@
             "Papu's Pyramid": {
                 "medal": null,
                 "place": 1360,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "1:21.85"
             },
             "Polar Pass": {
@@ -7305,7 +7305,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 868,
-                "points": 1.0,
+                "points": 0,
                 "result": "2:09.12"
             },
             "Thunder Struck": {
@@ -8505,13 +8505,13 @@
     "Oskiboski1948": {
         "league": 2,
         "medals": {
-            "bronze": 4,
+            "bronze": 6,
             "gold": 0,
             "silver": 0
         },
-        "total_points": 64,
+        "total_points": 77,
         "total_points_in_upper_league": 0,
-        "total_sum": "73:33.22",
+        "total_sum": "73:27.27",
         "total_time": "74:40.14",
         "tracks": {
             "Android Alley": {
@@ -8586,8 +8586,8 @@
             },
             "Hot Air Skyway": {
                 "medal": null,
-                "points": 0,
-                "result": "2:13.13"
+                "points": 3.0,
+                "result": "2:11.32"
             },
             "Hyper Spaceway": {
                 "medal": null,
@@ -8645,9 +8645,9 @@
                 "result": "2:44.76"
             },
             "Papu's Pyramid": {
-                "medal": null,
-                "points": 2.0,
-                "result": "1:25.45"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "1:23.85"
             },
             "Polar Pass": {
                 "medal": null,
@@ -8675,9 +8675,9 @@
                 "result": "1:39.03"
             },
             "Spyro Circuit": {
-                "medal": null,
-                "points": 0,
-                "result": "2:12.60"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "2:10.06"
             },
             "Thunder Struck": {
                 "medal": null,
@@ -9666,7 +9666,7 @@
             "silver": 2
         },
         "total_points": 37,
-        "total_points_in_upper_league": 1,
+        "total_points_in_upper_league": 0,
         "total_sum": "77:50.68",
         "total_time": "77:53.98",
         "tracks": {
@@ -10821,7 +10821,7 @@
             "gold": 5,
             "silver": 6
         },
-        "total_points": 186,
+        "total_points": 185,
         "total_points_in_upper_league": 2,
         "total_sum": "71:49.29",
         "total_time": "71:49.29",
@@ -11019,7 +11019,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 356,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "2:10.86"
             },
             "Thunder Struck": {
@@ -11481,13 +11481,13 @@
     "Xerdzio": {
         "league": 1,
         "medals": {
-            "bronze": 8,
+            "bronze": 9,
             "gold": 1,
             "silver": 8
         },
-        "total_points": 195,
+        "total_points": 202,
         "total_points_in_upper_league": 0,
-        "total_sum": "69:57.07",
+        "total_sum": "69:55.08",
         "total_time": "69:59.90",
         "tracks": {
             "Android Alley": {
@@ -11574,9 +11574,9 @@
                 "result": "1:49.34"
             },
             "Hot Air Skyway": {
-                "medal": "bronze",
+                "medal": null,
                 "place": 165,
-                "points": 6.0,
+                "points": 5.0,
                 "result": "2:03.82"
             },
             "Hyper Spaceway": {
@@ -11645,10 +11645,10 @@
                 "result": "2:37.88"
             },
             "Papu's Pyramid": {
-                "medal": null,
+                "medal": "bronze",
                 "place": 329,
-                "points": 1.0,
-                "result": "1:21.91"
+                "points": 6.0,
+                "result": "1:20.51"
             },
             "Polar Pass": {
                 "medal": null,
@@ -11681,10 +11681,10 @@
                 "result": "1:34.56"
             },
             "Spyro Circuit": {
-                "medal": null,
+                "medal": "bronze",
                 "place": 176,
-                "points": 2.0,
-                "result": "2:09.02"
+                "points": 5.5,
+                "result": "2:08.43"
             },
             "Thunder Struck": {
                 "medal": "bronze",
@@ -12432,7 +12432,7 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 37,
+        "total_points": 35,
         "total_points_in_upper_league": 0,
         "total_sum": "72:55.61",
         "total_time": "72:57.15",
@@ -12599,7 +12599,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 1.5,
+                "points": 0,
                 "result": "2:12.36"
             },
             "Thunder Struck": {
@@ -12887,7 +12887,7 @@
             "gold": 3,
             "silver": 2
         },
-        "total_points": 127,
+        "total_points": 126,
         "total_points_in_upper_league": 4,
         "total_sum": "79:24.85",
         "total_time": "79:24.85",
@@ -13054,7 +13054,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "2:16.66"
             },
             "Thunder Struck": {
@@ -13547,13 +13547,13 @@
     "janusz29": {
         "league": 4,
         "medals": {
-            "bronze": 0,
+            "bronze": 1,
             "gold": 2,
             "silver": 0
         },
-        "total_points": 22,
+        "total_points": 26,
         "total_points_in_upper_league": 6,
-        "total_sum": "86:40.62",
+        "total_sum": "86:36.51",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -13716,9 +13716,9 @@
                 "result": "1:59.22"
             },
             "Spyro Circuit": {
-                "medal": null,
-                "points": 2.0,
-                "result": "2:16.97"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "2:12.86"
             },
             "Thunder Struck": {
                 "medal": null,
@@ -13759,7 +13759,7 @@
             "gold": 1,
             "silver": 1
         },
-        "total_points": 107,
+        "total_points": 106,
         "total_points_in_upper_league": 0,
         "total_sum": "72:18.98",
         "total_time": "72:18.98",
@@ -13850,7 +13850,7 @@
             "Hot Air Skyway": {
                 "medal": null,
                 "place": 1730,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:11.63"
             },
             "Hyper Spaceway": {
@@ -14001,11 +14001,11 @@
     "luqas-2017": {
         "league": 2,
         "medals": {
-            "bronze": 5,
+            "bronze": 4,
             "gold": 2,
             "silver": 2
         },
-        "total_points": 159,
+        "total_points": 157,
         "total_points_in_upper_league": 0,
         "total_sum": "72:09.23",
         "total_time": "72:39.35",
@@ -14141,8 +14141,8 @@
                 "result": "2:45.46"
             },
             "Papu's Pyramid": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "1:24.48"
             },
             "Polar Pass": {
@@ -14172,7 +14172,7 @@
             },
             "Spyro Circuit": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "2:11.03"
             },
             "Thunder Struck": {
@@ -14460,9 +14460,9 @@
             "gold": 1,
             "silver": 0
         },
-        "total_points": 69,
+        "total_points": 70,
         "total_points_in_upper_league": 0,
-        "total_sum": "70:24.99",
+        "total_sum": "70:24.55",
         "total_time": "70:31.21",
         "tracks": {
             "Android Alley": {
@@ -14622,7 +14622,7 @@
             "Papu's Pyramid": {
                 "medal": null,
                 "place": 1459,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "1:21.28"
             },
             "Polar Pass": {
@@ -14634,7 +14634,7 @@
             "Prehistoric Playground": {
                 "medal": null,
                 "place": 552,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "2:18.07"
             },
             "Roo's Tubes": {
@@ -14658,8 +14658,8 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 391,
-                "points": 0,
-                "result": "2:09.33"
+                "points": 2.5,
+                "result": "2:08.89"
             },
             "Thunder Struck": {
                 "medal": null,
@@ -14702,11 +14702,11 @@
     "myjniak": {
         "league": 1,
         "medals": {
-            "bronze": 7,
+            "bronze": 8,
             "gold": 0,
-            "silver": 4
+            "silver": 3
         },
-        "total_points": 147,
+        "total_points": 143,
         "total_points_in_upper_league": 0,
         "total_sum": "69:58.91",
         "total_time": "70:02.81",
@@ -14795,9 +14795,9 @@
                 "result": "1:49.97"
             },
             "Hot Air Skyway": {
-                "medal": "silver",
+                "medal": "bronze",
                 "place": 352,
-                "points": 8.0,
+                "points": 6.0,
                 "result": "2:03.79"
             },
             "Hyper Spaceway": {
@@ -14880,7 +14880,7 @@
             "Prehistoric Playground": {
                 "medal": null,
                 "place": 346,
-                "points": 1.5,
+                "points": 1.0,
                 "result": "2:18.40"
             },
             "Roo's Tubes": {
@@ -14904,7 +14904,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 496,
-                "points": 4.0,
+                "points": 2.5,
                 "result": "2:08.89"
             },
             "Thunder Struck": {
@@ -15444,9 +15444,9 @@
             "gold": 0,
             "silver": 0
         },
-        "total_points": 30,
+        "total_points": 28,
         "total_points_in_upper_league": 0,
-        "total_sum": "72:50.77",
+        "total_sum": "72:50.40",
         "total_time": "73:16.32",
         "tracks": {
             "Android Alley": {
@@ -15535,7 +15535,7 @@
             "Hot Air Skyway": {
                 "medal": null,
                 "place": 17366,
-                "points": 0.5,
+                "points": 0,
                 "result": "2:12.19"
             },
             "Hyper Spaceway": {
@@ -15606,7 +15606,7 @@
             "Papu's Pyramid": {
                 "medal": null,
                 "place": 14715,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:24.95"
             },
             "Polar Pass": {
@@ -15642,8 +15642,8 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 11984,
-                "points": 1.5,
-                "result": "2:12.36"
+                "points": 1.0,
+                "result": "2:11.99"
             },
             "Thunder Struck": {
                 "medal": null,
@@ -15692,7 +15692,7 @@
         },
         "total_points": 350,
         "total_points_in_upper_league": 0,
-        "total_sum": "68:34.64",
+        "total_sum": "68:32.91",
         "total_time": "68:59.96",
         "tracks": {
             "Android Alley": {
@@ -15838,7 +15838,7 @@
             "Prehistoric Playground": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "2:14.83"
+                "result": "2:13.50"
             },
             "Roo's Tubes": {
                 "medal": "gold",
@@ -15858,7 +15858,7 @@
             "Spyro Circuit": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "2:08.39"
+                "result": "2:07.99"
             },
             "Thunder Struck": {
                 "medal": null,
@@ -15900,7 +15900,7 @@
             "silver": 10
         },
         "total_points": 212,
-        "total_points_in_upper_league": 11,
+        "total_points_in_upper_league": 9,
         "total_sum": "73:58.33",
         "total_time": "73:58.33",
         "tracks": {
@@ -16637,9 +16637,9 @@
             "gold": 0,
             "silver": 5
         },
-        "total_points": 93,
+        "total_points": 91,
         "total_points_in_upper_league": 0,
-        "total_sum": "70:04.20",
+        "total_sum": "70:03.80",
         "total_time": "70:04.77",
         "tracks": {
             "Android Alley": {
@@ -16799,7 +16799,7 @@
             "Papu's Pyramid": {
                 "medal": null,
                 "place": 999999,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1:21.21"
             },
             "Polar Pass": {
@@ -16811,8 +16811,8 @@
             "Prehistoric Playground": {
                 "medal": null,
                 "place": 421,
-                "points": 1.5,
-                "result": "2:18.40"
+                "points": 3.0,
+                "result": "2:18.00"
             },
             "Roo's Tubes": {
                 "medal": "silver",
@@ -16835,7 +16835,7 @@
             "Spyro Circuit": {
                 "medal": null,
                 "place": 433,
-                "points": 3.0,
+                "points": 1.0,
                 "result": "2:08.99"
             },
             "Thunder Struck": {
@@ -17334,11 +17334,11 @@
     "zigus33": {
         "league": 4,
         "medals": {
-            "bronze": 3,
+            "bronze": 2,
             "gold": 3,
             "silver": 4
         },
-        "total_points": 155,
+        "total_points": 154,
         "total_points_in_upper_league": 0,
         "total_sum": "89:16.81",
         "total_time": "89:16.81",
@@ -17534,9 +17534,9 @@
                 "result": "1:49.54"
             },
             "Spyro Circuit": {
-                "medal": "bronze",
+                "medal": null,
                 "place": 3249,
-                "points": 6.0,
+                "points": 5.0,
                 "result": "2:14.87"
             },
             "Thunder Struck": {

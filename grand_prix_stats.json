@@ -1,9 +1,9 @@
 {
     "Dejvik93": {
-        "old_total_points": 184,
+        "old_total_points": 305,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 159,
+        "total_points": 265,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -24,14 +24,23 @@
                 "points": 92,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 26,
+                "old_place": 25,
+                "old_points": 121,
+                "place_improvement": -1,
+                "points": 106,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Dejwidgakure": {
-        "old_total_points": 60,
+        "old_total_points": 76,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 47,
+        "total_points": 58,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -52,24 +61,33 @@
                 "points": 46,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 36,
+                "old_place": 35,
+                "old_points": 16,
+                "place_improvement": -1,
+                "points": 11,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "FIVE": {
-        "old_total_points": 1485,
-        "ranking": 0.0,
+        "old_total_points": 2227,
+        "ranking": 531.12,
         "total_places_improved": 0,
-        "total_points": 1408,
+        "total_points": 2113,
         "total_points_improved": 0,
-        "total_time_improved": 0.0,
+        "total_time_improved": 0.24000000000000002,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 3,
+                "new_place": 4,
                 "old_place": 1,
                 "old_points": 781,
-                "place_improvement": -2,
-                "points": 704,
-                "ranking": 0.0,
+                "place_improvement": -3,
+                "points": 667,
+                "ranking": 143.78483440434997,
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
@@ -78,16 +96,25 @@
                 "old_points": 704,
                 "place_improvement": 0,
                 "points": 704,
-                "ranking": 0.0,
-                "time_improvement": 0.0
+                "ranking": 193.667582797825,
+                "time_improvement": 0.14
+            },
+            "Spyro Circuit": {
+                "new_place": 2,
+                "old_place": 2,
+                "old_points": 742,
+                "place_improvement": 0,
+                "points": 742,
+                "ranking": 193.667582797825,
+                "time_improvement": 0.1
             }
         }
     },
     "FelixPL": {
-        "old_total_points": 12,
+        "old_total_points": 16,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 5,
+        "total_points": 9,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -108,23 +135,32 @@
                 "points": 1,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 38,
+                "old_place": 38,
+                "old_points": 4,
+                "place_improvement": 0,
+                "points": 4,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Greg": {
-        "old_total_points": 537,
+        "old_total_points": 916,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 498,
+        "total_points": 799,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 15,
+                "new_place": 16,
                 "old_place": 15,
                 "old_points": 326,
-                "place_improvement": 0,
-                "points": 326,
+                "place_improvement": -1,
+                "points": 301,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -136,16 +172,25 @@
                 "points": 172,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 15,
+                "old_place": 13,
+                "old_points": 379,
+                "place_improvement": -2,
+                "points": 326,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Gustlyk1": {
-        "old_total_points": 786,
-        "ranking": 2516.24,
-        "total_places_improved": 0,
-        "total_points": 786,
-        "total_points_improved": 0,
-        "total_time_improved": 2.84,
+        "old_total_points": 1138,
+        "ranking": 9244.82,
+        "total_places_improved": 4,
+        "total_points": 1252,
+        "total_points_improved": 114,
+        "total_time_improved": 4.81,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 12,
@@ -153,34 +198,43 @@
                 "old_points": 407,
                 "place_improvement": 0,
                 "points": 407,
-                "ranking": 1258.12,
+                "ranking": 2701.9015650670126,
                 "time_improvement": 1.57
             },
             "Prehistoric Playground": {
-                "new_place": 13,
+                "new_place": 10,
                 "old_place": 13,
                 "old_points": 379,
-                "place_improvement": 0,
+                "place_improvement": 3,
+                "points": 466,
+                "ranking": 3571.226402939905,
+                "time_improvement": 2.27
+            },
+            "Spyro Circuit": {
+                "new_place": 13,
+                "old_place": 14,
+                "old_points": 352,
+                "place_improvement": 1,
                 "points": 379,
-                "ranking": 1258.12,
-                "time_improvement": 1.27
+                "ranking": 2971.6920319930828,
+                "time_improvement": 0.97
             }
         }
     },
     "Hansuu93": {
-        "old_total_points": 627,
+        "old_total_points": 881,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 554,
+        "total_points": 763,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 17,
+                "new_place": 18,
                 "old_place": 16,
                 "old_points": 301,
-                "place_improvement": -1,
-                "points": 277,
+                "place_improvement": -2,
+                "points": 254,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -192,14 +246,23 @@
                 "points": 277,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 19,
+                "old_place": 18,
+                "old_points": 254,
+                "place_improvement": -1,
+                "points": 232,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Jakub_Luk": {
-        "old_total_points": 1125,
+        "old_total_points": 1561,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1059,
+        "total_points": 1433,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -213,21 +276,30 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 7,
+                "new_place": 8,
                 "old_place": 6,
                 "old_points": 596,
+                "place_improvement": -2,
+                "points": 529,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 12,
+                "old_place": 11,
+                "old_points": 436,
                 "place_improvement": -1,
-                "points": 562,
+                "points": 407,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
         }
     },
     "JanneAhonen69": {
-        "old_total_points": 1133,
+        "old_total_points": 1630,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1067,
+        "total_points": 1503,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -248,16 +320,25 @@
                 "points": 631,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 11,
+                "old_place": 9,
+                "old_points": 497,
+                "place_improvement": -2,
+                "points": 436,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Jay-183-": {
-        "old_total_points": 8,
-        "ranking": 7808.04,
+        "old_total_points": 10,
+        "ranking": 9213.0,
         "total_places_improved": 14,
-        "total_points": 113,
+        "total_points": 115,
         "total_points_improved": 105,
-        "total_time_improved": 10.58,
+        "total_time_improved": 12.45,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 26,
@@ -265,7 +346,7 @@
                 "old_points": 1,
                 "place_improvement": 14,
                 "points": 106,
-                "ranking": 6059.236088328075,
+                "ranking": 5827.025641025641,
                 "time_improvement": 10.58
             },
             "Prehistoric Playground": {
@@ -274,26 +355,35 @@
                 "old_points": 7,
                 "place_improvement": 0,
                 "points": 7,
-                "ranking": 1748.8039116719242,
+                "ranking": 1692.9871794871797,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 39,
+                "old_place": 39,
+                "old_points": 2,
+                "place_improvement": 0,
+                "points": 2,
+                "ranking": 1692.9871794871797,
+                "time_improvement": 1.87
             }
         }
     },
     "KalibeRaziel44": {
-        "old_total_points": 1262,
-        "ranking": 2027.2199999999998,
+        "old_total_points": 1929,
+        "ranking": 3429.1299999999997,
         "total_places_improved": 2,
-        "total_points": 1334,
-        "total_points_improved": 72,
-        "total_time_improved": 1.13,
+        "total_points": 2002,
+        "total_points_improved": 73,
+        "total_time_improved": 1.39,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 4,
+                "new_place": 5,
                 "old_place": 5,
                 "old_points": 631,
-                "place_improvement": 1,
-                "points": 667,
-                "ranking": 1013.6099999999999,
+                "place_improvement": 0,
+                "points": 631,
+                "ranking": 1080.502362464398,
                 "time_improvement": 1.0
             },
             "Prehistoric Playground": {
@@ -302,16 +392,25 @@
                 "old_points": 631,
                 "place_improvement": 1,
                 "points": 667,
-                "ranking": 1013.6099999999999,
+                "ranking": 1173.0287303252885,
                 "time_improvement": 0.13
+            },
+            "Spyro Circuit": {
+                "new_place": 3,
+                "old_place": 4,
+                "old_points": 667,
+                "place_improvement": 1,
+                "points": 704,
+                "ranking": 1175.5989072103132,
+                "time_improvement": 0.26
             }
         }
     },
     "Kideu98": {
-        "old_total_points": 933,
+        "old_total_points": 1637,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 873,
+        "total_points": 1476,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -325,21 +424,30 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 12,
+                "new_place": 13,
                 "old_place": 11,
                 "old_points": 436,
-                "place_improvement": -1,
-                "points": 407,
+                "place_improvement": -2,
+                "points": 379,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 5,
+                "old_place": 3,
+                "old_points": 704,
+                "place_improvement": -2,
+                "points": 631,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
         }
     },
     "Kranczuu": {
-        "old_total_points": 75,
+        "old_total_points": 229,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 48,
+        "total_points": 185,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -360,14 +468,23 @@
                 "points": 37,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 24,
+                "old_place": 23,
+                "old_points": 154,
+                "place_improvement": -1,
+                "points": 137,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Krisao_": {
-        "old_total_points": 333,
+        "old_total_points": 389,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 267,
+        "total_points": 313,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -388,14 +505,23 @@
                 "points": 211,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 31,
+                "old_place": 30,
+                "old_points": 56,
+                "place_improvement": -1,
+                "points": 46,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "MEDYK-POLSKA": {
-        "old_total_points": 38,
-        "ranking": 79.2,
+        "old_total_points": 67,
+        "ranking": 92.39999999999999,
         "total_places_improved": 0,
-        "total_points": 32,
+        "total_points": 54,
         "total_points_improved": 0,
         "total_time_improved": 0.6,
         "tracks": {
@@ -405,7 +531,7 @@
                 "old_points": 22,
                 "place_improvement": -1,
                 "points": 16,
-                "ranking": 34.52307692307692,
+                "ranking": 28.860453400503776,
                 "time_improvement": 0.6
             },
             "Prehistoric Playground": {
@@ -414,44 +540,62 @@
                 "old_points": 16,
                 "place_improvement": 0,
                 "points": 16,
-                "ranking": 44.67692307692308,
+                "ranking": 35.84282115869017,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 34,
+                "old_place": 33,
+                "old_points": 29,
+                "place_improvement": -1,
+                "points": 22,
+                "ranking": 27.696725440806045,
                 "time_improvement": 0.0
             }
         }
     },
     "Maties_Gamer": {
-        "old_total_points": 1093,
+        "old_total_points": 1622,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1028,
+        "total_points": 1462,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 7,
+                "new_place": 8,
                 "old_place": 6,
                 "old_points": 596,
-                "place_improvement": -1,
-                "points": 562,
+                "place_improvement": -2,
+                "points": 529,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 10,
+                "new_place": 11,
                 "old_place": 9,
                 "old_points": 497,
+                "place_improvement": -2,
+                "points": 436,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 9,
+                "old_place": 8,
+                "old_points": 529,
                 "place_improvement": -1,
-                "points": 466,
+                "points": 497,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
         }
     },
     "NETGEAR-Stanley": {
-        "old_total_points": 104,
+        "old_total_points": 105,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 66,
+        "total_points": 67,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -472,14 +616,23 @@
                 "points": 29,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 40,
+                "old_place": 40,
+                "old_points": 1,
+                "place_improvement": 0,
+                "points": 1,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "NadinWins": {
-        "old_total_points": 509,
+        "old_total_points": 576,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 423,
+        "total_points": 490,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -500,14 +653,23 @@
                 "points": 232,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 29,
+                "old_place": 29,
+                "old_points": 67,
+                "place_improvement": 0,
+                "points": 67,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "OFF23PL": {
-        "old_total_points": 18,
+        "old_total_points": 29,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 9,
+        "total_points": 16,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -528,25 +690,34 @@
                 "points": 2,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 37,
+                "old_place": 36,
+                "old_points": 11,
+                "place_improvement": -1,
+                "points": 7,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Oskiboski1948": {
-        "old_total_points": 278,
-        "ranking": 14404.44,
-        "total_places_improved": 16,
-        "total_points": 606,
-        "total_points_improved": 328,
-        "total_time_improved": 6.140000000000001,
+        "old_total_points": 370,
+        "ranking": 47144.08,
+        "total_places_improved": 33,
+        "total_points": 1056,
+        "total_points_improved": 686,
+        "total_time_improved": 10.280000000000001,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 18,
+                "new_place": 14,
                 "old_place": 22,
                 "old_points": 172,
-                "place_improvement": 4,
-                "points": 254,
-                "ranking": 5267.154338138926,
-                "time_improvement": 3.27
+                "place_improvement": 8,
+                "points": 352,
+                "ranking": 14051.642284720208,
+                "time_improvement": 4.87
             },
             "Prehistoric Playground": {
                 "new_place": 14,
@@ -554,16 +725,25 @@
                 "old_points": 106,
                 "place_improvement": 12,
                 "points": 352,
-                "ranking": 9137.285661861075,
+                "ranking": 16307.012884894173,
                 "time_improvement": 2.87
+            },
+            "Spyro Circuit": {
+                "new_place": 14,
+                "old_place": 27,
+                "old_points": 92,
+                "place_improvement": 13,
+                "points": 352,
+                "ranking": 16785.42483038562,
+                "time_improvement": 2.54
             }
         }
     },
     "TyczekPL": {
-        "old_total_points": 177,
-        "ranking": 831.5999999999999,
+        "old_total_points": 409,
+        "ranking": 1461.8999999999999,
         "total_places_improved": 0,
-        "total_points": 152,
+        "total_points": 343,
         "total_points_improved": 0,
         "total_time_improved": 3.3,
         "tracks": {
@@ -573,7 +753,7 @@
                 "old_points": 56,
                 "place_improvement": -1,
                 "points": 46,
-                "ranking": 443.2274406332453,
+                "ranking": 575.1018018018018,
                 "time_improvement": 3.3
             },
             "Prehistoric Playground": {
@@ -582,16 +762,25 @@
                 "old_points": 121,
                 "place_improvement": -1,
                 "points": 106,
-                "ranking": 388.37255936675456,
+                "ranking": 538.5177177177177,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 21,
+                "old_place": 19,
+                "old_points": 232,
+                "place_improvement": -2,
+                "points": 191,
+                "ranking": 348.28048048048043,
                 "time_improvement": 0.0
             }
         }
     },
     "Wajsia": {
-        "old_total_points": 443,
+        "old_total_points": 769,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 363,
+        "total_points": 664,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -612,14 +801,23 @@
                 "points": 191,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 16,
+                "old_place": 15,
+                "old_points": 326,
+                "place_improvement": -1,
+                "points": 301,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Xenom435": {
-        "old_total_points": 18,
+        "old_total_points": 55,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 13,
+        "total_points": 42,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -640,25 +838,34 @@
                 "points": 11,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 33,
+                "old_place": 32,
+                "old_points": 37,
+                "place_improvement": -1,
+                "points": 29,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "Xerdzio": {
-        "old_total_points": 1304,
-        "ranking": 0.0,
-        "total_places_improved": 0,
-        "total_points": 1271,
-        "total_points_improved": 0,
-        "total_time_improved": 0.0,
+        "old_total_points": 1866,
+        "ranking": 6861.5199999999995,
+        "total_places_improved": 7,
+        "total_points": 2113,
+        "total_points_improved": 247,
+        "total_time_improved": 1.9899999999999998,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 8,
+                "new_place": 3,
                 "old_place": 7,
                 "old_points": 562,
-                "place_improvement": -1,
-                "points": 529,
-                "ranking": 0.0,
-                "time_improvement": 0.0
+                "place_improvement": 4,
+                "points": 704,
+                "ranking": 2547.14541021082,
+                "time_improvement": 1.4
             },
             "Prehistoric Playground": {
                 "new_place": 2,
@@ -666,16 +873,25 @@
                 "old_points": 742,
                 "place_improvement": 0,
                 "points": 742,
-                "ranking": 0.0,
+                "ranking": 1928.4409144018286,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 4,
+                "old_place": 7,
+                "old_points": 562,
+                "place_improvement": 3,
+                "points": 667,
+                "ranking": 2385.933675387351,
+                "time_improvement": 0.59
             }
         }
     },
     "ciemny_dark": {
-        "old_total_points": 426,
+        "old_total_points": 637,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 365,
+        "total_points": 537,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -696,14 +912,23 @@
                 "points": 154,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 22,
+                "old_place": 20,
+                "old_points": 211,
+                "place_improvement": -2,
+                "points": 172,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "cthulhuburi": {
-        "old_total_points": 50,
+        "old_total_points": 72,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 33,
+        "total_points": 49,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -722,6 +947,15 @@
                 "old_points": 4,
                 "place_improvement": 0,
                 "points": 4,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 35,
+                "old_place": 34,
+                "old_points": 22,
+                "place_improvement": -1,
+                "points": 16,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
@@ -752,16 +986,25 @@
                 "points": 0,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 41,
+                "old_place": 41,
+                "old_points": 0,
+                "place_improvement": 0,
+                "points": 0,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "janusz29": {
-        "old_total_points": 29,
-        "ranking": 22905.45,
-        "total_places_improved": 20,
-        "total_points": 188,
-        "total_points_improved": 159,
-        "total_time_improved": 21.150000000000002,
+        "old_total_points": 36,
+        "ranking": 36205.44,
+        "total_places_improved": 27,
+        "total_points": 244,
+        "total_points_improved": 208,
+        "total_time_improved": 26.160000000000004,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 25,
@@ -769,7 +1012,7 @@
                 "old_points": 0,
                 "place_improvement": 16,
                 "points": 121,
-                "ranking": 14919.450656455143,
+                "ranking": 16582.51088803089,
                 "time_improvement": 16.35
             },
             "Prehistoric Playground": {
@@ -778,16 +1021,25 @@
                 "old_points": 29,
                 "place_improvement": 4,
                 "points": 67,
-                "ranking": 7985.999343544858,
+                "ranking": 9330.938687258687,
                 "time_improvement": 4.8
+            },
+            "Spyro Circuit": {
+                "new_place": 30,
+                "old_place": 37,
+                "old_points": 7,
+                "place_improvement": 7,
+                "points": 56,
+                "ranking": 10291.990424710426,
+                "time_improvement": 5.01
             }
         }
     },
     "kubalok25": {
-        "old_total_points": 578,
+        "old_total_points": 657,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 486,
+        "total_points": 565,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -808,23 +1060,32 @@
                 "points": 254,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 28,
+                "old_place": 28,
+                "old_points": 79,
+                "place_improvement": 0,
+                "points": 79,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "luqas-2017": {
-        "old_total_points": 704,
+        "old_total_points": 1005,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 653,
+        "total_points": 904,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 14,
+                "new_place": 15,
                 "old_place": 14,
                 "old_points": 352,
-                "place_improvement": 0,
-                "points": 352,
+                "place_improvement": -1,
+                "points": 326,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -836,14 +1097,23 @@
                 "points": 301,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 17,
+                "old_place": 16,
+                "old_points": 301,
+                "place_improvement": -1,
+                "points": 277,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "marmero97": {
-        "old_total_points": 128,
+        "old_total_points": 174,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 101,
+        "total_points": 138,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -864,42 +1134,60 @@
                 "points": 22,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 32,
+                "old_place": 31,
+                "old_points": 46,
+                "place_improvement": -1,
+                "points": 37,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "mati1212": {
-        "old_total_points": 902,
-        "ranking": 6855.0,
-        "total_places_improved": 9,
-        "total_points": 1192,
-        "total_points_improved": 290,
-        "total_time_improved": 2.5,
+        "old_total_points": 1368,
+        "ranking": 10525.199999999999,
+        "total_places_improved": 11,
+        "total_points": 1720,
+        "total_points_improved": 352,
+        "total_time_improved": 2.94,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 6,
+                "new_place": 7,
                 "old_place": 11,
                 "old_points": 436,
-                "place_improvement": 5,
-                "points": 596,
-                "ranking": 3554.9479424888445,
+                "place_improvement": 4,
+                "points": 562,
+                "ranking": 3571.570637119113,
                 "time_improvement": 1.53
             },
             "Prehistoric Playground": {
+                "new_place": 7,
+                "old_place": 10,
+                "old_points": 466,
+                "place_improvement": 3,
+                "points": 562,
+                "ranking": 3352.9030470914126,
+                "time_improvement": 0.97
+            },
+            "Spyro Circuit": {
                 "new_place": 6,
                 "old_place": 10,
                 "old_points": 466,
                 "place_improvement": 4,
                 "points": 596,
-                "ranking": 3300.052057511155,
-                "time_improvement": 0.97
+                "ranking": 3600.7263157894736,
+                "time_improvement": 0.44
             }
         }
     },
     "myjniak": {
-        "old_total_points": 1304,
-        "ranking": 1275.03,
+        "old_total_points": 1935,
+        "ranking": 1767.93,
         "total_places_improved": 0,
-        "total_points": 1271,
+        "total_points": 1801,
         "total_points_improved": 0,
         "total_time_improved": 0.93,
         "tracks": {
@@ -909,25 +1197,34 @@
                 "old_points": 742,
                 "place_improvement": 0,
                 "points": 742,
-                "ranking": 678.3337718277066,
+                "ranking": 667.7597715080469,
                 "time_improvement": 0.93
             },
             "Prehistoric Playground": {
-                "new_place": 8,
+                "new_place": 9,
                 "old_place": 7,
                 "old_points": 562,
-                "place_improvement": -1,
-                "points": 529,
-                "ranking": 596.6962281722933,
+                "place_improvement": -2,
+                "points": 497,
+                "ranking": 553.5977905821578,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 7,
+                "old_place": 5,
+                "old_points": 631,
+                "place_improvement": -2,
+                "points": 562,
+                "ranking": 546.5724379097953,
                 "time_improvement": 0.0
             }
         }
     },
     "peteer_parker": {
-        "old_total_points": 104,
+        "old_total_points": 210,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 78,
+        "total_points": 170,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -948,24 +1245,33 @@
                 "points": 56,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 27,
+                "old_place": 26,
+                "old_points": 106,
+                "place_improvement": -1,
+                "points": 92,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "platko90": {
-        "old_total_points": 345,
-        "ranking": 11967.199999999999,
+        "old_total_points": 536,
+        "ranking": 13754.88,
         "total_places_improved": 13,
-        "total_points": 627,
-        "total_points_improved": 282,
-        "total_time_improved": 5.6,
+        "total_points": 814,
+        "total_points_improved": 278,
+        "total_time_improved": 5.97,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 16,
+                "new_place": 17,
                 "old_place": 23,
                 "old_points": 154,
-                "place_improvement": 7,
-                "points": 301,
-                "ranking": 6108.954748603352,
+                "place_improvement": 6,
+                "points": 277,
+                "ranking": 5089.838218780251,
                 "time_improvement": 3.9
             },
             "Prehistoric Playground": {
@@ -974,18 +1280,27 @@
                 "old_points": 191,
                 "place_improvement": 6,
                 "points": 326,
-                "ranking": 5858.245251396647,
+                "ranking": 5289.570261374636,
                 "time_improvement": 1.7
+            },
+            "Spyro Circuit": {
+                "new_place": 20,
+                "old_place": 21,
+                "old_points": 191,
+                "place_improvement": 1,
+                "points": 211,
+                "ranking": 3375.4715198451113,
+                "time_improvement": 0.37
             }
         }
     },
     "poco_mi_kumpel": {
-        "old_total_points": 1485,
-        "ranking": 28289.59,
+        "old_total_points": 2266,
+        "ranking": 50731.100000000006,
         "total_places_improved": 2,
-        "total_points": 9372,
+        "total_points": 10543.5,
         "total_points_improved": 77,
-        "total_time_improved": 2.87,
+        "total_time_improved": 4.6000000000000005,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 1,
@@ -993,7 +1308,7 @@
                 "old_points": 704,
                 "place_improvement": 2,
                 "points": 781,
-                "ranking": 14426.53466966734,
+                "ranking": 17313.299696739956,
                 "time_improvement": 1.74
             },
             "Prehistoric Playground": {
@@ -1002,16 +1317,25 @@
                 "old_points": 781,
                 "place_improvement": 0,
                 "points": 781,
-                "ranking": 13863.05533033266,
-                "time_improvement": 1.13
+                "ranking": 16708.900151630023,
+                "time_improvement": 2.46
+            },
+            "Spyro Circuit": {
+                "new_place": 1,
+                "old_place": 1,
+                "old_points": 781,
+                "place_improvement": 0,
+                "points": 781,
+                "ranking": 16708.900151630023,
+                "time_improvement": 0.4
             }
         }
     },
     "potbot0": {
-        "old_total_points": 200,
+        "old_total_points": 477,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 171,
+        "total_points": 425,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -1032,16 +1356,25 @@
                 "points": 79,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 18,
+                "old_place": 17,
+                "old_points": 277,
+                "place_improvement": -1,
+                "points": 254,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "przemekratchet89": {
-        "old_total_points": 786,
-        "ranking": 2501.6,
-        "total_places_improved": 1,
-        "total_points": 815,
-        "total_points_improved": 29,
-        "total_time_improved": 2.36,
+        "old_total_points": 1193,
+        "ranking": 5089.23,
+        "total_places_improved": 2,
+        "total_points": 1252,
+        "total_points_improved": 59,
+        "total_time_improved": 3.09,
         "tracks": {
             "Papu's Pyramid": {
                 "new_place": 13,
@@ -1049,25 +1382,34 @@
                 "old_points": 379,
                 "place_improvement": 0,
                 "points": 379,
-                "ranking": 1158.9691139240506,
+                "ranking": 1581.3925442427028,
                 "time_improvement": 1.7
             },
             "Prehistoric Playground": {
-                "new_place": 11,
+                "new_place": 12,
                 "old_place": 12,
                 "old_points": 407,
-                "place_improvement": 1,
-                "points": 436,
-                "ranking": 1342.6308860759493,
+                "place_improvement": 0,
+                "points": 407,
+                "ranking": 1581.3925442427028,
                 "time_improvement": 0.66
+            },
+            "Spyro Circuit": {
+                "new_place": 10,
+                "old_place": 12,
+                "old_points": 407,
+                "place_improvement": 2,
+                "points": 466,
+                "ranking": 1926.4449115145944,
+                "time_improvement": 0.73
             }
         }
     },
     "siarkowy7": {
-        "old_total_points": 291,
+        "old_total_points": 428,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 274,
+        "total_points": 395,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -1088,42 +1430,60 @@
                 "points": 137,
                 "ranking": 0.0,
                 "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 25,
+                "old_place": 24,
+                "old_points": 137,
+                "place_improvement": -1,
+                "points": 121,
+                "ranking": 0.0,
+                "time_improvement": 0.0
             }
         }
     },
     "silVersilVa89PL": {
-        "old_total_points": 1196,
-        "ranking": 699.9599999999999,
-        "total_places_improved": 0,
-        "total_points": 1128,
-        "total_points_improved": 0,
-        "total_time_improved": 0.57,
+        "old_total_points": 1792,
+        "ranking": 2091.32,
+        "total_places_improved": 2,
+        "total_points": 1721,
+        "total_points_improved": 67,
+        "total_time_improved": 0.97,
         "tracks": {
             "Papu's Pyramid": {
-                "new_place": 5,
+                "new_place": 6,
                 "old_place": 4,
                 "old_points": 667,
-                "place_improvement": -1,
-                "points": 631,
-                "ranking": 346.67206049149337,
+                "place_improvement": -2,
+                "points": 596,
+                "ranking": 600.2104776820674,
                 "time_improvement": 0.57
             },
             "Prehistoric Playground": {
-                "new_place": 9,
+                "new_place": 6,
                 "old_place": 8,
                 "old_points": 529,
-                "place_improvement": -1,
-                "points": 497,
-                "ranking": 353.2879395085066,
+                "place_improvement": 2,
+                "points": 596,
+                "ranking": 882.7106342991386,
+                "time_improvement": 0.4
+            },
+            "Spyro Circuit": {
+                "new_place": 8,
+                "old_place": 6,
+                "old_points": 596,
+                "place_improvement": -2,
+                "points": 529,
+                "ranking": 608.3988880187941,
                 "time_improvement": 0.0
             }
         }
     },
     "xSephiroth666x": {
-        "old_total_points": 328,
+        "old_total_points": 500,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 275,
+        "total_points": 429,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
@@ -1142,6 +1502,15 @@
                 "old_points": 137,
                 "place_improvement": -1,
                 "points": 121,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
+            "Spyro Circuit": {
+                "new_place": 23,
+                "old_place": 22,
+                "old_points": 172,
+                "place_improvement": -1,
+                "points": 154,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
