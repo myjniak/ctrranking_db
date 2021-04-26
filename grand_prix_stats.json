@@ -1,12 +1,21 @@
 {
     "Dejvik93": {
-        "old_total_points": 305,
+        "old_total_points": 426,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 265,
+        "total_points": 371,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 26,
+                "old_place": 25,
+                "old_points": 121,
+                "place_improvement": -1,
+                "points": 106,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 29,
                 "old_place": 27,
@@ -37,13 +46,22 @@
         }
     },
     "Dejwidgakure": {
-        "old_total_points": 76,
+        "old_total_points": 122,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 58,
+        "total_points": 80,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 34,
+                "old_place": 31,
+                "old_points": 46,
+                "place_improvement": -3,
+                "points": 22,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 40,
                 "old_place": 38,
@@ -74,20 +92,29 @@
         }
     },
     "FIVE": {
-        "old_total_points": 2227,
-        "ranking": 531.12,
-        "total_places_improved": 0,
-        "total_points": 2113,
-        "total_points_improved": 0,
-        "total_time_improved": 0.24000000000000002,
+        "old_total_points": 2894,
+        "ranking": 1364.88,
+        "total_places_improved": 1,
+        "total_points": 2817,
+        "total_points_improved": 37,
+        "total_time_improved": 0.44000000000000006,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 3,
+                "old_place": 4,
+                "old_points": 667,
+                "place_improvement": 1,
+                "points": 704,
+                "ranking": 375.24220154214305,
+                "time_improvement": 0.2
+            },
             "Papu's Pyramid": {
                 "new_place": 4,
                 "old_place": 1,
                 "old_points": 781,
                 "place_improvement": -3,
                 "points": 667,
-                "ranking": 143.78483440434997,
+                "ranking": 283.91149162456793,
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
@@ -96,7 +123,7 @@
                 "old_points": 704,
                 "place_improvement": 0,
                 "points": 704,
-                "ranking": 193.667582797825,
+                "ranking": 352.86315341664454,
                 "time_improvement": 0.14
             },
             "Spyro Circuit": {
@@ -105,19 +132,28 @@
                 "old_points": 742,
                 "place_improvement": 0,
                 "points": 742,
-                "ranking": 193.667582797825,
+                "ranking": 352.86315341664454,
                 "time_improvement": 0.1
             }
         }
     },
     "FelixPL": {
-        "old_total_points": 16,
+        "old_total_points": 17,
         "ranking": 0.0,
         "total_places_improved": 0,
         "total_points": 9,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 41,
+                "old_place": 40,
+                "old_points": 1,
+                "place_improvement": -1,
+                "points": 0,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 38,
                 "old_place": 36,
@@ -148,13 +184,22 @@
         }
     },
     "Greg": {
-        "old_total_points": 916,
+        "old_total_points": 1268,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 799,
+        "total_points": 1151,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 14,
+                "old_place": 14,
+                "old_points": 352,
+                "place_improvement": 0,
+                "points": 352,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 16,
                 "old_place": 15,
@@ -185,30 +230,39 @@
         }
     },
     "Gustlyk1": {
-        "old_total_points": 1138,
-        "ranking": 9244.82,
-        "total_places_improved": 4,
-        "total_points": 1252,
-        "total_points_improved": 114,
-        "total_time_improved": 4.81,
+        "old_total_points": 1604,
+        "ranking": 13857.66,
+        "total_places_improved": 6,
+        "total_points": 1781,
+        "total_points_improved": 177,
+        "total_time_improved": 5.01,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 10,
+                "old_place": 10,
+                "old_points": 466,
+                "place_improvement": 0,
+                "points": 466,
+                "ranking": 3099.804787727435,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 12,
                 "old_place": 12,
                 "old_points": 407,
                 "place_improvement": 0,
                 "points": 407,
-                "ranking": 2701.9015650670126,
+                "ranking": 3099.804787727435,
                 "time_improvement": 1.57
             },
             "Prehistoric Playground": {
-                "new_place": 10,
+                "new_place": 8,
                 "old_place": 13,
                 "old_points": 379,
-                "place_improvement": 3,
-                "points": 466,
-                "ranking": 3571.226402939905,
-                "time_improvement": 2.27
+                "place_improvement": 5,
+                "points": 529,
+                "ranking": 4335.771608990368,
+                "time_improvement": 2.47
             },
             "Spyro Circuit": {
                 "new_place": 13,
@@ -216,19 +270,28 @@
                 "old_points": 352,
                 "place_improvement": 1,
                 "points": 379,
-                "ranking": 2971.6920319930828,
+                "ranking": 3322.2788155547623,
                 "time_improvement": 0.97
             }
         }
     },
     "Hansuu93": {
-        "old_total_points": 881,
+        "old_total_points": 1113,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 763,
+        "total_points": 953,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 20,
+                "old_place": 19,
+                "old_points": 232,
+                "place_improvement": -1,
+                "points": 211,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 18,
                 "old_place": 16,
@@ -248,24 +311,33 @@
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
-                "new_place": 19,
+                "new_place": 20,
                 "old_place": 18,
                 "old_points": 254,
-                "place_improvement": -1,
-                "points": 232,
+                "place_improvement": -2,
+                "points": 211,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
         }
     },
     "Jakub_Luk": {
-        "old_total_points": 1561,
+        "old_total_points": 1968,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1433,
+        "total_points": 1780,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 13,
+                "old_place": 12,
+                "old_points": 407,
+                "place_improvement": -1,
+                "points": 379,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 9,
                 "old_place": 8,
@@ -276,11 +348,11 @@
                 "time_improvement": 0.0
             },
             "Prehistoric Playground": {
-                "new_place": 8,
+                "new_place": 9,
                 "old_place": 6,
                 "old_points": 596,
-                "place_improvement": -2,
-                "points": 529,
+                "place_improvement": -3,
+                "points": 497,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -296,13 +368,22 @@
         }
     },
     "JanneAhonen69": {
-        "old_total_points": 1630,
+        "old_total_points": 2192,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1503,
+        "total_points": 2065,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 7,
+                "old_place": 7,
+                "old_points": 562,
+                "place_improvement": 0,
+                "points": 562,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 11,
                 "old_place": 10,
@@ -333,20 +414,29 @@
         }
     },
     "Jay-183-": {
-        "old_total_points": 10,
-        "ranking": 9213.0,
-        "total_places_improved": 14,
-        "total_points": 115,
-        "total_points_improved": 105,
-        "total_time_improved": 12.45,
+        "old_total_points": 14,
+        "ranking": 24463.739999999998,
+        "total_places_improved": 20,
+        "total_points": 152,
+        "total_points_improved": 138,
+        "total_time_improved": 25.97,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 32,
+                "old_place": 38,
+                "old_points": 4,
+                "place_improvement": 6,
+                "points": 37,
+                "ranking": 6007.8796113074195,
+                "time_improvement": 13.52
+            },
             "Papu's Pyramid": {
                 "new_place": 26,
                 "old_place": 40,
                 "old_points": 1,
                 "place_improvement": 14,
                 "points": 106,
-                "ranking": 5827.025641025641,
+                "ranking": 11194.538268551236,
                 "time_improvement": 10.58
             },
             "Prehistoric Playground": {
@@ -355,7 +445,7 @@
                 "old_points": 7,
                 "place_improvement": 0,
                 "points": 7,
-                "ranking": 1692.9871794871797,
+                "ranking": 3630.6610600706713,
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
@@ -364,26 +454,35 @@
                 "old_points": 2,
                 "place_improvement": 0,
                 "points": 2,
-                "ranking": 1692.9871794871797,
+                "ranking": 3630.6610600706713,
                 "time_improvement": 1.87
             }
         }
     },
     "KalibeRaziel44": {
-        "old_total_points": 1929,
-        "ranking": 3429.1299999999997,
+        "old_total_points": 2525,
+        "ranking": 4257.57,
         "total_places_improved": 2,
-        "total_points": 2002,
+        "total_points": 2598,
         "total_points_improved": 73,
         "total_time_improved": 1.39,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 6,
+                "old_place": 6,
+                "old_points": 596,
+                "place_improvement": 0,
+                "points": 596,
+                "ranking": 1029.5710190911534,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 5,
                 "old_place": 5,
                 "old_points": 631,
                 "place_improvement": 0,
                 "points": 631,
-                "ranking": 1080.502362464398,
+                "ranking": 1029.5710190911534,
                 "time_improvement": 1.0
             },
             "Prehistoric Playground": {
@@ -392,7 +491,7 @@
                 "old_points": 631,
                 "place_improvement": 1,
                 "points": 667,
-                "ranking": 1173.0287303252885,
+                "ranking": 1098.2599677332616,
                 "time_improvement": 0.13
             },
             "Spyro Circuit": {
@@ -401,19 +500,28 @@
                 "old_points": 667,
                 "place_improvement": 1,
                 "points": 704,
-                "ranking": 1175.5989072103132,
+                "ranking": 1100.1679940844313,
                 "time_improvement": 0.26
             }
         }
     },
     "Kideu98": {
-        "old_total_points": 1637,
+        "old_total_points": 2073,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1476,
+        "total_points": 1912,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 11,
+                "old_place": 11,
+                "old_points": 436,
+                "place_improvement": 0,
+                "points": 436,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 10,
                 "old_place": 9,
@@ -444,21 +552,30 @@
         }
     },
     "Kranczuu": {
-        "old_total_points": 229,
-        "ranking": 0.0,
+        "old_total_points": 236,
+        "ranking": 289.06,
         "total_places_improved": 0,
-        "total_points": 185,
+        "total_points": 198,
         "total_points_improved": 0,
-        "total_time_improved": 0.0,
+        "total_time_improved": 0.97,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 39,
+                "old_place": 37,
+                "old_points": 7,
+                "place_improvement": -2,
+                "points": 2,
+                "ranking": 78.75586826347305,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
-                "new_place": 36,
+                "new_place": 34,
                 "old_place": 33,
                 "old_points": 29,
-                "place_improvement": -3,
-                "points": 11,
-                "ranking": 0.0,
-                "time_improvement": 0.0
+                "place_improvement": -1,
+                "points": 22,
+                "ranking": 75.8710379241517,
+                "time_improvement": 0.97
             },
             "Prehistoric Playground": {
                 "new_place": 32,
@@ -466,7 +583,7 @@
                 "old_points": 46,
                 "place_improvement": -1,
                 "points": 37,
-                "ranking": 0.0,
+                "ranking": 72.98620758483034,
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
@@ -475,19 +592,28 @@
                 "old_points": 154,
                 "place_improvement": -1,
                 "points": 137,
-                "ranking": 0.0,
+                "ranking": 61.446886227544915,
                 "time_improvement": 0.0
             }
         }
     },
     "Krisao_": {
-        "old_total_points": 389,
+        "old_total_points": 481,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 313,
+        "total_points": 392,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 28,
+                "old_place": 27,
+                "old_points": 92,
+                "place_improvement": -1,
+                "points": 79,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 30,
                 "old_place": 28,
@@ -518,20 +644,29 @@
         }
     },
     "MEDYK-POLSKA": {
-        "old_total_points": 67,
-        "ranking": 92.39999999999999,
+        "old_total_points": 104,
+        "ranking": 99.0,
         "total_places_improved": 0,
-        "total_points": 54,
+        "total_points": 65,
         "total_points_improved": 0,
         "total_time_improved": 0.6,
         "tracks": {
-            "Papu's Pyramid": {
+            "Hot Air Skyway": {
                 "new_place": 35,
+                "old_place": 32,
+                "old_points": 37,
+                "place_improvement": -3,
+                "points": 16,
+                "ranking": 12.774193548387096,
+                "time_improvement": 0.0
+            },
+            "Papu's Pyramid": {
+                "new_place": 36,
                 "old_place": 34,
                 "old_points": 22,
-                "place_improvement": -1,
-                "points": 16,
-                "ranking": 28.860453400503776,
+                "place_improvement": -2,
+                "points": 11,
+                "ranking": 23.41935483870968,
                 "time_improvement": 0.6
             },
             "Prehistoric Playground": {
@@ -540,7 +675,7 @@
                 "old_points": 16,
                 "place_improvement": 0,
                 "points": 16,
-                "ranking": 35.84282115869017,
+                "ranking": 35.12903225806452,
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
@@ -549,19 +684,28 @@
                 "old_points": 29,
                 "place_improvement": -1,
                 "points": 22,
-                "ranking": 27.696725440806045,
+                "ranking": 27.677419354838708,
                 "time_improvement": 0.0
             }
         }
     },
     "Maties_Gamer": {
-        "old_total_points": 1622,
+        "old_total_points": 2403,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 1462,
+        "total_points": 5367,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 1,
+                "old_place": 1,
+                "old_points": 781,
+                "place_improvement": 0,
+                "points": 781,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 8,
                 "old_place": 6,
@@ -592,13 +736,22 @@
         }
     },
     "NETGEAR-Stanley": {
-        "old_total_points": 105,
+        "old_total_points": 172,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 67,
+        "total_points": 123,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 30,
+                "old_place": 29,
+                "old_points": 67,
+                "place_improvement": -1,
+                "points": 56,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 32,
                 "old_place": 29,
@@ -629,13 +782,22 @@
         }
     },
     "NadinWins": {
-        "old_total_points": 576,
+        "old_total_points": 748,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 490,
+        "total_points": 644,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 23,
+                "old_place": 22,
+                "old_points": 172,
+                "place_improvement": -1,
+                "points": 154,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 21,
                 "old_place": 19,
@@ -666,13 +828,22 @@
         }
     },
     "OFF23PL": {
-        "old_total_points": 29,
+        "old_total_points": 31,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 16,
+        "total_points": 17,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 40,
+                "old_place": 39,
+                "old_points": 2,
+                "place_improvement": -1,
+                "points": 1,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 37,
                 "old_place": 35,
@@ -703,21 +874,30 @@
         }
     },
     "Oskiboski1948": {
-        "old_total_points": 370,
-        "ranking": 47144.08,
-        "total_places_improved": 33,
-        "total_points": 1056,
-        "total_points_improved": 686,
-        "total_time_improved": 10.280000000000001,
+        "old_total_points": 392,
+        "ranking": 158670.72,
+        "total_places_improved": 48,
+        "total_points": 1288,
+        "total_points_improved": 896,
+        "total_time_improved": 27.04,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 19,
+                "old_place": 34,
+                "old_points": 22,
+                "place_improvement": 15,
+                "points": 232,
+                "ranking": 38560.52784688995,
+                "time_improvement": 16.62
+            },
             "Papu's Pyramid": {
                 "new_place": 14,
                 "old_place": 22,
                 "old_points": 172,
                 "place_improvement": 8,
                 "points": 352,
-                "ranking": 14051.642284720208,
-                "time_improvement": 4.87
+                "ranking": 36188.058947368416,
+                "time_improvement": 5.01
             },
             "Prehistoric Playground": {
                 "new_place": 14,
@@ -725,7 +905,7 @@
                 "old_points": 106,
                 "place_improvement": 12,
                 "points": 352,
-                "ranking": 16307.012884894173,
+                "ranking": 41407.490526315785,
                 "time_improvement": 2.87
             },
             "Spyro Circuit": {
@@ -734,26 +914,35 @@
                 "old_points": 92,
                 "place_improvement": 13,
                 "points": 352,
-                "ranking": 16785.42483038562,
+                "ranking": 42514.64267942584,
                 "time_improvement": 2.54
             }
         }
     },
     "TyczekPL": {
-        "old_total_points": 409,
-        "ranking": 1461.8999999999999,
+        "old_total_points": 420,
+        "ranking": 1475.1,
         "total_places_improved": 0,
-        "total_points": 343,
+        "total_points": 347,
         "total_points_improved": 0,
         "total_time_improved": 3.3,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 38,
+                "old_place": 36,
+                "old_points": 11,
+                "place_improvement": -2,
+                "points": 4,
+                "ranking": 427.08446943078,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 31,
                 "old_place": 30,
                 "old_points": 56,
                 "place_improvement": -1,
                 "points": 46,
-                "ranking": 575.1018018018018,
+                "ranking": 411.535277582572,
                 "time_improvement": 3.3
             },
             "Prehistoric Playground": {
@@ -762,7 +951,7 @@
                 "old_points": 121,
                 "place_improvement": -1,
                 "points": 106,
-                "ranking": 538.5177177177177,
+                "ranking": 385.61995783555864,
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
@@ -771,19 +960,28 @@
                 "old_points": 232,
                 "place_improvement": -2,
                 "points": 191,
-                "ranking": 348.28048048048043,
+                "ranking": 250.86029515108922,
                 "time_improvement": 0.0
             }
         }
     },
     "Wajsia": {
-        "old_total_points": 769,
+        "old_total_points": 1095,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 664,
+        "total_points": 990,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 15,
+                "old_place": 15,
+                "old_points": 326,
+                "place_improvement": 0,
+                "points": 326,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 22,
                 "old_place": 20,
@@ -814,13 +1012,22 @@
         }
     },
     "Xenom435": {
-        "old_total_points": 55,
+        "old_total_points": 84,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 42,
+        "total_points": 53,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 36,
+                "old_place": 33,
+                "old_points": 29,
+                "place_improvement": -3,
+                "points": 11,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 39,
                 "old_place": 37,
@@ -851,20 +1058,29 @@
         }
     },
     "Xerdzio": {
-        "old_total_points": 1866,
-        "ranking": 6861.5199999999995,
-        "total_places_improved": 7,
-        "total_points": 2113,
-        "total_points_improved": 247,
-        "total_time_improved": 1.9899999999999998,
+        "old_total_points": 2570,
+        "ranking": 9898.8,
+        "total_places_improved": 8,
+        "total_points": 2855,
+        "total_points_improved": 285,
+        "total_time_improved": 2.26,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 2,
+                "old_place": 3,
+                "old_points": 704,
+                "place_improvement": 1,
+                "points": 742,
+                "ranking": 2350.4511891279726,
+                "time_improvement": 0.27
+            },
             "Papu's Pyramid": {
                 "new_place": 3,
                 "old_place": 7,
                 "old_points": 562,
                 "place_improvement": 4,
                 "points": 704,
-                "ranking": 2547.14541021082,
+                "ranking": 2739.0790486976216,
                 "time_improvement": 1.4
             },
             "Prehistoric Playground": {
@@ -873,7 +1089,7 @@
                 "old_points": 742,
                 "place_improvement": 0,
                 "points": 742,
-                "ranking": 1928.4409144018286,
+                "ranking": 2208.45254813137,
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
@@ -882,19 +1098,28 @@
                 "old_points": 562,
                 "place_improvement": 3,
                 "points": 667,
-                "ranking": 2385.933675387351,
+                "ranking": 2600.8172140430347,
                 "time_improvement": 0.59
             }
         }
     },
     "ciemny_dark": {
-        "old_total_points": 637,
+        "old_total_points": 774,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 537,
+        "total_points": 658,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 25,
+                "old_place": 24,
+                "old_points": 137,
+                "place_improvement": -1,
+                "points": 121,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 20,
                 "old_place": 18,
@@ -925,13 +1150,22 @@
         }
     },
     "cthulhuburi": {
-        "old_total_points": 72,
+        "old_total_points": 128,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 49,
+        "total_points": 78,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 33,
+                "old_place": 30,
+                "old_points": 56,
+                "place_improvement": -3,
+                "points": 29,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 33,
                 "old_place": 31,
@@ -962,13 +1196,22 @@
         }
     },
     "dnsgpa": {
-        "old_total_points": 2,
+        "old_total_points": 18,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 0,
+        "total_points": 7,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 37,
+                "old_place": 35,
+                "old_points": 16,
+                "place_improvement": -2,
+                "points": 7,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 41,
                 "old_place": 39,
@@ -1000,19 +1243,28 @@
     },
     "janusz29": {
         "old_total_points": 36,
-        "ranking": 36205.44,
-        "total_places_improved": 27,
-        "total_points": 244,
-        "total_points_improved": 208,
-        "total_time_improved": 26.160000000000004,
+        "ranking": 105742.0,
+        "total_places_improved": 37,
+        "total_points": 290,
+        "total_points_improved": 254,
+        "total_time_improved": 63.7,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 31,
+                "old_place": 41,
+                "old_points": 0,
+                "place_improvement": 10,
+                "points": 46,
+                "ranking": 23166.09187279152,
+                "time_improvement": 37.54
+            },
             "Papu's Pyramid": {
                 "new_place": 25,
                 "old_place": 41,
                 "old_points": 0,
                 "place_improvement": 16,
                 "points": 121,
-                "ranking": 16582.51088803089,
+                "ranking": 37177.840989399294,
                 "time_improvement": 16.35
             },
             "Prehistoric Playground": {
@@ -1021,7 +1273,7 @@
                 "old_points": 29,
                 "place_improvement": 4,
                 "points": 67,
-                "ranking": 9330.938687258687,
+                "ranking": 21671.505300353358,
                 "time_improvement": 4.8
             },
             "Spyro Circuit": {
@@ -1030,19 +1282,28 @@
                 "old_points": 7,
                 "place_improvement": 7,
                 "points": 56,
-                "ranking": 10291.990424710426,
+                "ranking": 23726.561837455833,
                 "time_improvement": 5.01
             }
         }
     },
     "kubalok25": {
-        "old_total_points": 657,
+        "old_total_points": 911,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 565,
+        "total_points": 819,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 18,
+                "old_place": 18,
+                "old_points": 254,
+                "place_improvement": 0,
+                "points": 254,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 19,
                 "old_place": 17,
@@ -1073,13 +1334,22 @@
         }
     },
     "luqas-2017": {
-        "old_total_points": 1005,
+        "old_total_points": 1306,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 904,
+        "total_points": 1182,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 16,
+                "old_place": 16,
+                "old_points": 301,
+                "place_improvement": 0,
+                "points": 301,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 15,
                 "old_place": 14,
@@ -1099,24 +1369,33 @@
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
-                "new_place": 17,
+                "new_place": 18,
                 "old_place": 16,
                 "old_points": 301,
-                "place_improvement": -1,
-                "points": 277,
+                "place_improvement": -2,
+                "points": 254,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
         }
     },
     "marmero97": {
-        "old_total_points": 174,
+        "old_total_points": 280,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 138,
+        "total_points": 230,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 27,
+                "old_place": 26,
+                "old_points": 106,
+                "place_improvement": -1,
+                "points": 92,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 28,
                 "old_place": 26,
@@ -1147,20 +1426,29 @@
         }
     },
     "mati1212": {
-        "old_total_points": 1368,
-        "ranking": 10525.199999999999,
+        "old_total_points": 1897,
+        "ranking": 12080.46,
         "total_places_improved": 11,
-        "total_points": 1720,
+        "total_points": 2249,
         "total_points_improved": 352,
         "total_time_improved": 2.94,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 8,
+                "old_place": 8,
+                "old_points": 529,
+                "place_improvement": 0,
+                "points": 529,
+                "ranking": 2543.653687701685,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 7,
                 "old_place": 11,
                 "old_points": 436,
                 "place_improvement": 4,
                 "points": 562,
-                "ranking": 3571.570637119113,
+                "ranking": 3225.859657583363,
                 "time_improvement": 1.53
             },
             "Prehistoric Playground": {
@@ -1169,7 +1457,7 @@
                 "old_points": 466,
                 "place_improvement": 3,
                 "points": 562,
-                "ranking": 3352.9030470914126,
+                "ranking": 3063.429664754392,
                 "time_improvement": 0.97
             },
             "Spyro Circuit": {
@@ -1178,35 +1466,44 @@
                 "old_points": 466,
                 "place_improvement": 4,
                 "points": 596,
-                "ranking": 3600.7263157894736,
+                "ranking": 3247.5169899605594,
                 "time_improvement": 0.44
             }
         }
     },
     "myjniak": {
-        "old_total_points": 1935,
-        "ranking": 1767.93,
+        "old_total_points": 2677,
+        "ranking": 2359.4100000000003,
         "total_places_improved": 0,
-        "total_points": 1801,
+        "total_points": 2437,
         "total_points_improved": 0,
         "total_time_improved": 0.93,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 4,
+                "old_place": 2,
+                "old_points": 742,
+                "place_improvement": -2,
+                "points": 667,
+                "ranking": 570.0764886008047,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 2,
                 "old_place": 2,
                 "old_points": 742,
                 "place_improvement": 0,
                 "points": 742,
-                "ranking": 667.7597715080469,
+                "ranking": 668.9565455967814,
                 "time_improvement": 0.93
             },
             "Prehistoric Playground": {
-                "new_place": 9,
+                "new_place": 10,
                 "old_place": 7,
                 "old_points": 562,
-                "place_improvement": -2,
-                "points": 497,
-                "ranking": 553.5977905821578,
+                "place_improvement": -3,
+                "points": 466,
+                "ranking": 542.3900726419313,
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
@@ -1215,25 +1512,34 @@
                 "old_points": 631,
                 "place_improvement": -2,
                 "points": 562,
-                "ranking": 546.5724379097953,
+                "ranking": 577.9868931604829,
                 "time_improvement": 0.0
             }
         }
     },
     "peteer_parker": {
-        "old_total_points": 210,
+        "old_total_points": 289,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 170,
+        "total_points": 231,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 29,
+                "old_place": 28,
+                "old_points": 79,
+                "place_improvement": -1,
+                "points": 67,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
-                "new_place": 34,
+                "new_place": 35,
                 "old_place": 32,
                 "old_points": 37,
-                "place_improvement": -2,
-                "points": 22,
+                "place_improvement": -3,
+                "points": 16,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             },
@@ -1258,21 +1564,30 @@
         }
     },
     "platko90": {
-        "old_total_points": 536,
-        "ranking": 13754.88,
-        "total_places_improved": 13,
-        "total_points": 814,
-        "total_points_improved": 278,
-        "total_time_improved": 5.97,
+        "old_total_points": 747,
+        "ranking": 21884.870000000003,
+        "total_places_improved": 16,
+        "total_points": 1071,
+        "total_points_improved": 344,
+        "total_time_improved": 7.57,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 21,
+                "old_place": 20,
+                "old_points": 211,
+                "place_improvement": -1,
+                "points": 191,
+                "ranking": 3718.067222398478,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 17,
                 "old_place": 23,
                 "old_points": 154,
                 "place_improvement": 6,
                 "points": 277,
-                "ranking": 5089.838218780251,
-                "time_improvement": 3.9
+                "ranking": 6200.250288705584,
+                "time_improvement": 4.07
             },
             "Prehistoric Playground": {
                 "new_place": 15,
@@ -1280,35 +1595,44 @@
                 "old_points": 191,
                 "place_improvement": 6,
                 "points": 326,
-                "ranking": 5289.570261374636,
-                "time_improvement": 1.7
+                "ranking": 6408.545371192894,
+                "time_improvement": 2.13
             },
             "Spyro Circuit": {
-                "new_place": 20,
+                "new_place": 17,
                 "old_place": 21,
                 "old_points": 191,
-                "place_improvement": 1,
-                "points": 211,
-                "ranking": 3375.4715198451113,
-                "time_improvement": 0.37
+                "place_improvement": 4,
+                "points": 277,
+                "ranking": 5558.007117703046,
+                "time_improvement": 1.37
             }
         }
     },
     "poco_mi_kumpel": {
-        "old_total_points": 2266,
-        "ranking": 50731.100000000006,
+        "old_total_points": 2897,
+        "ranking": 59022.600000000006,
         "total_places_improved": 2,
-        "total_points": 10543.5,
+        "total_points": 12346,
         "total_points_improved": 77,
         "total_time_improved": 4.6000000000000005,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 5,
+                "old_place": 5,
+                "old_points": 631,
+                "place_improvement": 0,
+                "points": 631,
+                "ranking": 14642.414231896193,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 1,
                 "old_place": 3,
                 "old_points": 704,
                 "place_improvement": 2,
                 "points": 781,
-                "ranking": 17313.299696739956,
+                "ranking": 15095.35730431143,
                 "time_improvement": 1.74
             },
             "Prehistoric Playground": {
@@ -1317,7 +1641,7 @@
                 "old_points": 781,
                 "place_improvement": 0,
                 "points": 781,
-                "ranking": 16708.900151630023,
+                "ranking": 14642.414231896193,
                 "time_improvement": 2.46
             },
             "Spyro Circuit": {
@@ -1326,19 +1650,28 @@
                 "old_points": 781,
                 "place_improvement": 0,
                 "points": 781,
-                "ranking": 16708.900151630023,
+                "ranking": 14642.414231896193,
                 "time_improvement": 0.4
             }
         }
     },
     "potbot0": {
-        "old_total_points": 477,
+        "old_total_points": 754,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 425,
+        "total_points": 680,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 17,
+                "old_place": 17,
+                "old_points": 277,
+                "place_improvement": 0,
+                "points": 277,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 27,
                 "old_place": 25,
@@ -1358,31 +1691,40 @@
                 "time_improvement": 0.0
             },
             "Spyro Circuit": {
-                "new_place": 18,
+                "new_place": 19,
                 "old_place": 17,
                 "old_points": 277,
-                "place_improvement": -1,
-                "points": 254,
+                "place_improvement": -2,
+                "points": 232,
                 "ranking": 0.0,
                 "time_improvement": 0.0
             }
         }
     },
     "przemekratchet89": {
-        "old_total_points": 1193,
-        "ranking": 5089.23,
-        "total_places_improved": 2,
-        "total_points": 1252,
-        "total_points_improved": 59,
-        "total_time_improved": 3.09,
+        "old_total_points": 1572,
+        "ranking": 8183.62,
+        "total_places_improved": 3,
+        "total_points": 1659,
+        "total_points_improved": 87,
+        "total_time_improved": 3.73,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 12,
+                "old_place": 13,
+                "old_points": 379,
+                "place_improvement": 1,
+                "points": 407,
+                "ranking": 2080.135775665908,
+                "time_improvement": 0.64
+            },
             "Papu's Pyramid": {
                 "new_place": 13,
                 "old_place": 13,
                 "old_points": 379,
                 "place_improvement": 0,
                 "points": 379,
-                "ranking": 1581.3925442427028,
+                "ranking": 1926.7819006826394,
                 "time_improvement": 1.7
             },
             "Prehistoric Playground": {
@@ -1391,7 +1733,7 @@
                 "old_points": 407,
                 "place_improvement": 0,
                 "points": 407,
-                "ranking": 1581.3925442427028,
+                "ranking": 1926.7819006826394,
                 "time_improvement": 0.66
             },
             "Spyro Circuit": {
@@ -1400,19 +1742,28 @@
                 "old_points": 407,
                 "place_improvement": 2,
                 "points": 466,
-                "ranking": 1926.4449115145944,
+                "ranking": 2249.9204229688125,
                 "time_improvement": 0.73
             }
         }
     },
     "siarkowy7": {
-        "old_total_points": 428,
+        "old_total_points": 619,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 395,
+        "total_points": 567,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 22,
+                "old_place": 21,
+                "old_points": 191,
+                "place_improvement": -1,
+                "points": 172,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 24,
                 "old_place": 24,
@@ -1443,20 +1794,29 @@
         }
     },
     "silVersilVa89PL": {
-        "old_total_points": 1792,
-        "ranking": 2091.32,
+        "old_total_points": 2289,
+        "ranking": 2573.41,
         "total_places_improved": 2,
-        "total_points": 1721,
+        "total_points": 2218,
         "total_points_improved": 67,
         "total_time_improved": 0.97,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 9,
+                "old_place": 9,
+                "old_points": 497,
+                "place_improvement": 0,
+                "points": 497,
+                "ranking": 668.9653897050576,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 6,
                 "old_place": 4,
                 "old_points": 667,
                 "place_improvement": -2,
                 "points": 596,
-                "ranking": 600.2104776820674,
+                "ranking": 566.5138308848267,
                 "time_improvement": 0.57
             },
             "Prehistoric Playground": {
@@ -1465,7 +1825,7 @@
                 "old_points": 529,
                 "place_improvement": 2,
                 "points": 596,
-                "ranking": 882.7106342991386,
+                "ranking": 765.6450297185152,
                 "time_improvement": 0.4
             },
             "Spyro Circuit": {
@@ -1474,19 +1834,28 @@
                 "old_points": 596,
                 "place_improvement": -2,
                 "points": 529,
-                "ranking": 608.3988880187941,
+                "ranking": 572.2857496916002,
                 "time_improvement": 0.0
             }
         }
     },
     "xSephiroth666x": {
-        "old_total_points": 500,
+        "old_total_points": 654,
         "ranking": 0.0,
         "total_places_improved": 0,
-        "total_points": 429,
+        "total_points": 566,
         "total_points_improved": 0,
         "total_time_improved": 0.0,
         "tracks": {
+            "Hot Air Skyway": {
+                "new_place": 24,
+                "old_place": 23,
+                "old_points": 154,
+                "place_improvement": -1,
+                "points": 137,
+                "ranking": 0.0,
+                "time_improvement": 0.0
+            },
             "Papu's Pyramid": {
                 "new_place": 23,
                 "old_place": 21,

@@ -2,6 +2,7 @@
     "Dejvik93": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -10,22 +11,25 @@
     "Dejwidgakure": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "FIVE": {
-        "total": 531,
+        "total": 1364,
         "tracks": {
-            "Papu's Pyramid": 143,
-            "Prehistoric Playground": 193,
-            "Spyro Circuit": 193
+            "Hot Air Skyway": 375,
+            "Papu's Pyramid": 283,
+            "Prehistoric Playground": 352,
+            "Spyro Circuit": 352
         }
     },
     "FelixPL": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -34,22 +38,25 @@
     "Greg": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "Gustlyk1": {
-        "total": 9244,
+        "total": 13857,
         "tracks": {
-            "Papu's Pyramid": 2701,
-            "Prehistoric Playground": 3571,
-            "Spyro Circuit": 2971
+            "Hot Air Skyway": 3099,
+            "Papu's Pyramid": 3099,
+            "Prehistoric Playground": 4335,
+            "Spyro Circuit": 3322
         }
     },
     "Hansuu93": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -58,6 +65,7 @@
     "Jakub_Luk": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -66,55 +74,62 @@
     "JanneAhonen69": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "Jay-183-": {
-        "total": 9213,
+        "total": 24463,
         "tracks": {
-            "Papu's Pyramid": 5827,
-            "Prehistoric Playground": 1692,
-            "Spyro Circuit": 1692
+            "Hot Air Skyway": 6007,
+            "Papu's Pyramid": 11194,
+            "Prehistoric Playground": 3630,
+            "Spyro Circuit": 3630
         }
     },
     "KalibeRaziel44": {
-        "total": 3429,
+        "total": 4257,
         "tracks": {
-            "Papu's Pyramid": 1080,
-            "Prehistoric Playground": 1173,
-            "Spyro Circuit": 1175
+            "Hot Air Skyway": 1029,
+            "Papu's Pyramid": 1029,
+            "Prehistoric Playground": 1098,
+            "Spyro Circuit": 1100
         }
     },
     "Kideu98": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "Kranczuu": {
-        "total": 0,
+        "total": 289,
         "tracks": {
-            "Papu's Pyramid": 0,
-            "Prehistoric Playground": 0,
-            "Spyro Circuit": 0
+            "Hot Air Skyway": 78,
+            "Papu's Pyramid": 75,
+            "Prehistoric Playground": 72,
+            "Spyro Circuit": 61
         }
     },
     "Krisao_": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "MEDYK-POLSKA": {
-        "total": 92,
+        "total": 99,
         "tracks": {
-            "Papu's Pyramid": 28,
+            "Hot Air Skyway": 12,
+            "Papu's Pyramid": 23,
             "Prehistoric Playground": 35,
             "Spyro Circuit": 27
         }
@@ -122,6 +137,7 @@
     "Maties_Gamer": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -130,6 +146,7 @@
     "NETGEAR-Stanley": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -138,6 +155,7 @@
     "NadinWins": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -146,30 +164,34 @@
     "OFF23PL": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "Oskiboski1948": {
-        "total": 47144,
+        "total": 158670,
         "tracks": {
-            "Papu's Pyramid": 14051,
-            "Prehistoric Playground": 16307,
-            "Spyro Circuit": 16785
+            "Hot Air Skyway": 38560,
+            "Papu's Pyramid": 36188,
+            "Prehistoric Playground": 41407,
+            "Spyro Circuit": 42514
         }
     },
     "TyczekPL": {
-        "total": 1461,
+        "total": 1475,
         "tracks": {
-            "Papu's Pyramid": 575,
-            "Prehistoric Playground": 538,
-            "Spyro Circuit": 348
+            "Hot Air Skyway": 427,
+            "Papu's Pyramid": 411,
+            "Prehistoric Playground": 385,
+            "Spyro Circuit": 250
         }
     },
     "Wajsia": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -178,22 +200,25 @@
     "Xenom435": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "Xerdzio": {
-        "total": 6861,
+        "total": 9898,
         "tracks": {
-            "Papu's Pyramid": 2547,
-            "Prehistoric Playground": 1928,
-            "Spyro Circuit": 2385
+            "Hot Air Skyway": 2350,
+            "Papu's Pyramid": 2739,
+            "Prehistoric Playground": 2208,
+            "Spyro Circuit": 2600
         }
     },
     "ciemny_dark": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -202,6 +227,7 @@
     "cthulhuburi": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -210,22 +236,25 @@
     "dnsgpa": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "janusz29": {
-        "total": 36205,
+        "total": 105742,
         "tracks": {
-            "Papu's Pyramid": 16582,
-            "Prehistoric Playground": 9330,
-            "Spyro Circuit": 10291
+            "Hot Air Skyway": 23166,
+            "Papu's Pyramid": 37177,
+            "Prehistoric Playground": 21671,
+            "Spyro Circuit": 23726
         }
     },
     "kubalok25": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -234,6 +263,7 @@
     "luqas-2017": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
@@ -242,86 +272,97 @@
     "marmero97": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "mati1212": {
-        "total": 10525,
+        "total": 12080,
         "tracks": {
-            "Papu's Pyramid": 3571,
-            "Prehistoric Playground": 3352,
-            "Spyro Circuit": 3600
+            "Hot Air Skyway": 2543,
+            "Papu's Pyramid": 3225,
+            "Prehistoric Playground": 3063,
+            "Spyro Circuit": 3247
         }
     },
     "myjniak": {
-        "total": 1767,
+        "total": 2359,
         "tracks": {
-            "Papu's Pyramid": 667,
-            "Prehistoric Playground": 553,
-            "Spyro Circuit": 546
+            "Hot Air Skyway": 570,
+            "Papu's Pyramid": 668,
+            "Prehistoric Playground": 542,
+            "Spyro Circuit": 577
         }
     },
     "peteer_parker": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "platko90": {
-        "total": 13754,
+        "total": 21884,
         "tracks": {
-            "Papu's Pyramid": 5089,
-            "Prehistoric Playground": 5289,
-            "Spyro Circuit": 3375
+            "Hot Air Skyway": 3718,
+            "Papu's Pyramid": 6200,
+            "Prehistoric Playground": 6408,
+            "Spyro Circuit": 5558
         }
     },
     "poco_mi_kumpel": {
-        "total": 50731,
+        "total": 59022,
         "tracks": {
-            "Papu's Pyramid": 17313,
-            "Prehistoric Playground": 16708,
-            "Spyro Circuit": 16708
+            "Hot Air Skyway": 14642,
+            "Papu's Pyramid": 15095,
+            "Prehistoric Playground": 14642,
+            "Spyro Circuit": 14642
         }
     },
     "potbot0": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "przemekratchet89": {
-        "total": 5089,
+        "total": 8183,
         "tracks": {
-            "Papu's Pyramid": 1581,
-            "Prehistoric Playground": 1581,
-            "Spyro Circuit": 1926
+            "Hot Air Skyway": 2080,
+            "Papu's Pyramid": 1926,
+            "Prehistoric Playground": 1926,
+            "Spyro Circuit": 2249
         }
     },
     "siarkowy7": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
         }
     },
     "silVersilVa89PL": {
-        "total": 2091,
+        "total": 2573,
         "tracks": {
-            "Papu's Pyramid": 600,
-            "Prehistoric Playground": 882,
-            "Spyro Circuit": 608
+            "Hot Air Skyway": 668,
+            "Papu's Pyramid": 566,
+            "Prehistoric Playground": 765,
+            "Spyro Circuit": 572
         }
     },
     "xSephiroth666x": {
         "total": 0,
         "tracks": {
+            "Hot Air Skyway": 0,
             "Papu's Pyramid": 0,
             "Prehistoric Playground": 0,
             "Spyro Circuit": 0
