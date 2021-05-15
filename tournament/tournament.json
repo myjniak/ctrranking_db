@@ -1,1 +1,41 @@
-{}
+{
+    "FIVE": {
+        "total": 702188,
+        "tracks": {
+            "Megamix Mania": "702188"
+        }
+    },
+    "FelixPL": {
+        "total": 1283490,
+        "tracks": {
+            "Assembly Lane": "398212",
+            "Jungle Boogie": "241912",
+            "Megamix Mania": "306438",
+            "Tiny Arena": "336928"
+        }
+    },
+    "myjniak": {
+        "total": 857129,
+        "tracks": {
+            "Megamix Mania": "815060"
+        }
+    },
+    "platko90": {
+        "total": 1679000,
+        "tracks": {
+            "Assembly Lane": "378200",
+            "Jungle Boogie": "399491",
+            "Megamix Mania": "398795",
+            "Tiny Arena": "502514"
+        }
+    },
+    "poco_mi_kumpel": {
+        "total": 2812717,
+        "tracks": {
+            "Assembly Lane": "705799",
+            "Jungle Boogie": "671188",
+            "Megamix Mania": "716421",
+            "Tiny Arena": "719309"
+        }
+    }
+}
