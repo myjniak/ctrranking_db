@@ -1251,12 +1251,12 @@
         "league": 2,
         "medals": {
             "bronze": 2,
-            "gold": 5,
+            "gold": 6,
             "silver": 0
         },
-        "total_points": 66,
-        "total_points_in_upper_league": 20,
-        "total_sum": "3040947",
+        "total_points": 76,
+        "total_points_in_upper_league": 24,
+        "total_sum": "3743135",
         "tracks": {
             "Android Alley": {
                 "medal": "bronze",
@@ -1354,9 +1354,9 @@
                 "result": "0"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "702188"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -1459,12 +1459,12 @@
         "league": 3,
         "medals": {
             "bronze": 0,
-            "gold": 0,
-            "silver": 0
+            "gold": 1,
+            "silver": 3
         },
-        "total_points": 0,
-        "total_points_in_upper_league": 0,
-        "total_sum": "0",
+        "total_points": 34,
+        "total_points_in_upper_league": 30,
+        "total_sum": "1283490",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -1472,9 +1472,9 @@
                 "result": "0"
             },
             "Assembly Lane": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "398212"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -1552,9 +1552,9 @@
                 "result": "0"
             },
             "Jungle Boogie": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "241912"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -1562,9 +1562,9 @@
                 "result": "0"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "306438"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -1642,9 +1642,9 @@
                 "result": "0"
             },
             "Tiny Arena": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "336928"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -3124,10 +3124,10 @@
         "medals": {
             "bronze": 0,
             "gold": 0,
-            "silver": 3
+            "silver": 2
         },
-        "total_points": 19,
-        "total_points_in_upper_league": 11,
+        "total_points": 17,
+        "total_points_in_upper_league": 9,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3136,8 +3136,8 @@
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 6.6,
+                "medal": null,
+                "points": 4.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -3332,10 +3332,10 @@
         "medals": {
             "bronze": 0,
             "gold": 0,
-            "silver": 3
+            "silver": 2
         },
-        "total_points": 19,
-        "total_points_in_upper_league": 11,
+        "total_points": 17,
+        "total_points_in_upper_league": 9,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3344,8 +3344,8 @@
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 6.6,
+                "medal": null,
+                "points": 4.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -3956,10 +3956,10 @@
         "medals": {
             "bronze": 0,
             "gold": 0,
-            "silver": 3
+            "silver": 2
         },
-        "total_points": 19,
-        "total_points_in_upper_league": 11,
+        "total_points": 17,
+        "total_points_in_upper_league": 9,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3968,8 +3968,8 @@
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 6.6,
+                "medal": null,
+                "points": 4.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -4372,10 +4372,10 @@
         "medals": {
             "bronze": 0,
             "gold": 0,
-            "silver": 3
+            "silver": 2
         },
-        "total_points": 19,
-        "total_points_in_upper_league": 11,
+        "total_points": 17,
+        "total_points_in_upper_league": 9,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -4384,8 +4384,8 @@
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 6.6,
+                "medal": null,
+                "points": 4.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -4791,7 +4791,7 @@
             "silver": 1
         },
         "total_points": 64,
-        "total_points_in_upper_league": 4,
+        "total_points_in_upper_league": 3,
         "total_sum": "2165068",
         "tracks": {
             "Android Alley": {
@@ -6244,10 +6244,10 @@
         "medals": {
             "bronze": 0,
             "gold": 0,
-            "silver": 3
+            "silver": 2
         },
-        "total_points": 19,
-        "total_points_in_upper_league": 11,
+        "total_points": 17,
+        "total_points_in_upper_league": 9,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -6256,8 +6256,8 @@
                 "result": "1"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 6.6,
+                "medal": null,
+                "points": 4.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -9570,11 +9570,11 @@
     "Xerdzio": {
         "league": 1,
         "medals": {
-            "bronze": 12,
+            "bronze": 11,
             "gold": 0,
             "silver": 0
         },
-        "total_points": 144,
+        "total_points": 143,
         "total_points_in_upper_league": 0,
         "total_sum": "16820272",
         "tracks": {
@@ -9674,8 +9674,8 @@
                 "result": "495783"
             },
             "Megamix Mania": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "621514"
             },
             "Meteor Gorge": {
@@ -10406,7 +10406,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 134,
+        "total_points": 133,
         "total_points_in_upper_league": 0,
         "total_sum": "18796291",
         "tracks": {
@@ -10507,7 +10507,7 @@
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "508350"
             },
             "Meteor Gorge": {
@@ -12278,7 +12278,7 @@
             "gold": 0,
             "silver": 3
         },
-        "total_points": 137,
+        "total_points": 136,
         "total_points_in_upper_league": 0,
         "total_sum": "17065523",
         "tracks": {
@@ -12379,7 +12379,7 @@
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "538699"
             },
             "Meteor Gorge": {
@@ -12483,12 +12483,12 @@
         "league": 1,
         "medals": {
             "bronze": 9,
-            "gold": 1,
+            "gold": 2,
             "silver": 4
         },
-        "total_points": 183,
+        "total_points": 191,
         "total_points_in_upper_league": 0,
-        "total_sum": "22469776",
+        "total_sum": "22829591",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -12586,9 +12586,9 @@
                 "result": "242585"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 2.0,
-                "result": "455245"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "815060"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -13107,12 +13107,12 @@
         "league": 3,
         "medals": {
             "bronze": 0,
-            "gold": 0,
-            "silver": 0
+            "gold": 3,
+            "silver": 1
         },
-        "total_points": 0,
-        "total_points_in_upper_league": 0,
-        "total_sum": "0",
+        "total_points": 38,
+        "total_points_in_upper_league": 36,
+        "total_sum": "1679000",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -13120,9 +13120,9 @@
                 "result": "0"
             },
             "Assembly Lane": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "378200"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -13200,9 +13200,9 @@
                 "result": "0"
             },
             "Jungle Boogie": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "399491"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -13210,9 +13210,9 @@
                 "result": "0"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "398795"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -13290,9 +13290,9 @@
                 "result": "0"
             },
             "Tiny Arena": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "502514"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -13315,12 +13315,12 @@
         "league": 1,
         "medals": {
             "bronze": 4,
-            "gold": 33,
-            "silver": 1
+            "gold": 32,
+            "silver": 2
         },
-        "total_points": 367,
+        "total_points": 365,
         "total_points_in_upper_league": 0,
-        "total_sum": "33358668",
+        "total_sum": "33362558",
         "tracks": {
             "Android Alley": {
                 "medal": "gold",
@@ -13410,7 +13410,7 @@
             "Jungle Boogie": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "667298"
+                "result": "671188"
             },
             "Koala Carnival": {
                 "medal": "gold",
@@ -13418,8 +13418,8 @@
                 "result": "569877"
             },
             "Megamix Mania": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "741529"
             },
             "Meteor Gorge": {
@@ -13730,11 +13730,11 @@
     "przemekratchet89": {
         "league": 1,
         "medals": {
-            "bronze": 4,
+            "bronze": 5,
             "gold": 5,
-            "silver": 29
+            "silver": 28
         },
-        "total_points": 311,
+        "total_points": 309,
         "total_points_in_upper_league": 0,
         "total_sum": "30000903",
         "tracks": {
@@ -13834,8 +13834,8 @@
                 "result": "564204"
             },
             "Megamix Mania": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "707949"
             },
             "Meteor Gorge": {
@@ -13939,11 +13939,11 @@
         "league": 2,
         "medals": {
             "bronze": 1,
-            "gold": 14,
-            "silver": 13
+            "gold": 13,
+            "silver": 14
         },
-        "total_points": 272,
-        "total_points_in_upper_league": 33,
+        "total_points": 270,
+        "total_points_in_upper_league": 32,
         "total_sum": "7415434",
         "tracks": {
             "Android Alley": {
@@ -14042,8 +14042,8 @@
                 "result": "306240"
             },
             "Megamix Mania": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "217573"
             },
             "Meteor Gorge": {
@@ -14150,7 +14150,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 169,
+        "total_points": 168,
         "total_points_in_upper_league": 0,
         "total_sum": "21865301",
         "tracks": {
@@ -14251,7 +14251,7 @@
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "497769"
             },
             "Meteor Gorge": {
