@@ -1,5 +1,12 @@
 {
     "FIVE": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "OLIVE RETRO KART"
+            },
+            "start_timestamp": "2021-05-15T14:45:54Z"
+        },
         "Jungle Boogie": {
             "setup": {
                 "character": "Dingodile",
@@ -17,6 +24,13 @@
                 "tires": "CLASSIC"
             },
             "start_timestamp": "2021-05-15T12:09:12Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Pura",
+                "kart": "BLUE RETRO KART"
+            },
+            "start_timestamp": "2021-05-15T14:05:46Z"
         }
     },
     "FelixPL": {
@@ -51,6 +65,44 @@
             "start_timestamp": "2021-05-10T18:36:10Z"
         }
     },
+    "Kranczuu": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Polar",
+                "kart": "CLASSIC",
+                "paint_job": "PINK",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T16:49:50Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Crash",
+                "kart": "CLASSIC",
+                "paint_job": "PURPLE",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T16:33:47Z"
+        },
+        "Megamix Mania": {
+            "setup": {
+                "character": "Polar",
+                "kart": "CLASSIC",
+                "paint_job": "GREEN",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T16:25:03Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Tiny Tiger",
+                "kart": "CLASSIC",
+                "paint_job": "PURPLE",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-16T16:40:42Z"
+        }
+    },
     "Maties_Gamer": {
         "Assembly Lane": {
             "setup": {
@@ -62,13 +114,140 @@
             "start_timestamp": "2021-05-10T15:40:51Z"
         }
     },
+    "Xerdzio": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "N.Gin",
+                "kart": "GREEN RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T10:20:14Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Polar",
+                "kart": "CLASSIC",
+                "paint_job": "OLIVE",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-15T15:01:07Z"
+        },
+        "Megamix Mania": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "PURPLE RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T10:48:25Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "GREEN RETRO KART"
+            },
+            "start_timestamp": "2021-05-15T15:24:23Z"
+        }
+    },
+    "janusz29": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Cortex",
+                "kart": "CLASSIC",
+                "paint_job": "OLIVE",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T17:19:22Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "CLASSIC",
+                "paint_job": "RED",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-16T16:58:07Z"
+        },
+        "Megamix Mania": {
+            "setup": {
+                "character": "Polar",
+                "kart": "PURPLE RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T16:45:12Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "N.Gin",
+                "kart": "OLIVE RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T17:09:20Z"
+        }
+    },
+    "mati1212": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Tiny Tiger",
+                "kart": "CLASSIC",
+                "paint_job": "OLIVE",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-15T16:10:04Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Crash",
+                "kart": "BLUE RETRO KART"
+            },
+            "start_timestamp": "2021-05-15T15:10:45Z"
+        },
+        "Megamix Mania": {
+            "setup": {
+                "character": "Cortex",
+                "kart": "CLASSIC",
+                "paint_job": "PURPLE",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-15T14:40:12Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Coco",
+                "kart": "CLASSIC",
+                "paint_job": "PURPLE",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-15T15:40:56Z"
+        }
+    },
     "myjniak": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Pura",
+                "kart": "CLASSIC",
+                "paint_job": "RED",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T09:36:43Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Pura",
+                "kart": "GREEN RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T10:29:34Z"
+        },
         "Megamix Mania": {
             "setup": {
                 "character": "Crash",
                 "kart": "AQUA RETRO KART"
             },
             "start_timestamp": "2021-05-09T19:25:33Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "CLASSIC",
+                "paint_job": "AQUA",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-16T10:06:37Z"
         }
     },
     "platko90": {
@@ -139,7 +318,57 @@
             "start_timestamp": "2021-05-12T15:52:45Z"
         }
     },
+    "przemekratchet89": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Pura",
+                "kart": "PINK RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T17:13:34Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Coco",
+                "kart": "PINK RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T12:16:39Z"
+        },
+        "Megamix Mania": {
+            "setup": {
+                "character": "Coco",
+                "kart": "CLASSIC",
+                "paint_job": "AQUA",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-16T11:19:38Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Pura",
+                "kart": "CLASSIC",
+                "paint_job": "AQUA",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T16:41:20Z"
+        }
+    },
     "silVersilVa89PL": {
+        "Assembly Lane": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "CLASSIC",
+                "paint_job": "PINK",
+                "tires": "RETRO"
+            },
+            "start_timestamp": "2021-05-16T06:20:25Z"
+        },
+        "Jungle Boogie": {
+            "setup": {
+                "character": "Dingodile",
+                "kart": "PINK RETRO KART"
+            },
+            "start_timestamp": "2021-05-16T05:04:16Z"
+        },
         "Megamix Mania": {
             "setup": {
                 "character": "Polar",
@@ -147,7 +376,16 @@
                 "paint_job": "PINK",
                 "tires": "CLASSIC"
             },
-            "start_timestamp": "2021-05-15T11:55:39Z"
+            "start_timestamp": "2021-05-15T12:25:39Z"
+        },
+        "Tiny Arena": {
+            "setup": {
+                "character": "Crash",
+                "kart": "CLASSIC",
+                "paint_job": "VIOLET",
+                "tires": "CLASSIC"
+            },
+            "start_timestamp": "2021-05-16T05:44:42Z"
         }
     }
 }

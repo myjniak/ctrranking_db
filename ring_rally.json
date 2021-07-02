@@ -1248,29 +1248,29 @@
         }
     },
     "FIVE": {
-        "league": 2,
+        "league": 1,
         "medals": {
-            "bronze": 2,
-            "gold": 6,
+            "bronze": 1,
+            "gold": 1,
             "silver": 0
         },
-        "total_points": 76,
-        "total_points_in_upper_league": 24,
-        "total_sum": "3743135",
+        "total_points": 48,
+        "total_points_in_upper_league": 0,
+        "total_sum": "5955007",
         "tracks": {
             "Android Alley": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 1.5,
                 "result": "2"
             },
             "Assembly Lane": {
-                "medal": "gold",
-                "points": 10.0,
-                "result": "2"
+                "medal": null,
+                "points": 5.0,
+                "result": "765175"
             },
             "Barin Ruins": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 1.5,
                 "result": "2"
             },
             "Blizzard Bluff": {
@@ -1289,13 +1289,13 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": null,
+                "points": 4.0,
                 "result": "825178"
             },
             "Crash Cove": {
                 "medal": null,
-                "points": 4.0,
+                "points": 1.0,
                 "result": "5"
             },
             "Deep Sea Driving": {
@@ -1309,8 +1309,8 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "711495"
             },
             "Drive-Thru Danger": {
@@ -1344,9 +1344,9 @@
                 "result": "0"
             },
             "Jungle Boogie": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "675923"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -1354,8 +1354,8 @@
                 "result": "0"
             },
             "Megamix Mania": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": null,
+                "points": 4.0,
                 "result": "702188"
             },
             "Meteor Gorge": {
@@ -1374,8 +1374,8 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "514799"
             },
             "Out of Time": {
@@ -1424,8 +1424,8 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "989464"
             },
             "Tiger Temple": {
@@ -1434,9 +1434,9 @@
                 "result": "0"
             },
             "Tiny Arena": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "770776"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -1458,12 +1458,12 @@
     "FelixPL": {
         "league": 3,
         "medals": {
-            "bronze": 0,
+            "bronze": 2,
             "gold": 1,
-            "silver": 3
+            "silver": 1
         },
-        "total_points": 34,
-        "total_points_in_upper_league": 30,
+        "total_points": 30,
+        "total_points_in_upper_league": 24,
         "total_sum": "1283490",
         "tracks": {
             "Android Alley": {
@@ -1552,8 +1552,8 @@
                 "result": "0"
             },
             "Jungle Boogie": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "241912"
             },
             "Koala Carnival": {
@@ -1642,8 +1642,8 @@
                 "result": "0"
             },
             "Tiny Arena": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "336928"
             },
             "Tiny Temple": {
@@ -2498,11 +2498,11 @@
     "Gustlyk1": {
         "league": 2,
         "medals": {
-            "bronze": 5,
+            "bronze": 1,
             "gold": 3,
-            "silver": 1
+            "silver": 5
         },
-        "total_points": 73,
+        "total_points": 81,
         "total_points_in_upper_league": 10,
         "total_sum": "3810515",
         "tracks": {
@@ -2537,8 +2537,8 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "488340"
             },
             "Crash Cove": {
@@ -2557,8 +2557,8 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "291416"
             },
             "Drive-Thru Danger": {
@@ -2622,8 +2622,8 @@
                 "result": "307795"
             },
             "Nina's Nightmare": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "405350"
             },
             "Out of Time": {
@@ -2672,8 +2672,8 @@
                 "result": "0"
             },
             "Thunder Struck": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "488343"
             },
             "Tiger Temple": {
@@ -3126,8 +3126,8 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 17,
-        "total_points_in_upper_league": 9,
+        "total_points": 16,
+        "total_points_in_upper_league": 10,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3137,7 +3137,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -3334,8 +3334,8 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 17,
-        "total_points_in_upper_league": 9,
+        "total_points": 16,
+        "total_points_in_upper_league": 10,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3345,7 +3345,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -3539,10 +3539,10 @@
         "league": 2,
         "medals": {
             "bronze": 0,
-            "gold": 7,
-            "silver": 5
+            "gold": 11,
+            "silver": 1
         },
-        "total_points": 110,
+        "total_points": 118,
         "total_points_in_upper_league": 24,
         "total_sum": "4566113",
         "tracks": {
@@ -3577,8 +3577,8 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "gold",
+                "points": 10.0,
                 "result": "514899"
             },
             "Crash Cove": {
@@ -3597,8 +3597,8 @@
                 "result": "0"
             },
             "Dragon Mines": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "gold",
+                "points": 10.0,
                 "result": "314209"
             },
             "Drive-Thru Danger": {
@@ -3662,8 +3662,8 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "gold",
+                "points": 10.0,
                 "result": "431653"
             },
             "Out of Time": {
@@ -3712,8 +3712,8 @@
                 "result": "218257"
             },
             "Thunder Struck": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "gold",
+                "points": 10.0,
                 "result": "527683"
             },
             "Tiger Temple": {
@@ -3958,8 +3958,8 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 17,
-        "total_points_in_upper_league": 9,
+        "total_points": 16,
+        "total_points_in_upper_league": 10,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -3969,7 +3969,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -4374,8 +4374,8 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 17,
-        "total_points_in_upper_league": 9,
+        "total_points": 16,
+        "total_points_in_upper_league": 10,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -4385,7 +4385,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -4786,13 +4786,13 @@
     "Kranczuu": {
         "league": 2,
         "medals": {
-            "bronze": 2,
-            "gold": 2,
+            "bronze": 5,
+            "gold": 5,
             "silver": 1
         },
-        "total_points": 64,
-        "total_points_in_upper_league": 3,
-        "total_sum": "2165068",
+        "total_points": 98,
+        "total_points_in_upper_league": 2,
+        "total_sum": "3383511",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -4800,9 +4800,9 @@
                 "result": "0"
             },
             "Assembly Lane": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "450756"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -4825,8 +4825,8 @@
                 "result": "0"
             },
             "Cortex Castle": {
-                "medal": null,
-                "points": 5.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "308439"
             },
             "Crash Cove": {
@@ -4845,8 +4845,8 @@
                 "result": "218693"
             },
             "Dragon Mines": {
-                "medal": null,
-                "points": 5.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "221485"
             },
             "Drive-Thru Danger": {
@@ -4882,7 +4882,7 @@
             "Jungle Boogie": {
                 "medal": "gold",
                 "points": 10.0,
-                "result": "247589"
+                "result": "292629"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -4890,9 +4890,9 @@
                 "result": "0"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "351995"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -4910,8 +4910,8 @@
                 "result": "0"
             },
             "Nina's Nightmare": {
-                "medal": null,
-                "points": 5.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "234682"
             },
             "Out of Time": {
@@ -4961,7 +4961,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 4.0,
+                "points": 5.0,
                 "result": "218392"
             },
             "Tiger Temple": {
@@ -4970,9 +4970,9 @@
                 "result": "0"
             },
             "Tiny Arena": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "370652"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -6246,8 +6246,8 @@
             "gold": 0,
             "silver": 2
         },
-        "total_points": 17,
-        "total_points_in_upper_league": 9,
+        "total_points": 16,
+        "total_points_in_upper_league": 8,
         "total_sum": "3",
         "tracks": {
             "Android Alley": {
@@ -6257,7 +6257,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "1"
             },
             "Barin Ruins": {
@@ -9570,27 +9570,27 @@
     "Xerdzio": {
         "league": 1,
         "medals": {
-            "bronze": 11,
+            "bronze": 10,
             "gold": 0,
             "silver": 0
         },
-        "total_points": 143,
+        "total_points": 130,
         "total_points_in_upper_league": 0,
-        "total_sum": "16820272",
+        "total_sum": "17643395",
         "tracks": {
             "Android Alley": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.5,
                 "result": "2"
             },
             "Assembly Lane": {
                 "medal": null,
                 "points": 2.0,
-                "result": "2"
+                "result": "671242"
             },
             "Barin Ruins": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.5,
                 "result": "2"
             },
             "Blizzard Bluff": {
@@ -9610,7 +9610,7 @@
             },
             "Cortex Castle": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "732588"
             },
             "Crash Cove": {
@@ -9630,7 +9630,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "533190"
             },
             "Drive-Thru Danger": {
@@ -9664,8 +9664,8 @@
                 "result": "582756"
             },
             "Jungle Boogie": {
-                "medal": "bronze",
-                "points": 6.0,
+                "medal": null,
+                "points": 3.0,
                 "result": "610440"
             },
             "Koala Carnival": {
@@ -9675,8 +9675,8 @@
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 5.0,
-                "result": "621514"
+                "points": 3.0,
+                "result": "696546"
             },
             "Meteor Gorge": {
                 "medal": "bronze",
@@ -9695,7 +9695,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "453832"
             },
             "Out of Time": {
@@ -9745,7 +9745,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "836196"
             },
             "Tiger Temple": {
@@ -9755,8 +9755,8 @@
             },
             "Tiny Arena": {
                 "medal": null,
-                "points": 5.0,
-                "result": "568355"
+                "points": 2.0,
+                "result": "645206"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -10406,7 +10406,7 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 133,
+        "total_points": 120,
         "total_points_in_upper_league": 0,
         "total_sum": "18796291",
         "tracks": {
@@ -10417,7 +10417,7 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 3.0,
+                "points": 1.0,
                 "result": "515617"
             },
             "Barin Ruins": {
@@ -10442,7 +10442,7 @@
             },
             "Cortex Castle": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "687866"
             },
             "Crash Cove": {
@@ -10462,7 +10462,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "302871"
             },
             "Drive-Thru Danger": {
@@ -10497,7 +10497,7 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 5.0,
+                "points": 1.0,
                 "result": "453085"
             },
             "Koala Carnival": {
@@ -10507,7 +10507,7 @@
             },
             "Megamix Mania": {
                 "medal": null,
-                "points": 3.0,
+                "points": 1.0,
                 "result": "508350"
             },
             "Meteor Gorge": {
@@ -10527,7 +10527,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "429286"
             },
             "Out of Time": {
@@ -10577,7 +10577,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "417857"
             },
             "Tiger Temple": {
@@ -10587,7 +10587,7 @@
             },
             "Tiny Arena": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "363690"
             },
             "Tiny Temple": {
@@ -11442,13 +11442,13 @@
     "janusz29": {
         "league": 3,
         "medals": {
-            "bronze": 0,
+            "bronze": 1,
             "gold": 0,
-            "silver": 0
+            "silver": 3
         },
-        "total_points": 0,
-        "total_points_in_upper_league": 0,
-        "total_sum": "0",
+        "total_points": 30,
+        "total_points_in_upper_league": 23,
+        "total_sum": "1217354",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -11456,9 +11456,9 @@
                 "result": "0"
             },
             "Assembly Lane": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "378936"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -11536,9 +11536,9 @@
                 "result": "0"
             },
             "Jungle Boogie": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "262376"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -11546,9 +11546,9 @@
                 "result": "0"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "222531"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -11626,9 +11626,9 @@
                 "result": "0"
             },
             "Tiny Arena": {
-                "medal": null,
-                "points": 0,
-                "result": "0"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "353511"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -12274,13 +12274,13 @@
     "mati1212": {
         "league": 1,
         "medals": {
-            "bronze": 2,
+            "bronze": 4,
             "gold": 0,
-            "silver": 3
+            "silver": 4
         },
-        "total_points": 136,
+        "total_points": 141,
         "total_points_in_upper_league": 0,
-        "total_sum": "17065523",
+        "total_sum": "18123844",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -12288,9 +12288,9 @@
                 "result": "497948"
             },
             "Assembly Lane": {
-                "medal": null,
-                "points": 5.0,
-                "result": "561486"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "766977"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -12314,7 +12314,7 @@
             },
             "Cortex Castle": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "380910"
             },
             "Crash Cove": {
@@ -12334,7 +12334,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "537771"
             },
             "Drive-Thru Danger": {
@@ -12368,9 +12368,9 @@
                 "result": "517807"
             },
             "Jungle Boogie": {
-                "medal": null,
-                "points": 3.0,
-                "result": "338864"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "681776"
             },
             "Koala Carnival": {
                 "medal": "bronze",
@@ -12378,9 +12378,9 @@
                 "result": "521183"
             },
             "Megamix Mania": {
-                "medal": null,
-                "points": 4.0,
-                "result": "538699"
+                "medal": "bronze",
+                "points": 6.0,
+                "result": "815024"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -12399,7 +12399,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 3.0,
+                "points": 2.0,
                 "result": "453452"
             },
             "Out of Time": {
@@ -12449,7 +12449,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 2.0,
+                "points": 1.0,
                 "result": "380427"
             },
             "Tiger Temple": {
@@ -12459,8 +12459,8 @@
             },
             "Tiny Arena": {
                 "medal": null,
-                "points": 3.0,
-                "result": "466131"
+                "points": 4.0,
+                "result": "699724"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -12482,13 +12482,13 @@
     "myjniak": {
         "league": 1,
         "medals": {
-            "bronze": 9,
-            "gold": 2,
-            "silver": 4
+            "bronze": 8,
+            "gold": 1,
+            "silver": 6
         },
-        "total_points": 191,
+        "total_points": 193,
         "total_points_in_upper_league": 0,
-        "total_sum": "22829591",
+        "total_sum": "23497691",
         "tracks": {
             "Android Alley": {
                 "medal": null,
@@ -12496,9 +12496,9 @@
                 "result": "477274"
             },
             "Assembly Lane": {
-                "medal": "bronze",
-                "points": 6.0,
-                "result": "585048"
+                "medal": "silver",
+                "points": 8.0,
+                "result": "790002"
             },
             "Barin Ruins": {
                 "medal": "silver",
@@ -12577,8 +12577,8 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 2.0,
-                "result": "224988"
+                "points": 4.0,
+                "result": "610457"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -12586,8 +12586,8 @@
                 "result": "242585"
             },
             "Megamix Mania": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "815060"
             },
             "Meteor Gorge": {
@@ -12668,7 +12668,7 @@
             "Tiny Arena": {
                 "medal": "bronze",
                 "points": 6.0,
-                "result": "652634"
+                "result": "730311"
             },
             "Tiny Temple": {
                 "medal": null,
@@ -13106,12 +13106,12 @@
     "platko90": {
         "league": 3,
         "medals": {
-            "bronze": 0,
+            "bronze": 1,
             "gold": 3,
-            "silver": 1
+            "silver": 0
         },
-        "total_points": 38,
-        "total_points_in_upper_league": 36,
+        "total_points": 36,
+        "total_points_in_upper_league": 35,
         "total_sum": "1679000",
         "tracks": {
             "Android Alley": {
@@ -13120,8 +13120,8 @@
                 "result": "0"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "378200"
             },
             "Barin Ruins": {
@@ -13315,10 +13315,10 @@
         "league": 1,
         "medals": {
             "bronze": 4,
-            "gold": 32,
+            "gold": 30,
             "silver": 2
         },
-        "total_points": 365,
+        "total_points": 355,
         "total_points_in_upper_league": 0,
         "total_sum": "33362558",
         "tracks": {
@@ -13408,8 +13408,8 @@
                 "result": "736294"
             },
             "Jungle Boogie": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "671188"
             },
             "Koala Carnival": {
@@ -13418,8 +13418,8 @@
                 "result": "569877"
             },
             "Megamix Mania": {
-                "medal": "silver",
-                "points": 8.0,
+                "medal": null,
+                "points": 5.0,
                 "result": "741529"
             },
             "Meteor Gorge": {
@@ -13498,8 +13498,8 @@
                 "result": "382163"
             },
             "Tiny Arena": {
-                "medal": "gold",
-                "points": 10.0,
+                "medal": "silver",
+                "points": 8.0,
                 "result": "753777"
             },
             "Tiny Temple": {
@@ -13730,13 +13730,13 @@
     "przemekratchet89": {
         "league": 1,
         "medals": {
-            "bronze": 5,
-            "gold": 5,
-            "silver": 28
+            "bronze": 4,
+            "gold": 7,
+            "silver": 25
         },
-        "total_points": 309,
+        "total_points": 308,
         "total_points_in_upper_league": 0,
-        "total_sum": "30000903",
+        "total_sum": "30216529",
         "tracks": {
             "Android Alley": {
                 "medal": "silver",
@@ -13744,9 +13744,9 @@
                 "result": "578715"
             },
             "Assembly Lane": {
-                "medal": "silver",
-                "points": 8.0,
-                "result": "745635"
+                "medal": null,
+                "points": 4.0,
+                "result": "748181"
             },
             "Barin Ruins": {
                 "medal": "bronze",
@@ -13824,9 +13824,9 @@
                 "result": "671741"
             },
             "Jungle Boogie": {
-                "medal": "silver",
-                "points": 8.0,
-                "result": "612097"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "690814"
             },
             "Koala Carnival": {
                 "medal": "silver",
@@ -13834,9 +13834,9 @@
                 "result": "564204"
             },
             "Megamix Mania": {
-                "medal": "bronze",
-                "points": 6.0,
-                "result": "707949"
+                "medal": "gold",
+                "points": 10.0,
+                "result": "823702"
             },
             "Meteor Gorge": {
                 "medal": "silver",
@@ -13914,9 +13914,9 @@
                 "result": "392925"
             },
             "Tiny Arena": {
-                "medal": "silver",
-                "points": 8.0,
-                "result": "696766"
+                "medal": null,
+                "points": 5.0,
+                "result": "715376"
             },
             "Tiny Temple": {
                 "medal": "silver",
@@ -13938,11 +13938,11 @@
     "siarkowy7": {
         "league": 2,
         "medals": {
-            "bronze": 1,
+            "bronze": 2,
             "gold": 13,
             "silver": 14
         },
-        "total_points": 270,
+        "total_points": 274,
         "total_points_in_upper_league": 32,
         "total_sum": "7415434",
         "tracks": {
@@ -13978,7 +13978,7 @@
             },
             "Cortex Castle": {
                 "medal": null,
-                "points": 4.0,
+                "points": 5.0,
                 "result": "211306"
             },
             "Crash Cove": {
@@ -13998,7 +13998,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 4.0,
+                "points": 5.0,
                 "result": "155379"
             },
             "Drive-Thru Danger": {
@@ -14063,7 +14063,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 4.0,
+                "points": 5.0,
                 "result": "166576"
             },
             "Out of Time": {
@@ -14112,8 +14112,8 @@
                 "result": "288476"
             },
             "Thunder Struck": {
-                "medal": null,
-                "points": 5.0,
+                "medal": "bronze",
+                "points": 6.0,
                 "result": "256111"
             },
             "Tiger Temple": {
@@ -14150,9 +14150,9 @@
             "gold": 0,
             "silver": 1
         },
-        "total_points": 168,
+        "total_points": 161,
         "total_points_in_upper_league": 0,
-        "total_sum": "21865301",
+        "total_sum": "22395778",
         "tracks": {
             "Android Alley": {
                 "medal": "bronze",
@@ -14161,8 +14161,8 @@
             },
             "Assembly Lane": {
                 "medal": null,
-                "points": 4.0,
-                "result": "538627"
+                "points": 3.0,
+                "result": "710579"
             },
             "Barin Ruins": {
                 "medal": null,
@@ -14206,7 +14206,7 @@
             },
             "Dragon Mines": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "704259"
             },
             "Drive-Thru Danger": {
@@ -14241,8 +14241,8 @@
             },
             "Jungle Boogie": {
                 "medal": null,
-                "points": 4.0,
-                "result": "443294"
+                "points": 2.0,
+                "result": "584647"
             },
             "Koala Carnival": {
                 "medal": null,
@@ -14252,7 +14252,7 @@
             "Megamix Mania": {
                 "medal": null,
                 "points": 2.0,
-                "result": "497769"
+                "result": "544731"
             },
             "Meteor Gorge": {
                 "medal": null,
@@ -14271,7 +14271,7 @@
             },
             "Nina's Nightmare": {
                 "medal": null,
-                "points": 5.0,
+                "points": 4.0,
                 "result": "497785"
             },
             "Out of Time": {
@@ -14321,7 +14321,7 @@
             },
             "Thunder Struck": {
                 "medal": null,
-                "points": 4.0,
+                "points": 3.0,
                 "result": "716642"
             },
             "Tiger Temple": {
@@ -14331,8 +14331,8 @@
             },
             "Tiny Arena": {
                 "medal": null,
-                "points": 4.0,
-                "result": "501411"
+                "points": 3.0,
+                "result": "671621"
             },
             "Tiny Temple": {
                 "medal": "bronze",
